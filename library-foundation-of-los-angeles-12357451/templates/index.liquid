@@ -1,0 +1,50 @@
+
+<div id="store-slider" class="royalslider rsMinW">
+  <div class="slide" style="background-image:url('{{ 'fakeimage.jpg' | asset_url }}');">
+    <div class="row">
+      <div class="desktop-12">
+        <div class="row">
+          <div class="desktop-6 text-center">
+            <a href="#">
+              <span>Tote Bags</span>
+              <h3>In stock now at the Library Store</h3>
+              <span class="button">Check Them Out</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="slide" style="background-image:url('{{ 'fakeimage.jpg' | asset_url }}');">
+    <div class="row">
+      <div class="desktop-12">
+        <div class="row">
+          <div class="desktop-6 text-center">
+            <a href="#">
+              <span>Tote Bags</span>
+              <h3>In stock now at the Library Store</h3>
+              <span class="button">Check Them Out</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="store-intro" class="row">
+  <div class="desktop-6 tablet-6 mobile-3 centered">
+    <p>All sales from The Library Store support the Los Angeles Public Library.</p>
+  </div>
+</div>
+
+<div id="store-collections">
+  <div class="row">
+    {% for collection in collections %}
+    <a href="{{ collection.url }}" class="collection-item desktop-3 tablet-3 mobile-3 text-center">
+      <img src="{{ collection.image.src | img_url: 'large' }}" alt="{{ collection.title }}" class="img-responsive" />
+      <h3 class="title">{{ collection.title }}</h3>
+    </a>
+    {% endfor %}
+  </div>
+</div>

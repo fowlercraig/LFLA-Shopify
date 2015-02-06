@@ -1,0 +1,13 @@
+{% include 'page-header' %}
+
+<div id="collection-content">
+  <div class="row">
+    {% for product in collection.products %}
+    {% include 'product-grid-item' %}
+    {% else %}
+    <div class="desktop-12">
+      <p>{{ 'collections.general.no_matches' | t }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

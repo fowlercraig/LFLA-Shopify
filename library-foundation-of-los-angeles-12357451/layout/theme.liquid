@@ -1,0 +1,55 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html id="splash-page" class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ page_description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="canonical" href="{{ canonical_url }}" /> 
+  <link rel="shortcut icon" href="{{ 'favicon.png' | asset_url }}" type="image/png" />
+  {% include 'fb-open-graph-tags' %}
+  {% include 'twitter-card' %}
+  {{ 'main.min.css' | asset_url | stylesheet_tag }}
+  {{ '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' | script_tag }}
+  {{ 'option_selection.js' | asset_url | script_tag }}
+  {{ 'api.jquery.js' | shopify_asset_url | script_tag }}
+  {% if template contains 'customers' %}
+  {{ 'shopify_common.js' | shopify_asset_url | script_tag }}
+  {{ 'customer_area.js'  | shopify_asset_url | script_tag }}
+  {% endif %}
+  {{ content_for_header }}
+</head>
+
+<body class="gridlock">
+  
+  <div id="wrapper">
+      
+    <section id="content"><div>
+    {{ content_for_layout }}
+    
+    </div></section><!-- Content -->
+    
+  </div><!-- Wrapper -->
+
+  {{ 'timber.js' | asset_url | script_tag }}
+  {{ 'main.min.js' | asset_url | script_tag }}
+  {{ 'fastclick.min.js' | asset_url | script_tag }}
+  
+  {% include 'photoswipe' %}
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35986901-15', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+
+</body>
+
+</html>

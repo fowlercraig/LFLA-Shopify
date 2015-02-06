@@ -1,0 +1,26 @@
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="AddToCartForm">
+
+  <span id="ProductPrice" class="h2{% if product.compare_at_price > product.price %} on-sale{% endif %}" itemprop="price">
+    {{ product.price | money }}
+  </span>
+
+  <hr>
+
+  {% if product.compare_at_price > product.price %}
+  <p id="ComparePrice">{{ 'products.product.compare_at' | t }} {{ product.compare_at_price_max | money }}</p>
+  {% endif %}
+
+  <select name="id" id="productSelect" class="product-single__variants">
+    {% for variant in product.variants %}
+    {% if variant.available %}
+    <option {% if variant == product.selected_or_first_available_variant %} selected="selected" {% endif %} value="{{ variant.id }}">{{ variant.title }} -{{ variant.price | money_with_currency }}</option>
+    {% else %}
+    <option disabled="disabled">{{ variant.title }} - {{ 'products.product.sold_out' | t }}</option>
+    {% endif %}
+    {% endfor %}
+  </select>
+
+  <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>
+  <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
+  <button type="submit" name="add" id="AddToCart" class="button"><span id="AddToCartText">{{ 'products.product.add_to_cart' | t }}</span></button>
+</form>

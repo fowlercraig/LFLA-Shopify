@@ -5,13 +5,14 @@ $( document ).ready(function() {
     imageScaleMode : 'fill',
     imageScalePadding: 0,
     transitionType: 'fade',
+    controlNavigation: 'bullets',
     autoHeight: true,
     block: {
       delay: 400
     }
   });
 
-  $('.accordion').accordion(); 
+  $('#accordion ul').accordion(); 
 
   // Quick Look Modal
 

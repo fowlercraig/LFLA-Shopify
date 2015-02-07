@@ -4,8 +4,7 @@
   <meta itemprop="url" content="{{ shop.url }}{{ product.url }}">
   <meta itemprop="image" content="{{ product.featured_image.src | img_url: 'grande' }}">
 
-  <div id="breadcrumbs" class="desktop-12 tablet-6 mobile-3">{% include 'breadcrumbs' %}</div><!-- Breadcrumbs -->
-  <div id="product-images" class="desktop-6 tablet-3 mobile-3 right">
+  <div id="product-images" class="desktop-6 tablet-3 mobile-3 right contained">
 
     <div class="royalslider rsMinW">
       {% for image in product.images %}
@@ -20,10 +19,10 @@
   </div><!-- Product Images -->
   
   <div id="product-info" class="desktop-5 tablet-3 mobile-3 left">
-    <div class="meta">
+
+      <div class="cat"><a href="/">Shop</a> / {{ product.type | link_to_type }}</div>
       <h1 class="title" itemprop="name">{{ product.title }}</h1>
-      <div class="desc" itemprop="description">{{ product.description | truncatewords: 24 }}</div>
-      <a href="#readmore">Read More</a>
+      <div class="desc" itemprop="description">{{ product.description | truncatewords: 18 }}<a href="#readmore">Read More</a></div>
       <div class="pricing" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
         {% assign variant = product.selected_or_first_available_variant %}
         <meta itemprop="priceCurrency" content="{{ shop.currency }}">
@@ -31,10 +30,27 @@
         {% include 'product-purchase-form' %}
       </div>
       {% include 'product-additional' %}
-    </div>
+
   </div><!-- Product Info -->
 
 </div>
+</div>
+
+<div id="store-intro" class="row">
+  <div class="desktop-6 tablet-4 mobile-3 centered text-center">
+    <p>You might also like these products from The Library Store.</p>
+  </div>
+</div>
+
+<div id="store-collections">
+  <div class="row">
+    {% for collection in collections %}
+    <a href="{{ collection.url }}" class="collection-item desktop-4 tablet-3 mobile-3 text-center">
+      <img src="{{ collection.image.src | img_url: 'grande' }}" alt="{{ collection.title }}" class="img-responsive" />
+      <h3 class="title">{{ collection.title }}</h3>
+    </a>
+    {% endfor %}
+  </div>
 </div>
 
 <script>

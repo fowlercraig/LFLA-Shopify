@@ -4,8 +4,6 @@
     {{ product.price | money }}
   </span>
 
-  <hr>
-
   {% if product.compare_at_price > product.price %}
   <p id="ComparePrice">{{ 'products.product.compare_at' | t }} {{ product.compare_at_price_max | money }}</p>
   {% endif %}
@@ -19,8 +17,15 @@
     {% endif %}
     {% endfor %}
   </select>
-
-  <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>
-  <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
-  <button type="submit" name="add" id="AddToCart" class="button"><span id="AddToCartText">{{ 'products.product.add_to_cart' | t }}</span></button>
+  <hr>
+  <!--<label class="button hollow noborder" for="Quantity" class="quantity-selector">QTY</label>-->
+  <!--<input type="number" id="Quantity" name="quantity" value="1" min="1" class="button hollow quantity-selector">-->
+  <button type="submit" name="add" id="AddToCart" class="button hollow"><span id="AddToCartText">{{ 'products.product.add_to_cart' | t }}</span></button>
+  <span class="button hollow noborder">Share
+    <a href="#" class="social-link"><i class="ss-icon ss-social">Facebook</i></a>
+    <a href="#" class="social-link"><i class="ss-icon ss-social">Twitter</i></a>
+    <a href="https://www.pinterest.com/pin/create/button/?url={{ product.url }}&media={{ product.featured_image.src | img_url: 'grande' }}&description={{ product.title }} | {{ product.description }}" data-pin-config="above" class="social-link"></a>
+  </span>
 </form>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>

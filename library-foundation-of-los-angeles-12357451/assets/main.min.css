@@ -2453,6 +2453,32 @@ img.rsImg {
 .rounded {
   border-radius: 50%;
 }
+.button.hollow {
+  font-family: 'Gotham', serif;
+  text-rendering: optimizeLegibility;
+  height: 44px;
+  padding: 0 15px;
+  border: 3px solid #cccccc;
+  color: #666666;
+  border-radius: 0;
+  background: none;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: 300ms ease;
+}
+.button.hollow.noborder {
+  border-color: transparent;
+  padding: 0;
+  color: #666666;
+}
+.button.hollow.quantity-selector {
+  width: 46px;
+}
+.button:hover {
+  border-color: #999999;
+}
 /*---------------------------
   Transitions
 ---------------------------*/
@@ -3252,8 +3278,28 @@ html:hover [class^="ss-"] {
   color: #c65032;
   background: none;
 }
+#store-intro {
+  padding: 50px 0;
+}
+#store-intro p {
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+  font-size: 28px;
+  margin: 0;
+  line-height: 1.5;
+  color: #666666;
+}
+#store-footer p {
+  font-size: 14px;
+  margin: 0;
+}
+#store-footer hr {
+  height: 1px;
+  background: #cccccc;
+}
 #store-slider {
   width: 100%;
+  position: relative;
 }
 #store-slider .slide {
   padding: 225px 0;
@@ -3261,8 +3307,44 @@ html:hover [class^="ss-"] {
   background-size: cover;
   background-position: center center;
 }
+#store-slider .slide .cat {
+  font-family: 'Gotham', serif;
+  text-rendering: optimizeLegibility;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1c1f1d;
+}
 #store-slider .slide h3 {
-  margin: 0;
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+  font-size: 52px;
+  margin: 20px 0 25px;
+  line-height: 1.1;
+  color: #1c1f1d;
+}
+#store-slider .rsNav {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  height: 20px;
+  text-align: center;
+  z-index: 30;
+}
+#store-slider .rsNav .rsNavItem {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  border-radius: 50%;
+  border: 2px solid #cccccc;
+  transition: 300ms ease;
+  cursor: pointer;
+}
+#store-slider .rsNav .rsNavItem.rsNavSelected {
+  border: 2px solid #1c1f1d;
 }
 #cart-contents .cart-item .title {
   margin-bottom: 0;
@@ -3300,6 +3382,67 @@ html:hover [class^="ss-"] {
     display: none;
   }
 }
+#product {
+  background: #f8f8f8;
+}
+#product #product-info {
+  margin-top: 3.125%;
+}
+#product .desc p {
+  margin: 8px 0;
+}
+#product hr {
+  background: transparent;
+}
+#product .cat {
+  font-family: 'Gotham', serif;
+  text-rendering: optimizeLegibility;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #666666;
+}
+#product .cat a {
+  color: inherit;
+}
+#product .title {
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+}
+#product .social-link {
+  font-size: 20px;
+  color: #1ca4de;
+}
+#product .social-link i {
+  display: inline-block;
+  height: 10px;
+  line-height: 15px;
+}
+#product .royalslider {
+  position: relative;
+}
+#product .royalslider .rsNav {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  height: 20px;
+  text-align: left;
+  z-index: 30;
+}
+#product .royalslider .rsNav .rsNavItem {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  border-radius: 50%;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  transition: 300ms ease;
+  cursor: pointer;
+}
+#product .royalslider .rsNav .rsNavItem.rsNavSelected {
+  border: 2px solid #1c1f1d;
+}
 .product-grid-item .product_link,
 .product-grid-item span {
   display: block;
@@ -3320,6 +3463,24 @@ html:hover [class^="ss-"] {
 }
 .product-grid-item .product_image.has-alt:hover .primary {
   opacity: 0;
+}
+.collection-item {
+  margin-bottom: 2.08333333%;
+}
+.collection-item img {
+  margin-bottom: 2.08333333%;
+}
+.collection-item .title {
+  margin: 0;
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+  font-size: 18px;
+  border-bottom: 1px solid transparent;
+  display: inline;
+  color: #666666;
+}
+.collection-item:hover .title {
+  border-color: #cccccc;
 }
 #splash-page {
   height: 100%;
@@ -3571,7 +3732,7 @@ html:hover [class^="ss-"] {
   margin: 0;
   display: block;
   width: 100%;
-  border-bottom: 2px solid #f8f8f8;
+  border-bottom: 1px solid #cccccc;
 }
 .accordion li:last-child {
   border-color: transparent;
@@ -3582,7 +3743,7 @@ html:hover [class^="ss-"] {
 .accordion li div {
   display: block;
   clear: both;
-  padding-bottom: 25px;
+  padding-bottom: 15px;
   padding-left: 25px;
 }
 .accordion li div p:first-child {

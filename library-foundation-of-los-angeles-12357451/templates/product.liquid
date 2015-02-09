@@ -34,25 +34,6 @@
   </div><!-- Product Info -->
 
 </div>
-</div>
-
-<div id="store-intro" class="row">
-  <div class="desktop-6 tablet-4 mobile-3 centered text-center">
-    <p>You might also like these products from The Library Store.</p>
-  </div>
-</div>
-
-<div id="store-collections">
-  <div class="row">
-    {% for collection in collections %}
-    <a href="{{ collection.url }}" class="collection-item desktop-4 tablet-3 mobile-3 text-center">
-      <img src="{{ collection.image.src | img_url: 'grande' }}" alt="{{ collection.title }}" class="img-responsive" />
-      <h3 class="title">{{ collection.title }}</h3>
-    </a>
-    {% endfor %}
-  </div>
-</div>
-
 <script>
   var selectCallback = function(variant, selector) {
     timber.productPage({
@@ -80,3 +61,23 @@
     {% endif %}
   });
 </script>
+
+
+</div>
+
+<div id="store-intro" class="row">
+  <div class="desktop-6 tablet-4 mobile-3 centered text-center">
+    <p>You might also like these products from The Library Store.</p>
+  </div>
+</div>
+
+<div id="store-collections">
+  <div class="row">
+    {% for collection in collections %}
+    <a href="{{ collection.url }}" class="collection-item desktop-4 tablet-3 mobile-3 text-center">
+      <img src="{{ collection.image.src | img_url: 'grande' }}" alt="{{ collection.title }}" class="img-responsive" />
+      <h3 class="title">{{ collection.title }}</h3>
+    </a>
+    {% endfor %}
+  </div>
+</div>

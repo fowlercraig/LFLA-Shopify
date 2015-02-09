@@ -1,7 +1,12 @@
+
+{% comment %}
 {% include 'page-header' %}
+{% endcomment %}
 
 <div id="collection-content">
   <div class="row">
+    {% paginate collection.products by 6 %}
+
     {% for product in collection.products %}
     {% include 'product-grid-item' %}
     {% else %}
@@ -9,5 +14,15 @@
       <p>{{ 'collections.general.no_matches' | t }}</p>
     </div>
     {% endfor %}
+    
+    {% if paginate.pages > 1 %}
+      <hr>
+
+      <div class="text-center desktop-12">
+        {% include 'pagination' %}
+      </div>
+    {% endif %}
+
+    {% endpaginate %}
   </div>
 </div>

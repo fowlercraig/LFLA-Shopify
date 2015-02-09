@@ -1,23 +1,30 @@
 $( document ).ready(function() {
 
-  $(".royalslider").royalSlider({
-    keyboardNavEnabled: true,
-    imageScaleMode : 'fill',
-    imageScalePadding: 0,
-    transitionType: 'fade',
-    controlNavigation: 'bullets',
-    autoHeight: true,
-    block: {
-      delay: 400
-    }
-  });
+  function scripts(){
 
-  $('#accordion ul').accordion(); 
+    $(".royalslider").royalSlider({
+      keyboardNavEnabled: true,
+      imageScaleMode : 'fill',
+      imageScalePadding: 0,
+      transitionType: 'fade',
+      controlNavigation: 'bullets',
+      autoHeight: true,
+      block: {
+        delay: 400
+      }
+    });
+
+    $('#accordion ul').accordion(); 
+
+  }
+
+  scripts();
 
   // Quick Look Modal
 
   $('.quicklook').magnificPopup({
     type: 'ajax',
+    mainClass: 'quicklook-modal gridlock-fluid',
     ajax: {
       settings: null,
       cursor: 'mfp-ajax-cur',
@@ -25,11 +32,12 @@ $( document ).ready(function() {
     },
     callbacks: {
       parseAjax: function(mfpResponse) {
-        mfpResponse.data = $(mfpResponse.data).find('#product-info');
+        mfpResponse.data = $(mfpResponse.data).find('#product');
         console.log('Ajax content loaded:', mfpResponse);
       },
       ajaxContentAdded: function() {
         console.log(this.content);
+        scripts();
       },
     }
   });

@@ -6423,6 +6423,124 @@ html:hover [class^="ss-"] {
     display: none;
   }
 }
+.page-header {
+  background-color: #f8f8f8;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 400px;
+}
+.page-header:hover:after {
+  opacity: 1;
+}
+.page-header > div {
+  z-index: 9;
+  position: relative;
+}
+.page-header h1 {
+  color: #ffffff;
+}
+.page-header h1.has-sub {
+  margin-bottom: 0;
+  line-height: 1;
+}
+.page-header .page-header-subtitle {
+  font-family: 'Caslon', serif;
+  text-rendering: optimizeLegibility;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+.page-header ul.parent-links {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.page-header ul.parent-links li {
+  display: inline-block;
+}
+.page-header ul.parent-links li:before {
+  display: none;
+}
+.page-header ul.parent-links li a {
+  color: #ffffff;
+  display: block;
+  padding-right: 20px;
+}
+.page-header.event .parent-links li a {
+  color: #e2438c;
+}
+.page-header.minimal {
+  padding-top: 175px;
+  background: #008bbe;
+}
+.page-header.minimal:after {
+  opacity: .125;
+}
+.page-header.minimal .page-header-title {
+  font-size: 3em;
+}
+.simple-header {
+  background-color: #008bbe;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+}
+.simple-header:hover:after {
+  opacity: 1;
+}
+.simple-header > div {
+  z-index: 9;
+  position: relative;
+}
+.simple-header p {
+  color: rgba(255, 255, 255, 0.75);
+}
+.simple-header h1 {
+  color: #ffffff;
+  font-size: 4em;
+}
+.simple-header h1.has-sub {
+  margin-bottom: 0;
+  line-height: 1;
+}
+.simple-header .page-header-subtitle {
+  font-family: 'Caslon', serif;
+  text-rendering: optimizeLegibility;
+  color: #ffffff;
+  margin: 0;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+.simple-header ul.parent-links {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.simple-header ul.parent-links li {
+  display: inline-block;
+}
+.simple-header ul.parent-links li:before {
+  display: none;
+}
+.simple-header ul.parent-links li a {
+  color: #ffffff;
+  display: block;
+  padding-right: 20px;
+}
+.simple-header.event .parent-links li a {
+  color: #e2438c;
+}
+.simple-header.minimal {
+  padding-top: 175px;
+  background: #008bbe;
+}
+.simple-header.minimal:after {
+  opacity: .125;
+}
+.simple-header.minimal .page-header-title {
+  font-size: 3em;
+}
 #product {
   background: #f8f8f8;
 }

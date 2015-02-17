@@ -1,6 +1,14 @@
 {% assign h1Class = "page-header-title" %}
 
-<div class="page-header">
+{% if template == "cart" %}
+   {% assign headerClass = "simple-header" %}
+{% elsif template == "404" %}
+   {% assign headerClass = "simple-header" %}
+{% else %}
+   {% assign headerClass = "page-header" %}
+{% endif %}
+
+<div class="{{ headerClass }}">
   <div class="row">
     <div class="desktop-12">
 
@@ -8,12 +16,17 @@
       <h1 class="{{ h1Class }}">{{ 'cart.general.title' | t }}</h1>
 
       {% elsif template contains 'collection' and collection.handle %}
+
       {% include 'breadcrumbs' %}
       <h1 class="{{ h1Class }}">{{ collection.title }}</h1>
       {{ collection.description }}
 
       {% elsif template == 'blog' %}
       <h1 class="{{ h1Class }}">{{ blog.title }}</h1>
+
+      {% elsif template == '404' %}
+      <h1 class="{{ h1Class }}">Page not found</h1>
+      <p>Sorry, we couldn't find this page.</p>
 
       {% elsif template contains 'page' %}
       <h1 class="{{ h1Class }}">{{ page.title }}</h1>
@@ -23,3 +36,4 @@
     </div>
   </div>
 </div>
+

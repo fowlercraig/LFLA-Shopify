@@ -20,7 +20,9 @@
   
   <div id="product-info" class="desktop-5 tablet-3 mobile-3 left">
 
-      <div class="cat"><a href="/">Shop</a> / {{ product.type | link_to_type }}</div>
+
+
+      <div class="cat"><a href="/">Shop</a> / {% for collection in product.collections %}{{ collection.title }}{% endfor %}</div>
       <h1 class="title" itemprop="name">{{ product.title }}</h1>
       <div class="desc" itemprop="description">{{ product.description | truncatewords: 18 }}<a href="#readmore">Read More</a></div>
       <div class="pricing" itemprop="offers" itemscope itemtype="http://schema.org/Offer">

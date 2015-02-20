@@ -27,7 +27,9 @@
 					</div>
 					<div class="desktop-8 tablet-4 mobile-2">
 						<h3 class="title"><a href="{{ item.url }}">{{ item.product.title }}</a></h3>
+						{% if item.variants.first.title != 'Default Title' %}
 						<small>{{ item.variant.title }}</small>
+						{% endif %}
 						<p>{{ item.vendor }}</p>
 						<a href="/cart/change?line={{ forloop.index }}&amp;quantity=0" class="cart__remove" data-id="{{ item.id }}">
 							<small>{{ 'cart.general.remove' | t }}</small>
@@ -64,7 +66,8 @@
 			</div>
 			{% else %}
 			<div class="desktop-6 tablet-3 mobile-3">
-				&nbsp;
+				<label for="CartSpecialInstructions">{{ 'cart.general.note' | t }}</label>
+				<textarea name="note" class="input-full" id="CartSpecialInstructions">{{ cart.note }}</textarea>
 			</div>
 			{% endif %}
 			<div class="desktop-6 tablet-3 mobile-3 text-right">

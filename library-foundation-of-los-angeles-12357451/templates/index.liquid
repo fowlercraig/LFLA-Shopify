@@ -1,35 +1,32 @@
-
 <div id="store-slider" class="royalslider rsMinW">
-  <div class="slide" style="background-image:url('{{ 'fakeimage.jpg' | asset_url }}');">
-    <div class="row">
-      <div class="desktop-12">
-        <div class="row">
-          <div class="desktop-6 text-center">
-            <a href="#">
-              <span class="cat">New Books</span>
-              <h3>Just launched, brand new books in the stuff.</h3>
-              <span class="button hollow">Check Them Out</span>
-            </a>
-          </div>
+
+{% for i in (1..6) %}
+{% capture display_product %}show_homeslide_item_{{ i }}{% endcapture %}
+{% capture image %}homeslide-item-{{ i }}.jpg{% endcapture %}
+{% capture link %}homeslide_item_{{ i }}_link{% endcapture %}
+{% capture alt %}homeslide_item_{{ i }}_alt{% endcapture %}
+{% capture sub %}homeslide_item_{{ i }}_sub{% endcapture %}
+{% if settings[display_product] %}
+
+<div class="slide" style="background-image:url('{{ image | asset_url }}');">
+  <div class="row">
+    <div class="desktop-12">
+      <div class="row">
+        <div class="desktop-6 text-center">
+          <a href="{{ settings[link] }}">
+            <span class="cat">{{ settings[sub] }}</span>
+            <h3>{{ settings[alt] }}</h3>
+            <span class="button hollow">View More</span>
+          </a>
         </div>
       </div>
     </div>
   </div>
-  <div class="slide" style="background-image:url('{{ 'fakeimage.jpg' | asset_url }}');">
-    <div class="row">
-      <div class="desktop-12">
-        <div class="row">
-          <div class="desktop-6 text-center">
-            <a href="#">
-              <span class="cat">Tote Bags</span>
-              <h3>In stock now at the Library Store</h3>
-              <span class="button hollow">Check Them Out</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+</div>
+
+{% endif %}             
+{% endfor %}
+
 </div>
 
 <div id="store-intro" class="row">

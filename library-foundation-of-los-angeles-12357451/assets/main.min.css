@@ -6404,6 +6404,15 @@ html:hover [class^="ss-"] {
   background: #f8f8f8;
   height: 1px;
 }
+#CartSpecialInstructions {
+  clear: both;
+  display: block;
+  background: #f8f8f8;
+  width: 100%;
+  padding: 15px;
+  min-height: 150px;
+  margin-top: 10px;
+}
 #cart-final .button {
   margin-right: 0;
   margin-left: 1.04166667%;

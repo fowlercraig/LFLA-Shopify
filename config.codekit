@@ -361,15 +361,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/library-foundation-of-los-angeles-12357451\/assets\/main.min.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/library-foundation-of-los-angeles-12357451\/assets\/main.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/library-foundation-of-los-angeles-12357451\/assets\/main.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -621,15 +612,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/library-foundation-of-los-angeles-12357451\/config\/settings.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/library-foundation-of-los-angeles-12357451\/config\/settings.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/library-foundation-of-los-angeles-12357451\/css\/ss-gizmo.css": {
 		"fileType": 16,
@@ -3737,26 +3719,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/less\/components\/_page--cart-header.less",
 		"outputAbbreviatedPath": "\/src\/less\/css\/_page--cart-header.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
-	"\/src\/less\/components\/_page--cart.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/less\/components\/_page--cart.less",
-		"outputAbbreviatedPath": "\/src\/less\/css\/_page--cart.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

@@ -46,63 +46,15 @@
 </fieldset>
 
 <fieldset>
-  <legend>404 Images</legend>
-
+  <legend>Footer Info</legend>
   <table class="standard-table">
-    <tr>
-      <td> </td>
-      <td>Show?</td>
-      <td>Image</td>
-      <td>Link to</td>
-      <td>ALT</td>
-    </tr>
-
     <tr class="odd"><!-- CAROUSEL ITEM 1 -->
-      <td><label for="show_carousel_item_4">Slide #1</label></td>
-      <td><input type="checkbox" id="show_carousel_item_1" name="show_carousel_item_1" value="1" checked="checked" /></td>
-      <td><input type="file" id="carousel_item_1_image" name="carousel-item-1.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_1_link" name="carousel_item_1_link" /></td>
-      <td><input type="text" id="carousel_item_1_alt" name="carousel_item_1_alt" /></td>
+      <td><label for="show_social_item_4">Left Content</label></td>
+      <td><textarea cols="60" rows="5" id="left_content" name="left_content" /></td>
     </tr>
-
     <tr class="even"><!-- CAROUSEL ITEM 2 -->
-      <td><label for="show_carousel_item_4">Slide #2</label></td>
-      <td><input type="checkbox" id="show_carousel_item_2" name="show_carousel_item_2" value="1" checked="checked" /></td>
-      <td><input type="file" id="carousel_item_2_image" name="carousel-item-2.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_2_link" name="carousel_item_2_link" /></td>
-      <td><input type="text" id="carousel_item_2_alt" name="carousel_item_2_alt" /></td>
-    </tr>
-
-    <tr class="odd"><!-- CAROUSEL ITEM 3 -->
-      <td><label for="show_carousel_item_4">Slide #3</label></td>
-      <td><input type="checkbox" id="show_carousel_item_3" name="show_carousel_item_3" value="1" checked="checked" /></td>
-      <td><input type="file" id="carousel_item_3_image" name="carousel-item-3.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_3_link" name="carousel_item_3_link" /></td>
-      <td><input type="text" id="carousel_item_3_alt" name="carousel_item_3_alt" /></td>
-    </tr>
-
-    <tr class="even"><!-- CAROUSEL ITEM 4 -->
-      <td><label for="show_carousel_item_4">Slide #4</label></td>
-      <td><input type="checkbox" id="show_carousel_item_4" name="show_carousel_item_4" value="0" /></td>
-      <td><input type="file" id="carousel_item_4_image" name="carousel-item-4.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_4_link" name="carousel_item_4_link" /></td>
-      <td><input type="text" id="carousel_item_4_alt" name="carousel_item_4_alt" /></td>
-    </tr>
-
-    <tr class="odd"><!-- CAROUSEL ITEM 5 -->
-      <td><label for="show_carousel_item_4">Slide #5</label></td>
-      <td><input type="checkbox" id="show_carousel_item_5" name="show_carousel_item_5" value="0" /></td>
-      <td><input type="file" id="carousel_item_5_image" name="carousel-item-5.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_5_link" name="carousel_item_5_link" /></td>
-      <td><input type="text" id="carousel_item_5_alt" name="carousel_item_5_alt" /></td>
-    </tr>
-
-    <tr class="even"><!-- CAROUSEL ITEM 6 -->
-      <td><label for="show_carousel_item_4">Slide #6</label></td>
-      <td><input type="checkbox" id="show_carousel_item_6" name="show_carousel_item_6" value="0" /></td>
-      <td><input type="file" id="carousel_item_6_image" name="carousel-item-6.jpg" data-max-width="1600" /></td>
-      <td><input type="text" id="carousel_item_6_link" name="carousel_item_6_link" /></td>
-      <td><input type="text" id="carousel_item_6_alt" name="carousel_item_6_alt" /></td>
+      <td><label for="show_social_item_4">Right Content</label></td>
+      <td><textarea cols="60" rows="5" id="right_content" name="right_content" /></td>
     </tr>
   </table>
 </fieldset>
@@ -119,45 +71,79 @@
     </tr>
 
     <tr class="odd"><!-- CAROUSEL ITEM 1 -->
-      <td><label for="show_social_item_4">Social Link #1</label></td>
+      <td><label for="show_social_item_1">Social Link #1</label></td>
       <td><input type="checkbox" id="show_social_item_1" name="show_social_item_1" value="1" checked="checked" /></td>
-      <td><input type="file" id="social_item_1_image" name="social-item-1.png" data-max-width="1600" /></td>
+      <td>
+        <select name="show_social_image_1">
+          <option value="facebook" selected="selected">Facebook</option>
+          <option value="twitter">Twitter</option>
+          <option value="pinterest">Pinterest</option>
+          <option value="flickr">Flickr</option>
+          <option value="instagram">Instagram</option>
+        </select>
+      </td>
       <td><input type="text" id="social_item_1_link" name="social_item_1_link" /></td>
     </tr>
 
     <tr class="even"><!-- CAROUSEL ITEM 2 -->
       <td><label for="show_social_item_4">Social Link #2</label></td>
       <td><input type="checkbox" id="show_social_item_2" name="show_social_item_2" value="1" checked="checked" /></td>
-      <td><input type="file" id="social_item_2_image" name="social-item-2.png" data-max-width="1600" /></td>
+      <td>
+        <select name="show_social_image_2">
+          <option value="facebook" selected="selected">Facebook</option>
+          <option value="twitter">Twitter</option>
+          <option value="pinterest">Pinterest</option>
+          <option value="flickr">Flickr</option>
+          <option value="instagram">Instagram</option>
+        </select>
+      </td>
       <td><input type="text" id="social_item_2_link" name="social_item_2_link" /></td>
     </tr>
 
     <tr class="odd"><!-- CAROUSEL ITEM 3 -->
       <td><label for="show_social_item_4">Social Link #3</label></td>
       <td><input type="checkbox" id="show_social_item_3" name="show_social_item_3" value="1" checked="checked" /></td>
-      <td><input type="file" id="social_item_3_image" name="social-item-3.png" data-max-width="1600" /></td>
+      <td>
+        <select name="show_social_image_3">
+          <option value="facebook" selected="selected">Facebook</option>
+          <option value="twitter">Twitter</option>
+          <option value="pinterest">Pinterest</option>
+          <option value="flickr">Flickr</option>
+          <option value="instagram">Instagram</option>
+        </select>
+      </td>
       <td><input type="text" id="social_item_3_link" name="social_item_3_link" /></td>
     </tr>
 
     <tr class="even"><!-- CAROUSEL ITEM 4 -->
       <td><label for="show_social_item_4">Social Link #4</label></td>
       <td><input type="checkbox" id="show_social_item_4" name="show_social_item_4" value="0" /></td>
-      <td><input type="file" id="social_item_4_image" name="social-item-4.png" data-max-width="1600" /></td>
+      <td>
+        <select name="show_social_image_4">
+          <option value="facebook" selected="selected">Facebook</option>
+          <option value="twitter">Twitter</option>
+          <option value="pinterest">Pinterest</option>
+          <option value="flickr">Flickr</option>
+          <option value="instagram">Instagram</option>
+        </select>
+      </td>
       <td><input type="text" id="social_item_4_link" name="social_item_4_link" /></td>
     </tr>
 
     <tr class="odd"><!-- CAROUSEL ITEM 5 -->
       <td><label for="show_social_item_4">Social Link #5</label></td>
       <td><input type="checkbox" id="show_social_item_5" name="show_social_item_5" value="0" /></td>
-      <td><input type="file" id="social_item_5_image" name="social-item-5.png" data-max-width="1600" /></td>
+      <td>
+        <select name="show_social_image_5">
+          <option value="facebook" selected="selected">Facebook</option>
+          <option value="twitter">Twitter</option>
+          <option value="pinterest">Pinterest</option>
+          <option value="flickr">Flickr</option>
+          <option value="instagram">Instagram</option>
+        </select>
+      </td>
       <td><input type="text" id="social_item_5_link" name="social_item_5_link" /></td>
     </tr>
 
-    <tr class="even"><!-- CAROUSEL ITEM 6 -->
-      <td><label for="show_social_item_4">Social Link #6</label></td>
-      <td><input type="checkbox" id="show_social_item_6" name="show_social_item_6" value="0" /></td>
-      <td><input type="file" id="social_item_6_image" name="social-item-6.png" data-max-width="1600" /></td>
-      <td><input type="text" id="social_item_6_link" name="social_item_6_link" /></td>
-    </tr>
   </table>
 </fieldset>

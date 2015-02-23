@@ -37,17 +37,26 @@
         <hr class="desktop-12">
         <div class="desktop-6">
           <p>
-            630 West Fifth Street, Los Angeles, CA 90071 | 
-            Phone: (213) 228-7550 | 
-            <a href="#"><i class="ss-social-circle ss-icon">Facebook</i></a>
-            <a href="#"><i class="ss-social-circle ss-icon">Twitter</i></a>
+            {{ settings.right_content }}
+
+            <div class="social-icons">
+            {% for i in (1..6) %}
+            {% capture show_social %}show_social_item_{{ i }}{% endcapture %}
+            {% capture icon %}show_social_image_{{ i }}{% endcapture %}
+            {% capture link %}homeslide_item_{{ i }}_link{% endcapture %}
+            {% capture alt %}homeslide_item_{{ i }}_alt{% endcapture %}
+            {% capture sub %}homeslide_item_{{ i }}_sub{% endcapture %}
+            {% if settings[show_social] %}
+            <a href="#"><i class="ss-social-circle ss-icon">{{ settings[icon] }}</i></a>
+            {% endif %}             
+            {% endfor %}
+            </div>
+
           </p>
         </div>
         <div class="desktop-6 text-right">
           <p>
-            M-Th 10-7pm | 
-            F-Sat 10-5:30pm | 
-            Sun 1-5pm
+            {{ settings.left_content }}
           </p>
         </div>
       </div>

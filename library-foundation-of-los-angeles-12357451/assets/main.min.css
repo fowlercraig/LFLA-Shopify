@@ -6224,10 +6224,24 @@ html:hover [class^="ss-"] {
 #store-footer p {
   font-size: 14px;
   margin: 0;
+  display: inline-block;
 }
 #store-footer hr {
   height: 1px;
   background: #cccccc;
+}
+#store-footer .social-icons {
+  display: inline-block;
+}
+#store-footer .social-icons a {
+  color: #008bbe;
+  height: 11px;
+  display: block;
+  float: left;
+  margin-left: 4px;
+  font-size: 18px;
+  line-height: 18px;
+  text-decoration: none;
 }
 .pagination-custom {
   padding: 0;

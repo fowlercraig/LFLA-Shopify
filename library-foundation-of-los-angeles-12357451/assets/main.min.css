@@ -6263,6 +6263,10 @@ html:hover [class^="ss-"] {
 .pagination-custom li:before {
   display: none;
 }
+#store-intro h2 {
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+}
 .toolbar#toolbar,
 .toolbar#event-nav-bar {
   margin-bottom: 0;
@@ -6565,7 +6569,7 @@ html:hover [class^="ss-"] {
   font-size: 3em;
 }
 #product {
-  background: #f8f8f8;
+  background: #eee;
 }
 #product #product-info {
   margin-top: 3.125%;
@@ -6769,58 +6773,6 @@ html:hover [class^="ss-"] {
   height: 15px;
   margin-left: 5px;
 }
-#mc_embed_signup {
-  float: left;
-  min-width: 260px;
-  margin-left: 20px;
-}
-#mc_embed_signup #mc-embedded-subscribe {
-  display: block;
-  float: right;
-  clear: none;
-}
-#mc_embed_signup .mc-field-group {
-  width: 67%;
-  float: left;
-}
-#mc_embed_signup .mc-field-group .email {
-  width: 100%;
-  border-bottom: 1px solid #ddd;
-  font-family: "tablet-gothic-condensed", sans-serif;
-  text-transform: uppercase;
-  -webkit-font-smoothing: antialiased;
-  font-weight: 300;
-  letter-spacing: 1px;
-}
-#mc_embed_signup #mc-embedded-subscribe {
-  width: 33%;
-  display: block;
-  float: right;
-  font-family: "tablet-gothic-condensed", sans-serif;
-  text-transform: uppercase;
-  -webkit-font-smoothing: antialiased;
-  font-weight: 300;
-  letter-spacing: 1px;
-  background: none;
-}
-.mce_inline_error {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
-}
-.mce_inline_error,
-#mce-responses {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
-}
-#mce-responses {
-  background: #fff;
-}
 #splash-page {
   height: 100%;
 }
@@ -7011,4 +6963,88 @@ html:hover [class^="ss-"] {
 }
 .accordion .active .title:before {
   transform: rotate(45deg);
+}
+#signup-form {
+  padding: 25px;
+  position: relative;
+}
+#signup-form:before {
+  content: '';
+  position: absolute;
+  top: 25px;
+  bottom: 25px;
+  left: 0px;
+  width: 1px;
+  background: #dddddd;
+}
+#signup-form #mc_embed_signup {
+  height: auto;
+  float: none;
+}
+#signup-form #mc_embed_signup > div {
+  height: auto;
+}
+#signup-form .mc-field-group {
+  float: none;
+  width: 100%;
+  min-width: 100%;
+  position: relative;
+}
+#signup-form label {
+  font-family: 'Gotham';
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-rendering: optimizeLegibility;
+  font-size: 11px;
+  color: #59595b;
+  font-weight: 500;
+}
+#signup-form input#mc4wp_email,
+#signup-form #mce-EMAIL {
+  height: 34px;
+  line-height: 34px;
+  padding: 0 10px;
+  width: 75%;
+  font-family: 'Sentinel', serif;
+  text-rendering: optimizeLegibility;
+  display: inline-block;
+  box-sizing: border-box;
+  text-transform: none;
+  letter-spacing: 0px;
+  border: 1px solid #dddddd;
+}
+#signup-form .button {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 30%;
+  color: #ffffff;
+  background: #008bbe !important;
+  font-family: 'Gotham';
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-rendering: optimizeLegibility;
+  font-size: 11px;
+  font-weight: 600!important;
+  height: 34px;
+  line-height: 36px;
+  border: none;
+  float: right;
+  margin-left: -5%;
+  margin-right: 0;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 3;
+  border-radius: 2px;
+  transition: 300ms ease;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.mc4wp-alert {
+  padding: 10px 25px;
+  background: #f8f8f8;
 }

@@ -150,8 +150,34 @@
 
 	.img-responsive {
 		max-width: 100%;
+		width: 100%;
 		display: block;
 		height: auto;
+	}
+
+	.rounded {
+		border-radius: 50%;
+	}
+
+	.overlay {
+		position: absolute;
+		padding: 30px;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 10;
+		&.bottom {
+			top: auto;
+			bottom: 0;
+		}
+	}
+
+	.clearfix {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
 	}
 
 	.rounded {

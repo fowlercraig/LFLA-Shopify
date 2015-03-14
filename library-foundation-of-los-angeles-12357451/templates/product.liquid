@@ -1,12 +1,15 @@
 <div id="product" class="{{ product.handle }} entry" itemscope itemtype="http://schema.org/Product">
 <div class="row">
 
+  <div class="desktop-11 tablet-6 mobile-3 centered"><div class="row">
+
   <meta itemprop="url" content="{{ shop.url }}{{ product.url }}">
   <meta itemprop="image" content="{{ product.featured_image.src | img_url: 'grande' }}">
 
   <div id="product-images" class="desktop-6 tablet-3 mobile-3 right contained">
 
-    <div class="royalslider rsMinW">
+    <div id="product-slideshow" class="rsMinW">
+      {% if product.featured_image.size > 0 %}
       {% for image in product.images %}
       <figure itemscope itemtype="http://schema.org/ImageObject">
         <a href="{{ image.src | img_url: '2048x2048' }}" itemprop="contentUrl" data-size="2048x2048">
@@ -14,17 +17,30 @@
         </a>
       </figure>
       {% endfor %}
+      {% else %}
+      <figure itemscope itemtype="http://schema.org/ImageObject">
+        <img src="{{ 'fakeimg.jpg' | asset_url }}" alt=""  />
+      </figure>
+      {% endif %}
     </div>
 
   </div><!-- Product Images -->
   
-  <div id="product-info" class="desktop-5 tablet-3 mobile-3 left">
+  <div id="product-info" class="desktop-6 tablet-3 mobile-3 left">
 
 
 
-      <div class="cat"><a href="/">Shop</a> / {% for collection in product.collections %}{{ collection.title }}{% endfor %}</div>
+      <div class="cat"><a href="/">Shop</a> / 
+        {% for collection in product.collections %}
+        <a class="{{ collection.handle }}" href="{{ collection.url }}">
+          {{ collection.title }}<span>, </span>
+        </a>
+        {% endfor %}</div>
       <h1 class="title" itemprop="name">{{ product.title }}</h1>
-      <div class="desc" itemprop="description">{{ product.description | truncatewords: 18 }}<a href="#readmore">Read More</a></div>
+      <span id="ProductPrice" class="h2{% if product.compare_at_price > product.price %} on-sale{% endif %}" itemprop="price">
+      {{ product.price | money }}
+      </span>
+      <div class="desc" itemprop="description">{{ product.description | truncatewords: 14 }}<a href="#readmore" class="popup">Read More</a></div>
       <div class="pricing" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
         {% assign variant = product.selected_or_first_available_variant %}
         <meta itemprop="priceCurrency" content="{{ shop.currency }}">
@@ -35,7 +51,7 @@
 
   </div><!-- Product Info -->
 
-</div>
+
 <script>
   var selectCallback = function(variant, selector) {
     timber.productPage({
@@ -63,13 +79,20 @@
     {% endif %}
   });
 </script>
+  </div>
+  </div>
+</div>
+</div>
 
-
+<div id="readmore" class="mfp-hide white-popup-block modal-window zoom-anim-dialog">
+  <div class="cat"><a href="/">Shop</a> / {% for collection in product.collections %}{{ collection.title }}{% endfor %}</div>
+  <h1 class="title" itemprop="name">{{ product.title }}</h1>
+  {{ product.description }}
 </div>
 
 <div id="store-intro" class="row">
   <div class="desktop-6 tablet-4 mobile-3 centered text-center">
-    <p>You might also like these products from The Library Store.</p>
+    <p>You might also like these products from<br>The Library Store.</p>
   </div>
 </div>
 

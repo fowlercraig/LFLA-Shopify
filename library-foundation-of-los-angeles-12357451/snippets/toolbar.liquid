@@ -1,6 +1,6 @@
 <div id="store-bar" class="toolbar">
   <div class="row">
-    <div class="desktop-8 tablet-6 mobile-3">
+    <div class="max-10 desktop-10 tablet-6 mobile-3">
       <ul class="nav sf-menu">
       <li>
         <a href="/" class="title">The Library Store</a>
@@ -12,10 +12,10 @@
       {% endfor %}
       </ul>
     </div>
-    <div class="desktop-4 tablet-2 mobile-3 text-right">
+    <div class="max-2 desktop-2 tablet-2 mobile-3 text-right">
       <ul class="nav">
         <li class="cart">
-          <a href="/search" class="ss-search ss-gizmo"></a> | 
+          <a href="/search" class="search ss-search ss-gizmo"></a> | 
           <a href="/cart" id="CartToggle" class="ss-cart ss-gizmo">
             <span class="icon-fallback-text"><span class="icon icon-cart" aria-hidden="true"></span></span>
             <span id="CartCount">{{ cart.item_count }}</span>

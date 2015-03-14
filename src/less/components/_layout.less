@@ -1,6 +1,8 @@
+
+
 #store-intro {
 
-  padding: 50px 0;
+  padding: 20px 0 50px;
 
   p {
 
@@ -25,7 +27,7 @@
   hr {
 
     height: 1px;
-    background: @lighterGray;
+    background: @lightestGray;
 
   }
 
@@ -81,4 +83,74 @@
   h2 {
     .sentinel();
   }
+}
+
+.alert {
+
+  text-align: center;
+  margin: 50px 0;
+  padding: 40px;
+  background: @bgGray;
+  border-radius: 5px;
+
+  p {
+    .sentinel();
+    margin: 0;
+    font-size: 24px;
+  }
+
+}
+
+
+#search-header {
+
+  .title {
+    margin: 0;
+    .sentinel();
+  }
+
+  hr {
+    background: @lightestGray;
+    margin: 15px 0;
+    height: 1px;
+    &.top {
+      margin-top: 0;
+    }
+    &.bottom {
+      background: none;
+    }
+  }
+}
+
+
+.social-icons {
+
+  padding: 14px 0 0;
+  margin: 0;
+
+  li {
+
+    margin: 0;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    font-weight: 500;
+    margin-right: 5px;
+    .cat();
+
+    a {
+      display: block;
+    }
+
+    i {
+
+      font-size: 26px;
+      height: 30px;
+      line-height: 30px;
+      display: block;
+
+    }
+
+  }
+
 }

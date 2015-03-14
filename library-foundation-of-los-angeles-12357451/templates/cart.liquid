@@ -1,9 +1,11 @@
-{% include 'page-header' %}
+<div class="row">
+<div class="desktop-11 centered">
 
 {% if cart.item_count > 0 %}
 <form action="/cart" method="post" novalidate class="cart">
 	<header id="cart-header">
 		<div class="row">
+			<hr class="desktop-12" />
 			<div class="desktop-6 tablet-6 mobile-3">{{ 'cart.label.product' | t }}</div>
 			<div class="desktop-6 tablet-6 mobile-3">
 				<div class="row">
@@ -89,8 +91,13 @@
 <div id="cart-contents">
 	<div class="row">
 		<div class="desktop-12">
-  		<p>{{ 'cart.general.empty' | t }} {{ 'cart.general.continue_browsing_html' | t }}</p>
+			<div class="alert non-critical">
+  			<p>{{ 'cart.general.empty' | t }} {{ 'cart.general.continue_browsing_html' | t }}</p>
+  		</div>
   	</div>
   </div>
 </div>
 {% endif %}
+
+</div>
+</div>

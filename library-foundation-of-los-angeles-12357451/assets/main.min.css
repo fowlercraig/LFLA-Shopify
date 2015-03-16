@@ -7065,7 +7065,6 @@ html:hover [class^="ss-"] {
 }
 .toolbar {
   border-bottom: 2px solid #f8f8f8;
-  margin-bottom: 2.08333333%;
 }
 .toolbar#toolbar,
 .toolbar#event-nav-bar {
@@ -7166,6 +7165,9 @@ html:hover [class^="ss-"] {
 .toolbar .nav > li .sub-menu li a {
   padding: 5px 10px;
   display: block;
+}
+.index .toolbar {
+  margin-bottom: 2.08333333%;
 }
 #store-slider {
   width: 100%;

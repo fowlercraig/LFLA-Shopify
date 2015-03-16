@@ -43,7 +43,7 @@
   </script>
 </head>
 
-<body class="gridlock {{ page.handle }} {% if template == 'index' %}index{% endif %}">
+<body class="gridlock {{ page.handle }} ">
   
   <div id="wrapper">
 
@@ -55,7 +55,11 @@
     {% endif %}
 
     <section id="content"><div>
-    {{ content_for_layout }}
+      {% if template == 'list-collections' %}
+      {% include 'collection-listing' %}
+      {% else %}
+      {{ content_for_layout }}
+      {% endif %}
     
     </div></section><!-- Content -->
 
@@ -70,11 +74,11 @@
             {% for i in (1..6) %}
             {% capture show_social %}show_social_item_{{ i }}{% endcapture %}
             {% capture icon %}show_social_image_{{ i }}{% endcapture %}
-            {% capture link %}homeslide_item_{{ i }}_link{% endcapture %}
+            {% capture link %}social_item_{{ i }}_link{% endcapture %}
             {% capture alt %}homeslide_item_{{ i }}_alt{% endcapture %}
             {% capture sub %}homeslide_item_{{ i }}_sub{% endcapture %}
             {% if settings[show_social] %}
-            <a href="#"><i class="ss-social-circle ss-icon">{{ settings[icon] }}</i></a>
+            <a target="blank" href="{{ settings[link] }}"><i class="ss-social-circle ss-icon">{{ settings[icon] }}</i></a>
             {% endif %}             
             {% endfor %}
             </div>

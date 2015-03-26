@@ -7,6 +7,7 @@
       <img src="{{ collection.image.src | img_url: 'large' }}" alt="{{ collection.title }}" class="img-responsive" />
       <h3 class="title">{{ collection.title }}</h3>
     </a>
+    {% cycle 'clear-product-loop': '', '', '', '<div style="clear:both;"></div>' %}
     {% endfor %}
   </div>
 </div>

@@ -9,6 +9,11 @@ $( document ).ready(function() {
       transitionType: 'fade',
       controlNavigation: 'bullets',
       autoHeight: true,
+      autoPlay: {
+        // autoplay options go gere
+        enabled: true,
+        pauseOnHover: true
+      },
       block: {
         delay: 400
       }

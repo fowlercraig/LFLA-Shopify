@@ -68,8 +68,19 @@
 			</div>
 			{% else %}
 			<div class="desktop-6 tablet-3 mobile-3">
-				<label for="CartSpecialInstructions">{{ 'cart.general.note' | t }}</label>
+				<div id="cart-tabs" class="tabbed">
+				<menu class="tabber-menu">
+				<a href="#tab-1" class="tabber-handle">Special Instructions</a>
+				<a href="#tab-2" class="tabber-handle">Gift Wrapping</a>
+				</menu>
+				<div class="tabber-tab" id="tab-1">
+				<!--<label for="CartSpecialInstructions">{{ 'cart.general.note' | t }}</label>-->
 				<textarea name="note" class="input-full" id="CartSpecialInstructions">{{ cart.note }}</textarea>
+				</div>
+				<div class="tabber-tab" id="tab-2">
+				{% include 'gift-wrapping' %}
+				</div>
+				</div>
 			</div>
 			{% endif %}
 			<div class="desktop-6 tablet-3 mobile-3 text-right">
@@ -79,7 +90,7 @@
 				</div>
 				<p><em>{{ 'cart.general.shipping_at_checkout' | t }}</em></p>
 				<input type="submit" name="update" class="button secondary btn--secondary update-cart" value="{{ 'cart.general.update' | t }}">
-        <input type="submit" name="checkout" class="button" value="{{ 'cart.general.checkout' | t }}">
+        <input type="submit" name="checkout" class="button primary" value="{{ 'cart.general.checkout' | t }}">
         {% if additional_checkout_buttons %}
         <p>{{ content_for_additional_checkout_buttons }}</p>
         {% endif %}

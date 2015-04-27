@@ -7575,6 +7575,22 @@ html:hover [class^="ss-"] {
     text-align: center;
   }
 }
+#product-slideshow {
+  position: relative;
+}
+#product-slideshow .rsThumbs {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  padding: 10px;
+}
+#product-slideshow .rsThumbs .rsThumbsContainer {
+  float: right;
+}
+#product-slideshow .rsOverflow {
+  height: 100%!important;
+  bottom: 0;
+}
 .product.item {
   margin-bottom: 2.08333333%;
 }

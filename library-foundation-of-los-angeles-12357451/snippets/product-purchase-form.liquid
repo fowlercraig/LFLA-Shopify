@@ -1,4 +1,4 @@
-<form action="/cart/add" method="post" enctype="multipart/form-data" id="AddToCartForm"> 
+<form action="/cart/add" method="post" enctype="multipart/form-data" id="AddToCartForm">
 
   {% if product.compare_at_price > product.price %}
   <p id="ComparePrice">{{ 'products.product.compare_at' | t }} {{ product.compare_at_price_max | money }}</p>
@@ -13,7 +13,7 @@
     {% endif %}
     {% endfor %}
   </select>
-  <hr>
+  <hr class="invisible">
   <!--<label class="button hollow noborder" for="Quantity" class="quantity-selector">QTY</label>-->
   <!--<input type="number" id="Quantity" name="quantity" value="1" min="1" class="button hollow quantity-selector">-->
   <button type="submit" name="add" id="AddToCart" class="button hollow"><span id="AddToCartText">{{ 'products.product.add_to_cart' | t }}</span></button>

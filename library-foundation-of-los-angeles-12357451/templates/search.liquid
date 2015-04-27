@@ -14,7 +14,7 @@
     </div>
   </div>
   {% else %}
-  
+
   {% if search.results == empty %}
   <div class="row">
     <div class="desktop-12 expanded-message">
@@ -29,7 +29,7 @@
     </div>
   </div>
   {% else %}
-  
+
   <div id="search-header" class="row">
     <div class="desktop-12 tablet-6 mobile-3">
       <hr class="divider top">
@@ -39,7 +39,7 @@
   </div>
 
   <!-- Begin results -->
-  
+
 
   <div id="store-collections">
     <div class="row">
@@ -52,16 +52,17 @@
         {% endif %}
         <h3 class="title">{{ item.title }}</h3>
       </a>
+      {% cycle 'clear-product-loop': '', '', '', '<div style="clear:both;"></div>' %}
       {% endfor %}
     </div>
   </div>
 
-  
+
   {% endif %}
   {% endif %}
 
   {% endpaginate %}
-  
+
   {% else %}
 
   <div class="row">
@@ -74,5 +75,5 @@
     </div>
   </div>
 
-  {% endif %}	
+  {% endif %}
 </div> <!-- /#search -->

@@ -19,12 +19,21 @@ $( document ).ready(function() {
       }
     });
 
+    var win = $(window);
+
     $("#product-slideshow").royalSlider({
       keyboardNavEnabled: true,
       imageScaleMode : 'fill',
       imageScalePadding: 0,
       transitionType: 'fade',
-      controlNavigation: 'bullets',
+      controlNavigation: 'thumbnails',
+      thumbs: {
+        orientation: 'horizontal',
+        navigation: false,
+        fitInViewport: false,
+        spacing: 5,
+        autoCenter: false
+      },
       autoScaleSlider: true,
       autoScaleSliderWidth: 800,
       autoScaleSliderHeight: 800,
@@ -48,19 +57,19 @@ $( document ).ready(function() {
     });
     }
 
-    
+
 
     $window = $(window);
 
   $('.page-header, .simple-header, .simple-header .inner').each(function(){
     var $bgobj = $(this);
     $(window).scroll(function() {
-      var yPos = ($window.scrollTop() / $bgobj.data('speed')); 
+      var yPos = ($window.scrollTop() / $bgobj.data('speed'));
       var coords = '50% '+ yPos + 'px';
       $bgobj.css({ backgroundPosition: coords });
     });
 
-  }); 
+  });
 
     $('.toolbar .search').click(function(event){
       event.preventDefault();
@@ -104,7 +113,7 @@ $( document ).ready(function() {
 
     hoverEffect();
 
-    //$('#accordion ul').accordion(); 
+    //$('#accordion ul').accordion();
 
     $('.popup').magnificPopup({
       type: 'inline',
@@ -116,7 +125,7 @@ $( document ).ready(function() {
 
       closeBtnInside: true,
       preloader: false,
-      
+
       midClick: true,
       removalDelay: 300,
       mainClass: 'my-mfp-zoom-in'

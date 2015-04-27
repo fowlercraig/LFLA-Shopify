@@ -86,13 +86,13 @@
         width: 10px;
         margin: 0 2px;
         border-radius: 50%;
-        border: 2px solid @black25; 
+        border: 2px solid @black25;
         transition: 300ms ease;
         cursor: pointer;
 
         &.rsNavSelected {
 
-          border: 2px solid @black; 
+          border: 2px solid @black;
 
         }
 
@@ -176,4 +176,29 @@
     position: relative;
     text-align: center;
   }
+}
+
+#product-slideshow {
+
+  position: relative;
+
+  .rsThumbs {
+
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 10px;
+
+    .rsThumbsContainer {
+      float: right;
+    }
+
+  }
+
+  .rsOverflow {
+    height: 100%!important;
+    bottom: 0;
+  }
+
+
 }

@@ -2,8 +2,8 @@
 
   <div class="info-wrapper">
     <div class="row">
-      <div id="product-info" class="desktop-6 tablet-3 mobile-3 left">
-        <div class="cat"><a href="/">Shop</a> / 
+      <div id="product-info" class="desktop-6 tablet-6 mobile-3">
+        <div class="cat"><a href="/">Shop</a> /
           {% for collection in product.collections %}
           <a class="{{ collection.handle }}" href="{{ collection.url }}">{{ collection.title }}<span>, </span></a>
           {% endfor %}
@@ -12,7 +12,7 @@
         <span id="ProductPrice" class="h2{% if product.compare_at_price > product.price %} on-sale{% endif %}" itemprop="price">
           {{ product.price | money }}
         </span>
-        <div class="desc" itemprop="description">{{ product.description | truncatewords: 14 }}<a href="#readmore" class="popup">Read More</a></div>
+        <div class="desc" itemprop="description">{{ product.description | truncatewords: 36 | strip_html }}<a href="#readmore" class="popup">Read More</a></div>
         <div class="pricing" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           {% assign variant = product.selected_or_first_available_variant %}
           <meta itemprop="priceCurrency" content="{{ shop.currency }}">
@@ -26,18 +26,32 @@
   </div>
 
   <div class="images-wrapper gridlock-fluid">
+
+    <!--<div id="images-thumbnails">
+      <div class="row">
+        <div class="desktop-6 tablet-3 mobile-3 right">
+          {% for image in product.images %}
+          <figure itemscope itemtype="http://schema.org/ImageObject">
+          <img src="{{ image.src | img_url: 'small' }}" alt="{{ image.alt | escape }}" class="img-responsive">
+          </figure>
+          {% endfor %}
+        </div>
+      </div>
+    </div>-->
+
     <div class="row">
       <meta itemprop="url" content="{{ shop.url }}{{ product.url }}">
       <meta itemprop="image" content="{{ product.featured_image.src | img_url: 'grande' }}">
-      <div id="product-images" class="desktop-6 tablet-3 mobile-3 right contained">
+      <div id="product-images" class="desktop-6 tablet-6 mobile-3 right contained">
         <div id="product-slideshow" class="rsMinW">
           {% if product.featured_image.size > 0 %}
           {% for image in product.images %}
-          <figure itemscope itemtype="http://schema.org/ImageObject">
-            <a href="{{ image.src | img_url: '2048x2048' }}" itemprop="contentUrl" data-size="2048x2048">
+          <a class="rsImg" href="{{ image.src | img_url: '1024x1024' }}"><img class="rsTmb" width="56" height="56" src="{{ image.src | img_url: 'small' }}"></a>
+          <!--<figure itemscope itemtype="http://schema.org/ImageObject">
+            <a href="{{ image.src | img_url: '1024x1024' }}" itemprop="contentUrl" data-size="1024x1024">
               <img src="{{ image.src | img_url: '1024x1024' }}" alt="{{ image.alt | escape }}" class="img-responsive">
             </a>
-          </figure>
+          </figure>-->
           {% endfor %}
           {% else %}
           <figure itemscope itemtype="http://schema.org/ImageObject">

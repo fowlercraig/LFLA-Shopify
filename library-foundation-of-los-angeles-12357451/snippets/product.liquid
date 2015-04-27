@@ -1,8 +1,8 @@
 <div id="product-info">
-  
+
   <div class="row">
     <div  class="desktop-6 tablet-3 mobile-3 left">
-      <div class="cat"><a href="/">Shop</a> / 
+      <div class="cat"><a href="/">Shop</a> /
         {% for collection in product.collections %}
         <a href="{{ collection.url }}">
           {{ collection.title }}<span>, </span>
@@ -12,7 +12,7 @@
         <span id="ProductPrice" class="h2{% if product.compare_at_price > product.price %} on-sale{% endif %}" itemprop="price">
           {{ product.price | money }}
         </span>
-        <div class="desc" itemprop="description">{{ product.description | truncatewords: 15 }}<a href="#readmore" class="popup">Read More</a></div>
+        <div class="desc" itemprop="description">{{ product.description | truncatewords: 15 | strip_html }}<a href="#readmore" class="popup">Read More</a></div>
         <div class="pricing" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
           {% assign variant = product.selected_or_first_available_variant %}
           <meta itemprop="priceCurrency" content="{{ shop.currency }}">

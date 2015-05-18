@@ -7,7 +7,7 @@
   <title>{{ page_title }}</title>
   <meta name="description" content="{{ page_description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="canonical" href="{{ canonical_url }}" /> 
+  <link rel="canonical" href="{{ canonical_url }}" />
   <link rel="shortcut icon" href="{{ 'favicon.png' | asset_url }}" type="image/png" />
   {% include 'fb-open-graph-tags' %}
   {% include 'twitter-card' %}
@@ -23,18 +23,18 @@
   <script>
   $(function(){
 
-    $('#foot-wrapper').load('http://lfla.org.s147445.gridserver.com #foot', function(){
-      
+    $('#foot-wrapper').load('http://beta.lfla.org #foot', function(){
+
         // $("#foot-wrapper a").attr("href", function(i, href) {
         //   return 'http://beta.ciclavia.org' + href;
         // });
 
   });
 
-    $('#head-wrapper').load('http://lfla.org.s147445.gridserver.com #head', function(){
+    $('#head-wrapper').load('http://beta.lfla.org #head', function(){
 
         // $("#head-wrapper a").attr("href", function(i, href) {
-        //   return 'http://lfla.org.s147445.gridserver.com' + href;
+        //   return 'http://beta.lfla.org' + href;
         // });
 
   });
@@ -44,11 +44,11 @@
 </head>
 
 <body class="gridlock {{ page.handle }}  {{ template }} ">
-  
+
   <div id="wrapper">
 
     {% include 'header' %}
-    
+
     {% if template != 'index' %}
     {% include 'page-header' %}
     {% include 'toolbar' %}
@@ -60,7 +60,7 @@
       {% else %}
       {{ content_for_layout }}
       {% endif %}
-      
+
     </div></section><!-- Content -->
 
     <footer id="store-footer">
@@ -79,7 +79,7 @@
               {% capture sub %}homeslide_item_{{ i }}_sub{% endcapture %}
               {% if settings[show_social] %}
               <a target="blank" href="{{ settings[link] }}"><i class="ss-social-circle ss-icon">{{ settings[icon] }}</i></a>
-              {% endif %}             
+              {% endif %}
               {% endfor %}
             </div>
 

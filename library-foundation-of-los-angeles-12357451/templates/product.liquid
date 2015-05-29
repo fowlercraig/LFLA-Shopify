@@ -25,7 +25,12 @@
     </div>
   </div>
 
+  {% if product.variants.size == 1 %}
   {% include 'product--images' %}
+  {% else %}
+  {% include 'product--images-colors' %}
+  {% endif %}
+
 </div>
 
 <div id="readmore" class="mfp-hide white-popup-block modal-window zoom-anim-dialog">

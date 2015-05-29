@@ -7296,6 +7296,9 @@ html:hover [class^="ss-"] {
   font-weight: 500;
   background: #008bbe;
 }
+#cart-final .button.primary {
+  color: #ffffff;
+}
 #cart-final .button.btn--secondary {
   background: #dddddd;
 }

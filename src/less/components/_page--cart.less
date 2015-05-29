@@ -7,7 +7,7 @@
     }
 
     h3 {
-      
+
       color: @textGray;
       .sentinel();
 
@@ -52,12 +52,16 @@
 #cart-final {
 
   .button {
-    
+
     margin-right: 0;
     margin-left: @gutter;
     .cat();
     font-weight: 500;
     background: @blue;
+
+    &.primary {
+      color: @white;
+    }
 
     &.btn--secondary {
       background: @lightestGray;

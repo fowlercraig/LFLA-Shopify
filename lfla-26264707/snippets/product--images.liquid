@@ -1,0 +1,63 @@
+<div class="images-wrapper gridlock-fluid">
+  <div class="row">
+    <meta itemprop="url" content="{{ shop.url }}{{ product.url }}">
+    <meta itemprop="image" content="{{ product.featured_image.src | img_url: 'grande' }}">
+    <div id="product-images" class="desktop-6 tablet-6 mobile-3 right contained">
+
+
+      <div id="product-slideshow" class="rsMinW">
+
+
+
+        {% if product.featured_image.size > 0 %}
+        {% for image in product.images %}
+        <a class="rsImg" href="{{ image.src | img_url: '1024x1024' }}"><img class="rsTmb" width="56" height="56" src="{{ image.src | img_url: 'small' }}"></a>
+        {% endfor %}
+        {% else %}
+        <figure itemscope itemtype="http://schema.org/ImageObject">
+          <img src="{{ 'fakeimg.jpg' | asset_url }}" alt=""  />
+        </figure>
+        {% endif %}
+      </div>
+    </div><!-- Product Images -->
+  </div>
+</div>
+
+<script>
+
+  jQuery(function($) {
+    new Shopify.OptionSelectors('productSelect', {
+      product: {{ product | json }},
+      onVariantSelected: selectCallback,
+      enableHistoryState: true
+    });
+
+    // Add label if only one product option and it isn't 'Title'. Could be 'Size'.
+    {% if product.options.size == 1 and product.options.first != 'Title' %}
+    $('.selector-wrapper:eq(0)').prepend('<label for="productSelect-option-0">{{ product.options.first | escape }}</label>');
+    {% endif %}
+
+    // Hide selectors if we only have 1 variant and its title contains 'Default'.
+    {% if product.variants.size == 1 and product.variants.first.title contains 'Default' %}
+    $('.selector-wrapper').hide();
+    {% endif %}
+
+    var selectCallback = function(variant, selector) {
+    timber.productPage({
+      money_format: "{{ shop.money_format }}",
+      variant: variant,
+      selector: selector
+    });
+    if (variant && variant.featured_image) {
+        var originalImage = $("#product-images img");
+        var newImage = variant.featured_image;
+        var element = originalImage[0];
+        Shopify.Image.switchImage(newImage, element, function (newImageSizedSrc, newImage, element) {
+            $(element).parents('a').attr('href', newImageSizedSrc);
+            $(element).attr('src', newImageSizedSrc);
+        });
+    }
+    };
+
+  });
+</script>

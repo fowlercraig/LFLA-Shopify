@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/all.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-19T15:34:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062673155</id>
+    <published>2015-06-19T15:34:00-04:00</published>
+    <updated>2015-06-19T15:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/bunker-hill-in-the-rearview-mi"/>
+    <title>Bunker Hill in the Rearview Mirror</title>
+    <s:type>L M</s:type>
+    <s:vendor>Photo Friends of Los Ange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BunkerHill.jpg?v=1434741774" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Photo Friends of Los Ange<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Rise, Fall, and Rise Again of an Urban Neighborhood</p>
+<p>During its history, the area of Downtown Los Angeles known as Bunker Hill has been viewed in many different ways - inaccessible, upscale, run-down, blighted, erased, renewed. Over the decades, these perceptions have always been open to interpretation and either agreed with or challenged. An area that has been subject to more change than any other place in the city, it has arguably invoked more passion and reverence than any other Los Angeles neighborhood, while inspiring equal amounts of disdain. </p>
+<p>Bunker Hill in the Rearview Mirror: The Rise, Fall, and Rise Again of an Urban Neighborhood, an exhibit at the Los Angeles Public Library's Central Library, uses photographs, news articles, recollections, and unique ephemera from LAPL Special Collections to illustrate the complex story of Bunker Hill, from its heyday in the 1800s to its redevelopment in the 1960s and 70s. Curated by librarians Christina Rice, Photo Collection, and Emma Roberts, Art &amp; Music/Rare Books, the exhibit is enhanced by this companion catalog with contributing essays by Adrian Scott Fine, Nathan Marsak, Merry Ovnick, Meredith Drake Reitan, and Donald R. Spivack. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Bunker Hill</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Los Angeles Public Library</s:tag>
+    <s:tag>Photo Friends</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062673155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>109920</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953859</id>
+    <published>2015-06-19T15:00:00-04:00</published>
+    <updated>2015-06-19T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/reading-is-sexy-button"/>
+    <title>Reading is Sexy Button</title>
+    <s:type>A P</s:type>
+    <s:vendor>buyolympia.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PinswithGlasses.jpeg?v=1432665596" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>buyolympia.com<br>
+        <strong>Type: </strong>A P<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>What better way to show the world how smart and cheeky you are by having a </span>Reading is Sexy<span> button! Smart up your outfit or backpack and get instant genius cred. This unique button is made by L.A. artist Sarah Utter, formerly of the band BANGS.</span><br><br></p>
+<ul>
+<li><span style="line-height: 1.4;">2 1/4" Button</span></li>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pin</s:tag>
+    <s:tag>Reading is Sexy</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>000941</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062570819</id>
+    <published>2015-06-18T19:54:00-04:00</published>
+    <updated>2015-06-18T19:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-neoprene-lunch-bag"/>
+    <title>To Live and Dine in L.A. Neoprene Lunch Bag</title>
+    <s:type>X X</s:type>
+    <s:vendor>Printglobe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineLunchBag.jpg?v=1434667773" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Printglobe<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The best way to bring your lunch? In a To Live and Dine insulated neoprene lunch sack of course! </p>
+<ul>
+<li><span style="line-height: 1.4;">9 1/2 x 7 inches with a 4 1/2 inch gusset</span></li>
+<li><span style="line-height: 1.4;">Neoprene</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>lunch</s:tag>
+    <s:tag>Lunch Bag</s:tag>
+    <s:tag>Lunch Box</s:tag>
+    <s:tag>Lunch Sack</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062570819</id>
+      <title>BLUE</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>109953</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062571331</id>
+    <published>2015-06-18T19:16:00-04:00</published>
+    <updated>2015-06-18T19:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-reusable-snack-pack"/>
+    <title>To Live and Dine in L.A. Reusable Snack Pack</title>
+    <s:type>X X</s:type>
+    <s:vendor>Printglobe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineSnackPack.jpg?v=1434669408" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Printglobe<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace your need for plastic baggies with this reusable snack pack. Cart anything from a sandwich to chips and put less in the landfills.</p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Exterior is made from recycled bottles and </span><span style="line-height: 1.4;">organic cotton</span>
+</li>
+<li><span style="line-height: 1.4;">Interior is made from nylon</span></li>
+<li><span style="line-height: 1.4;">7 1/4 x 5 3/4 inches</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Reusable</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062571331</id>
+      <title>GREEN</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>109956</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804272195</id>
+    <published>2015-06-18T18:40:00-04:00</published>
+    <updated>2015-06-18T18:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-coaster-set"/>
+    <title>To Live and Dine in L.A. Coaster Set</title>
+    <s:type>X X</s:type>
+    <s:vendor>4imprint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L_DCoasterSet.jpg?v=1434666878" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>4imprint<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specially made to accompany To Live and Dine in L.A., this set of 6 cork coasters will keep your favorite furniture dry. Each set contains two each of three different coasters created from menus in the collection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coaster</s:tag>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804272195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>109879</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062570243</id>
+    <published>2015-06-18T18:18:00-04:00</published>
+    <updated>2015-06-18T18:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-grocery-tote"/>
+    <title>To Live and Dine in L.A. Grocery Tote</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L_DTote.jpg?v=1434662110" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An extra large tote to cart all your farmers market or grocery store goods.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">21 x 14 inches with 4 1/2 inch gusset and 9 1/2 inch handles</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+<li><span style="line-height: 1.4;">Printed in Downtown Los Angeles</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062570243</id>
+      <title>NAVY</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>109944</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062669955</id>
+    <published>2015-06-17T21:16:46-04:00</published>
+    <updated>2015-06-17T21:16:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/tiny-tim-book-light"/>
+    <title>Tiny Tim Book Light</title>
+    <s:type>S B</s:type>
+    <s:vendor>Mustard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Mustard<br>
+        <strong>Type: </strong>S B<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062669955</id>
+      <title>BLK</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>000833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062669955</id>
+      <title>RED</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>000834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648957763</id>
+    <published>2015-06-17T17:44:25-04:00</published>
+    <updated>2015-06-17T17:44:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/vintage-scrabble-dish-towel"/>
+    <title>Scrabble Dish Towel</title>
+    <s:type>A T</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ScrabbleTowelsFolded.jpeg?v=1432665635" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>This dish towel is the perfect thing for scrabble fans!</div>
+<ul class="a-vertical a-spacing-none">
+<li>23 1/2" x 23 1/2"</li>
+<li>Cotton</li>
+<li><span class="a-list-item">Machine washable in cold water, line dry, cool iron.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Dish Towel</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648957763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>108287</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1041027971</id>
+    <published>2015-06-16T21:10:40-04:00</published>
+    <updated>2015-06-16T21:10:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/reading-is-sexy-mug"/>
+    <title>Reading is Sexy Mug</title>
+    <s:type>G C</s:type>
+    <s:vendor>buyolympia.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>buyolympia.com<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1041027971</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>003781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804266755</id>
+    <published>2015-06-15T20:45:00-04:00</published>
+    <updated>2015-06-15T20:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/muse-ings-snapshots-of-the-arts-distric-downtown-los-angeles"/>
+    <title>MUSE-ings: Snapshots of the Arts Distric, Downtown Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Cause Connect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Muse-ings.jpg?v=1434415284" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cause Connect<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>MUSE-ings: Snapshots from the Arts District, Downtown Los Angeles</em> features on-the-fly images captured and shared by Melissa Richardson Banks daily through her award-winning Downtown Muse blog and social media (Instagram, Tumblr, Twitter). Richardson Banks says she is a collector of memories more than a photographer. "A real photographer," she says, "owns a 'real' camera. I just take snapshots with my iPhone; mostly of temporary things that I love and don't want to forget." Collectively, her images reveal an insider's glimpse into her urban neighborhood transformed by artists in the early 1980s and now quickly gaining widespread popularity. Seemingly, the point of view for each shot is more of someone who has lost a loved one than a tourist taking photos on vacation. A pile of bricks covered in graffiti from a demolished industrial building, luscious blossoms against stark concrete, blinding rooftop sunsets, skies crisscrossed by power lines, serpentine wire twirled around iron fences, and the promise of a new day as the sun rises over historic bridges are among the many images that evoke the sense of a place more pastoral or even more exotic than what you'd expect to find in the center of the nation's second largest metropolitan area. The book includes 92 full-color photographs and an introductory essay by Melissa Richardson Banks. It was designed by Christy Addis.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, full color images</span></li>
+<li><span style="line-height: 1.4;">96 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arts District</s:tag>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Melissa Richardson</s:tag>
+    <s:tag>Photography</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804266755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>107245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/864337219</id>
+    <published>2015-06-08T17:45:00-04:00</published>
+    <updated>2015-06-08T17:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/thank-you-books-card"/>
+    <title>Thank You Books Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Regional Assembly of Text</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Closeup.jpg?v=1433799940" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Regional Assembly of Text<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>What better way to say thanks than with a stack of books?</span></p>
+<p><span>A2 note 5 1/2" x 4 1/4" with matching envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>card</s:tag>
+    <s:tag>note</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Thank you</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/864337219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>101979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/877195587</id>
+    <published>2015-06-08T17:11:00-04:00</published>
+    <updated>2015-06-08T17:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cooks-coloring-book"/>
+    <title>Cook&apos;s Coloring Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cook_sColoring.jpg?v=1433799508" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>For the young cook or the beginning homemaker, this recipe collection will foster confidence while building a repertoire of tasty main dishes and treats made from scratch. User-friendly, non-intimidating illustrations plus written directions guide the cook through the recipes step by step. For extra fun or to identify dishes mastered, the cook (or cook’s assistant) can color the pages to make this a personal favorite cookbook.</span></p>
+<p>Execute a perfect Mexican Omelette, stir together a One-Pot Sausage Casserole, toss a Rainbow Coleslaw, stir-fry a pan of Sweet and Savory Kale, bake a batch of Cranberry and Cinnamon Cookies, or whip up a delicious Banofee Pie. Here is a great collection of fresh recipes for learning to cook at home.</p>
+<ul>
+<li><span>Paperback coloring and cook book, sold individually</span></li>
+<li><span>144 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Coloring Book</s:tag>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Kid&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/877195587</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>109060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/877177987</id>
+    <published>2015-06-08T17:10:00-04:00</published>
+    <updated>2015-06-08T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/tickle-monster"/>
+    <title>Tickle Monster</title>
+    <s:type>C B</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Standing.jpg?v=1433799093" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Josie Bissett illustrated by Kevan J. Atteberry</p>
+<p>A loveable monster with big puffy mitts has just flown in from Planet Tickle. His mission is to bring joy and laughter to Planet Earth. How? By tickling any child who happens to follow along in this book. Parents read aloud and do the tickling, while their children squirm and giggle with delight.</p>
+<ul>
+<li><span>Hardcover, 36 pages.</span></li>
+<li><span>Reading level 4 years and up.</span></li>
+<li><span>Tickle Monster hands sold separately.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Tickle Monster</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/877177987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>007104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804270147</id>
+    <published>2015-06-05T19:38:00-04:00</published>
+    <updated>2015-06-05T19:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/guest-check-tea-towel"/>
+    <title>Guest Check Tea Towel</title>
+    <s:type>G C</s:type>
+    <s:vendor>Fresh Pastry Stand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/GuestCheckTeaTowel.jpg?v=1433547315" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Fresh Pastry Stand<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This contemporary tea towel speaks to the age old question the home cook asks, "Whaddya think this is? A restaurant?"</p>
+<ul>
+<li><span style="line-height: 1.4;">100% cotton</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Tea Towel</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804270147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>109813</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803811715</id>
+    <published>2015-06-05T18:46:00-04:00</published>
+    <updated>2015-06-05T18:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-t-shirt"/>
+    <title>I Love You California T-Shirt</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ILoveYouCalShirtEdit.jpg?v=1433547667" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Created as part of the <a href="http://shop.lfla.org/products/songs-in-the-key-of-los-angeles-by-josh-kun" target="_blank">"Songs in the Key of Los Angeles" project</a>.</p>
+<p>Image courtesy of the Los Angeles Public Library Sheet Music Collection.</p>
+<ul>
+<li><span style="line-height: 1.4;">American Apparel</span></li>
+<li><span style="line-height: 1.4;">100% cotton t-shirt</span></li>
+<li><span style="line-height: 1.4;">Screen printed in Downtown Los Angeles.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Sheet Music</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>SKLA</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102068</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102069</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102070</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102071</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803810691</id>
+    <published>2015-06-05T18:30:00-04:00</published>
+    <updated>2015-06-05T18:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-mug"/>
+    <title>Los Angeles Public Library Mug</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1433543250" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with the logo of the Los Angeles Public Library, these colorful mugs will brighten up your beverage of choice. Nothings announces your love of the library more clearly.</p>
+<ul>
+<li><span style="line-height: 1.4;">Ceramic mug</span></li>
+<li><span style="line-height: 1.4;">Dishwasher safe and microwave safe</span></li>
+<li><span style="line-height: 1.4;">16 oz.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>GRN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010662</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>ORAN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010663</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>BLUE</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010664</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938179</id>
+    <published>2015-06-05T17:46:00-04:00</published>
+    <updated>2015-06-05T17:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-cocktail-napkins"/>
+    <title>To Live and Dine in L.A. Cocktail Napkins</title>
+    <s:type>X X</s:type>
+    <s:vendor>For Your Party</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PackagedLiveandDineNapkins.jpg?v=1433537700" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>For Your Party<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for hosting, this set of 20 cocktail napkins are sure to be a conversation starter.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>109866</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273219</id>
+    <published>2015-06-05T16:49:00-04:00</published>
+    <updated>2015-06-05T16:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-flask"/>
+    <title>To Live and Dine in L.A. Flask</title>
+    <s:type>X X</s:type>
+    <s:vendor>Tote &amp; Able</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineFlask2.jpg?v=1433530321" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tote &amp; Able<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This <strong>To Live and Dine in L.A.</strong> flask will tuck into your purse, backpack, or back pocket. Just remove the shot glass, pour yourself a sip, and sit back and enjoy. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Cotton canvas flask with BPA free, leak proof and airtight liner.</span></li>
+<li><span style="line-height: 21px;">1 oz. aluminum shot glass</span></li>
+<li><span style="line-height: 1.4;">Holds 4 oz.</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottle</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Flask</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>109883</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938115</id>
+    <published>2015-06-04T21:28:00-04:00</published>
+    <updated>2015-06-04T21:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-bib"/>
+    <title>To Live and Dine in L.A. Bib</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineBib.jpg?v=1433465177" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect accessory for the infant foodie.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% cotton</span></li>
+<li><span style="line-height: 1.4;">Printed in Los Angeles</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>Bib</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Infant</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>109912</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273923</id>
+    <published>2015-06-04T14:41:00-04:00</published>
+    <updated>2015-06-04T14:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a"/>
+    <title>To Live and Dine in L.A.</title>
+    <s:type>X X</s:type>
+    <s:vendor>Library Foundation of LA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineinLA.jpg?v=1433443141" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Library Foundation of LA<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Menus And The Making of the Modern City</p>
+<p>by Josh Kun</p>
+<p>How did Los Angeles become the modern city the world watches? We know some of the answers all too well. Sunshine. Railroads. Hollywood. Freeways. But there's another often overlooked but especially delicious and revealing factor: food.</p>
+<p>Think veggie tacos and designer pizzas, hot dogs on sticks and burgers from golden arches, Cobb Salads and chocolate-topped ice cream sundaes, not to mention the healthiest dishes on the planet. Ask anyone who has eaten in L.A.- the city shapes the tastes that predict how America eats. And it always has. </p>
+<p>In its fourth book collaboration with the Los Angeles Public Library and the Library Foundation of Los Angeles, Angel City Press releases <strong>To Live and Dine in L.A.: Menus and the Making of the Modern City</strong> by Josh Kun. With more than 200 menus - some dating back to the nineteenth century - culled from thousands in the Menu Collection of the Los Angeles Public Library, <strong>To Live and Dine in L.A.</strong> is a visual feast of a book. </p>
+<p>But it's more. Much more. </p>
+<p>In this detailed history, author Josh Kun riffs on what the food of a foodie city says about place and time; how some people eat big while others go hungry, and what that says about the past and <em>now</em>. Kun turns to chefs and cultural observers for their take on modern: Chef Roy Choi sits down long enough to say why he writes "some weird-ass menus." Pulitzer Prize-winning critic Jonathan Gold looks at food as theater, and museum curator Staci Steinberger considers the design of classic menus like Lawry's. Restauranteur Bricia Lopez follows a Oaxacan menu into the heart of Koreatown.</p>
+<p>The city's leading chefs remix vintage menus with a 21st-century spin: Joachim Splichal, Nancy Silverton, Susan Feniger, Ricardo Diaz, Jazz Singsanong, Cynthia Hawkins, Micah Wexler, Ramiro Arvizu and Jaime Martin del Campo cook up the past with new flavors. And, of course, the menus delight: Tick Tock Tea Room, Brown Derby, Trumps, Slapsy Maxie's, Don the Beachcomber, and scores more. </p>
+<p>Kun tackles the timely and critically important topic of food justice, an shows how vintage menus teach us about more than just what's tasty, and serve as guides to the politics, economics, and sociology of eating. </p>
+<p>America is a dining-out nation, and our research indicates that L.A. has long been one of its top dining-out towns. The Library's collection is a living repository of meals past, an archive of urban eating that tells us about the changing historical role of food in the city, which is to say it tells us about just about everything that food touches: economics, culture, taste, race, politics, architecture, class, design, industry, gender, to name just some of the themes that recur on menu pages. </p>
+<p>Kun challenged contributors to tackle subjects that readers may have not contemplated. As the renowned L.A. chef Roy Choi points out in his Forward to <strong>To Live and Dine in L.A.</strong>:</p>
+<p style="padding-left: 60px;">The more I looked at the menus, the more they told me about the city and how neighborhoods developed. But it was the menus that I couldn't find that forced me to ask questions about how life really was. I started to think about how the city is now and if those missing menus were a reflection of life just as it is now. Were these menus of the affluent and middle-class? Were the working classes even eating with menus, or were they mostly eating at stand and carts? Were there disparities and access problems just like today?</p>
+<ul>
+<li><span style="line-height: 1.4;">224 pages, full color throughout</span></li>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Josh Kun</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Menu Collection</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>109890</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804268163</id>
+    <published>2015-06-04T14:29:00-04:00</published>
+    <updated>2015-06-04T14:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/balloon-little-notes"/>
+    <title>Balloon Little Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>E. Frances Paper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BalloonLittleNotes.jpg?v=1433545927" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>E. Frances Paper<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Better than a sticky-note, with a bright red balloon, these Little Notes are just the thing to brighten someone's day. </p>
+<ul>
+<li><span>Pack of 85</span></li>
+<li><span>3 1/2 x 2 inches</span></li>
+<li><span>Printed in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balloon</s:tag>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Boxed Notes</s:tag>
+    <s:tag>E.Frances Paper</s:tag>
+    <s:tag>Notecards</s:tag>
+    <s:tag>Notes</s:tag>
+    <s:tag>Paper</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804268163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>108889</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987075</id>
+    <published>2015-06-03T16:07:00-04:00</published>
+    <updated>2015-06-03T16:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespearean-insult-bandages"/>
+    <title>Shakespearean Insult Bandages</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareInsultBandages.jpg?v=1433291822" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add insult to injury with Shakespearean Insult Bandages. Each bandage is printed with a picture and insulting quote. </p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Fifteen </span><span style="line-height: 1.4;">1 x 3</span><span style="line-height: 1.4;"> inch bandages</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Decorative ti</span><span style="line-height: 1.4;">n box</span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bandages</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>Classic Literature</s:tag>
+    <s:tag>Insult</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>Shakespeare</s:tag>
+    <s:tag>Shakespearean Insult</s:tag>
+    <s:tag>William</s:tag>
+    <s:tag>William Shakespeare</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>101030</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938499</id>
+    <published>2015-06-02T20:21:00-04:00</published>
+    <updated>2015-06-02T20:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespeare-candy"/>
+    <title>Shakespeare Candy</title>
+    <s:type>G F</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareCandy.jpg?v=1433290327" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G F<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The next time you reach for the collected works of William Shakespeare, you might be surprised to find that it's full of candy! This clever, tiny book is full of lemon-flavored candy decorated with the Bard's face! Any sweet tooth with a dramatic bent (and English majors) will appreciate the hard candy hidden inside. The package looks great on a bookshelf with other books or backstage when you're performing the "The Scottish Play."</p>
+<p>3.3 oz of lemon flavor hard candy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>archie mcphee</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>Classic Literature</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>Shakespeare</s:tag>
+    <s:tag>William</s:tag>
+    <s:tag>William Shakespeare</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>109563</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938307</id>
+    <published>2015-06-02T19:17:00-04:00</published>
+    <updated>2015-06-02T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/no-1-pencil-little-notes"/>
+    <title>No. 1 Pencil Little Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>E. Frances Paper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PencilNotes.jpg?v=1433285943" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>E. Frances Paper<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These sweet Little Notes are the perfect thing to send surprise hellos, pocket notes, and lunchbox love. </p>
+<p>Use unsparingly. </p>
+<ul>
+<li><span style="line-height: 1.4;">Set of 85 little notes</span></li>
+<li><span style="line-height: 1.4;">2 x 3 1/2 inches</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>E. Frances Paper</s:tag>
+    <s:tag>Notecards</s:tag>
+    <s:tag>Paper</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>109855</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938371</id>
+    <published>2015-06-02T14:34:00-04:00</published>
+    <updated>2015-06-02T14:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-pint-glass"/>
+    <title>I Love You California Pint Glass</title>
+    <s:type>G C</s:type>
+    <s:vendor>SF Mercantile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PintGlass.jpg?v=1433269717" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>SF Mercantile<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The best way to enjoy your beverage? In a pint glass that has your favorite bear on it of course!</p>
+<p>Hand wash only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>109665</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

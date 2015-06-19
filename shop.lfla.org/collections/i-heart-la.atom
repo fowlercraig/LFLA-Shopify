@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/i-heart-la.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-19T15:34:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062673155</id>
+    <published>2015-06-19T15:34:00-04:00</published>
+    <updated>2015-06-19T15:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/bunker-hill-in-the-rearview-mi"/>
+    <title>Bunker Hill in the Rearview Mirror</title>
+    <s:type>L M</s:type>
+    <s:vendor>Photo Friends of Los Ange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BunkerHill.jpg?v=1434741774" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Photo Friends of Los Ange<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Rise, Fall, and Rise Again of an Urban Neighborhood</p>
+<p>During its history, the area of Downtown Los Angeles known as Bunker Hill has been viewed in many different ways - inaccessible, upscale, run-down, blighted, erased, renewed. Over the decades, these perceptions have always been open to interpretation and either agreed with or challenged. An area that has been subject to more change than any other place in the city, it has arguably invoked more passion and reverence than any other Los Angeles neighborhood, while inspiring equal amounts of disdain. </p>
+<p>Bunker Hill in the Rearview Mirror: The Rise, Fall, and Rise Again of an Urban Neighborhood, an exhibit at the Los Angeles Public Library's Central Library, uses photographs, news articles, recollections, and unique ephemera from LAPL Special Collections to illustrate the complex story of Bunker Hill, from its heyday in the 1800s to its redevelopment in the 1960s and 70s. Curated by librarians Christina Rice, Photo Collection, and Emma Roberts, Art &amp; Music/Rare Books, the exhibit is enhanced by this companion catalog with contributing essays by Adrian Scott Fine, Nathan Marsak, Merry Ovnick, Meredith Drake Reitan, and Donald R. Spivack. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Bunker Hill</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Los Angeles Public Library</s:tag>
+    <s:tag>Photo Friends</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062673155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>109920</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062570243</id>
+    <published>2015-06-18T18:18:00-04:00</published>
+    <updated>2015-06-18T18:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-grocery-tote"/>
+    <title>To Live and Dine in L.A. Grocery Tote</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L_DTote.jpg?v=1434662110" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An extra large tote to cart all your farmers market or grocery store goods.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">21 x 14 inches with 4 1/2 inch gusset and 9 1/2 inch handles</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+<li><span style="line-height: 1.4;">Printed in Downtown Los Angeles</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062570243</id>
+      <title>NAVY</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>109944</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804266755</id>
+    <published>2015-06-15T20:45:00-04:00</published>
+    <updated>2015-06-15T20:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/muse-ings-snapshots-of-the-arts-distric-downtown-los-angeles"/>
+    <title>MUSE-ings: Snapshots of the Arts Distric, Downtown Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Cause Connect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Muse-ings.jpg?v=1434415284" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cause Connect<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>MUSE-ings: Snapshots from the Arts District, Downtown Los Angeles</em> features on-the-fly images captured and shared by Melissa Richardson Banks daily through her award-winning Downtown Muse blog and social media (Instagram, Tumblr, Twitter). Richardson Banks says she is a collector of memories more than a photographer. "A real photographer," she says, "owns a 'real' camera. I just take snapshots with my iPhone; mostly of temporary things that I love and don't want to forget." Collectively, her images reveal an insider's glimpse into her urban neighborhood transformed by artists in the early 1980s and now quickly gaining widespread popularity. Seemingly, the point of view for each shot is more of someone who has lost a loved one than a tourist taking photos on vacation. A pile of bricks covered in graffiti from a demolished industrial building, luscious blossoms against stark concrete, blinding rooftop sunsets, skies crisscrossed by power lines, serpentine wire twirled around iron fences, and the promise of a new day as the sun rises over historic bridges are among the many images that evoke the sense of a place more pastoral or even more exotic than what you'd expect to find in the center of the nation's second largest metropolitan area. The book includes 92 full-color photographs and an introductory essay by Melissa Richardson Banks. It was designed by Christy Addis.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, full color images</span></li>
+<li><span style="line-height: 1.4;">96 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arts District</s:tag>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Melissa Richardson</s:tag>
+    <s:tag>Photography</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804266755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>107245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803811715</id>
+    <published>2015-06-05T18:46:00-04:00</published>
+    <updated>2015-06-05T18:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-t-shirt"/>
+    <title>I Love You California T-Shirt</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ILoveYouCalShirtEdit.jpg?v=1433547667" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Created as part of the <a href="http://shop.lfla.org/products/songs-in-the-key-of-los-angeles-by-josh-kun" target="_blank">"Songs in the Key of Los Angeles" project</a>.</p>
+<p>Image courtesy of the Los Angeles Public Library Sheet Music Collection.</p>
+<ul>
+<li><span style="line-height: 1.4;">American Apparel</span></li>
+<li><span style="line-height: 1.4;">100% cotton t-shirt</span></li>
+<li><span style="line-height: 1.4;">Screen printed in Downtown Los Angeles.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Sheet Music</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>SKLA</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102068</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102069</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102070</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803811715</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>102071</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803810691</id>
+    <published>2015-06-05T18:30:00-04:00</published>
+    <updated>2015-06-05T18:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-mug"/>
+    <title>Los Angeles Public Library Mug</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1433543250" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with the logo of the Los Angeles Public Library, these colorful mugs will brighten up your beverage of choice. Nothings announces your love of the library more clearly.</p>
+<ul>
+<li><span style="line-height: 1.4;">Ceramic mug</span></li>
+<li><span style="line-height: 1.4;">Dishwasher safe and microwave safe</span></li>
+<li><span style="line-height: 1.4;">16 oz.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>GRN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010662</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>ORAN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010663</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>BLUE</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010664</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938179</id>
+    <published>2015-06-05T17:46:00-04:00</published>
+    <updated>2015-06-05T17:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-cocktail-napkins"/>
+    <title>To Live and Dine in L.A. Cocktail Napkins</title>
+    <s:type>X X</s:type>
+    <s:vendor>For Your Party</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PackagedLiveandDineNapkins.jpg?v=1433537700" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>For Your Party<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for hosting, this set of 20 cocktail napkins are sure to be a conversation starter.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>109866</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273219</id>
+    <published>2015-06-05T16:49:00-04:00</published>
+    <updated>2015-06-05T16:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-flask"/>
+    <title>To Live and Dine in L.A. Flask</title>
+    <s:type>X X</s:type>
+    <s:vendor>Tote &amp; Able</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineFlask2.jpg?v=1433530321" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tote &amp; Able<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This <strong>To Live and Dine in L.A.</strong> flask will tuck into your purse, backpack, or back pocket. Just remove the shot glass, pour yourself a sip, and sit back and enjoy. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Cotton canvas flask with BPA free, leak proof and airtight liner.</span></li>
+<li><span style="line-height: 21px;">1 oz. aluminum shot glass</span></li>
+<li><span style="line-height: 1.4;">Holds 4 oz.</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottle</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Flask</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>109883</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273923</id>
+    <published>2015-06-04T14:41:00-04:00</published>
+    <updated>2015-06-04T14:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a"/>
+    <title>To Live and Dine in L.A.</title>
+    <s:type>X X</s:type>
+    <s:vendor>Library Foundation of LA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineinLA.jpg?v=1433443141" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Library Foundation of LA<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Menus And The Making of the Modern City</p>
+<p>by Josh Kun</p>
+<p>How did Los Angeles become the modern city the world watches? We know some of the answers all too well. Sunshine. Railroads. Hollywood. Freeways. But there's another often overlooked but especially delicious and revealing factor: food.</p>
+<p>Think veggie tacos and designer pizzas, hot dogs on sticks and burgers from golden arches, Cobb Salads and chocolate-topped ice cream sundaes, not to mention the healthiest dishes on the planet. Ask anyone who has eaten in L.A.- the city shapes the tastes that predict how America eats. And it always has. </p>
+<p>In its fourth book collaboration with the Los Angeles Public Library and the Library Foundation of Los Angeles, Angel City Press releases <strong>To Live and Dine in L.A.: Menus and the Making of the Modern City</strong> by Josh Kun. With more than 200 menus - some dating back to the nineteenth century - culled from thousands in the Menu Collection of the Los Angeles Public Library, <strong>To Live and Dine in L.A.</strong> is a visual feast of a book. </p>
+<p>But it's more. Much more. </p>
+<p>In this detailed history, author Josh Kun riffs on what the food of a foodie city says about place and time; how some people eat big while others go hungry, and what that says about the past and <em>now</em>. Kun turns to chefs and cultural observers for their take on modern: Chef Roy Choi sits down long enough to say why he writes "some weird-ass menus." Pulitzer Prize-winning critic Jonathan Gold looks at food as theater, and museum curator Staci Steinberger considers the design of classic menus like Lawry's. Restauranteur Bricia Lopez follows a Oaxacan menu into the heart of Koreatown.</p>
+<p>The city's leading chefs remix vintage menus with a 21st-century spin: Joachim Splichal, Nancy Silverton, Susan Feniger, Ricardo Diaz, Jazz Singsanong, Cynthia Hawkins, Micah Wexler, Ramiro Arvizu and Jaime Martin del Campo cook up the past with new flavors. And, of course, the menus delight: Tick Tock Tea Room, Brown Derby, Trumps, Slapsy Maxie's, Don the Beachcomber, and scores more. </p>
+<p>Kun tackles the timely and critically important topic of food justice, an shows how vintage menus teach us about more than just what's tasty, and serve as guides to the politics, economics, and sociology of eating. </p>
+<p>America is a dining-out nation, and our research indicates that L.A. has long been one of its top dining-out towns. The Library's collection is a living repository of meals past, an archive of urban eating that tells us about the changing historical role of food in the city, which is to say it tells us about just about everything that food touches: economics, culture, taste, race, politics, architecture, class, design, industry, gender, to name just some of the themes that recur on menu pages. </p>
+<p>Kun challenged contributors to tackle subjects that readers may have not contemplated. As the renowned L.A. chef Roy Choi points out in his Forward to <strong>To Live and Dine in L.A.</strong>:</p>
+<p style="padding-left: 60px;">The more I looked at the menus, the more they told me about the city and how neighborhoods developed. But it was the menus that I couldn't find that forced me to ask questions about how life really was. I started to think about how the city is now and if those missing menus were a reflection of life just as it is now. Were these menus of the affluent and middle-class? Were the working classes even eating with menus, or were they mostly eating at stand and carts? Were there disparities and access problems just like today?</p>
+<ul>
+<li><span style="line-height: 1.4;">224 pages, full color throughout</span></li>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Josh Kun</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Menu Collection</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>109890</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938371</id>
+    <published>2015-06-02T14:34:00-04:00</published>
+    <updated>2015-06-02T14:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-pint-glass"/>
+    <title>I Love You California Pint Glass</title>
+    <s:type>G C</s:type>
+    <s:vendor>SF Mercantile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PintGlass.jpg?v=1433269717" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>SF Mercantile<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The best way to enjoy your beverage? In a pint glass that has your favorite bear on it of course!</p>
+<p>Hand wash only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>109665</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938435</id>
+    <published>2015-05-28T14:06:00-04:00</published>
+    <updated>2015-05-28T14:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-cork-coaster-set"/>
+    <title>I Love You California Cork Coaster Set</title>
+    <s:type>G C</s:type>
+    <s:vendor>SF Mercantile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CoasterandBag.jpg?v=1432835923" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>SF Mercantile<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These thick cork coasters are printed with everyone's favorite image complete with a golden California. </p>
+<p>Set of 4 coasters with drawstring bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Cork</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>109664</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/655540419</id>
+    <published>2015-05-27T02:01:00-04:00</published>
+    <updated>2015-05-27T02:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/coolhaus-ice-cream-book"/>
+    <title>CoolHaus Ice Cream Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Houghton Mifflin Harcourt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CoolhausIceCreamBook_grande_ff7e5173-598f-4233-a21d-8f5a7c7c340b.jpg?v=1432706846" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Houghton Mifflin Harcourt<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Custom-Built Sandwiches with Crazy-Good Combos of Cookies, Ice Creams, Gelatos, and Sorbets</p>
+<p>by Natasha Case, Freya Estrella, and Kathleen Squires</p>
+<p>From a beat-up postal van turned food truck, Coolhaus has rocketed to a national brand. Yahoo! called it "the best ice cream in America." The inventive sandwiches, named after famous architects, are sold in supermarkets across the country, as well as from trucks in Los Angeles, New York, Austin, and Dallas. Coolhaus has drawn accolades from the New York Times, Every Day with Rachael Ray, Time, and Good Morning America, to name a few, and from such celebrities as Will Ferrel, Jimmy Kimmel, and Alex Guarnaschelli.</p>
+<p>Now the owners part with the recipes for thier coolest creations, like the BuckMintster Fuller (Dirty Mint Chip Ice Cream with Chocolate Chip Cookies) and the Frank Behry (Strawberry Gelato with Snickerdoodles). Daring flavors range from classic (Cookies and Sweet Cream), to boozy (Bourban Manhattan), to vegan (Lychee Martini), and even savory (Fried Chicken and Waffle).</p>
+<p>Sandwiched among the treats are tips on ice cream making, profiles of major and up-and-coming architects, and amusing tales of the owners' forays into the ice cream busines.</p>
+<ul>
+<li>
+<span>Hardcover,</span><span> full-color images</span>
+</li>
+<li><span>240 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Ice Cream</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/655540419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>106772</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648996163</id>
+    <published>2015-05-26T14:45:52-04:00</published>
+    <updated>2015-05-26T14:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-tumbler-glass"/>
+    <title>Los Angeles Tumbler Glass</title>
+    <s:type>G L</s:type>
+    <s:vendor>Sisters of Los Angeles, L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesGlass.jpeg?v=1432665954" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sisters of Los Angeles, L<br>
+        <strong>Type: </strong>G L<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>From the bright blue skies and ocean to the green rolling canyons, nothing says Los Angeles more than sipping a drink from this glass tumbler. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+<li><span style="line-height: 1.4;">Printed with organic inks</span></li>
+<li><span style="line-height: 1.4;">Made in Los Angeles</span></li>
+<li><span style="line-height: 1.4;">Hand wash only</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Sisters of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648996163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>100040</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648995715</id>
+    <published>2015-05-26T14:45:48-04:00</published>
+    <updated>2015-05-26T14:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-mug"/>
+    <title>Los Angeles Mug</title>
+    <s:type>G L</s:type>
+    <s:vendor>Sisters of Los Angeles, L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesMugEdit.jpeg?v=1432665949" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sisters of Los Angeles, L<br>
+        <strong>Type: </strong>G L<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This BIG coffee mug was inspired by Los Angeles' BIG coffee culture.</p>
+<ul>
+<li>15 oz.</li>
+<li>Sold individually</li>
+<li>Printed in Los Angeles with soy based inks</li>
+<li>Hand wash only</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Sisters of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648995715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>101454</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648994947</id>
+    <published>2015-05-26T14:45:44-04:00</published>
+    <updated>2015-05-26T14:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/songs-in-the-key-of-los-angeles-by-josh-kun"/>
+    <title>Songs in the Key of Los Angeles by Josh Kun</title>
+    <s:type>B L</s:type>
+    <s:vendor>Angel City Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SongsintheKeyofLA.jpeg?v=1432665947" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Angel City Press<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>"You Can't Go Wrong With These L.A. Songs"</p>
+<p>Hits From The City of Angels Available For The First Time!</p>
+<p>Culled from the Southern California Sheet Music Collection of the Los Angeles Public Library, this unprecedented anthology tells the story of Los Angeles through its songs. Featuring the elaborately designed covers of more than one hundred pieces of vintage sheet music, <em>Songs in the Key of Los Angeles</em> spans 1849 to 1959, offering a rare musical window into Southern California history -- from mythic Missions to infinite oranges, from rumbling railroads to romantic Ramona... and there's Hollywood history, too, harmoniously noted by its music and film industries. Inside you'll find California lullabies and Los Angeles waltzes, sunshine rags and sunset serenades, the emergence of West Coast jazz and the legacy of Mexican folk traditions, all accompanied by an essay from the collection's curator and native Angeleno Josh Kun. Additional arrangements from musicians Van Dyke Parks and Stew, plus a chorus of critics and historians, come together to bring these extraordinary city songs back to life, ready for a new generation of city dwellers.</p>
+<p>Look inside for "Los Angeles! Hurrah!," "Miss Los Angeles Queen of the Golden West," "Angeltown" and other songs you'll enjoy!</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 223 pages with full color images.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648994947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>101836</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648991107</id>
+    <published>2015-05-26T14:45:08-04:00</published>
+    <updated>2015-05-26T14:45:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/drink-los-angeles"/>
+    <title>Drink: Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/drinkEdit2.jpeg?v=1432665910" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Beverage Lover's Guide to L.A. 1st Edition</p>
+<p>From the savvy folks behind Eat: Los Angeles comes the essential guide to liquid refreshment across the great basin. L.A.'s best drinking, from Venice to the Valley, Palms to Pasadena, Little Tokyo to Long Beach with bar-crawl maps and lots of handy little indexes.</p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover, 224 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Guide Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>107162</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648990851</id>
+    <published>2015-05-26T14:45:05-04:00</published>
+    <updated>2015-05-26T14:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/100-not-so-famous-views-of-l-a"/>
+    <title>100 Not So Famous Views of L.A.</title>
+    <s:type>B L</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/100NotSoFamousViewsFlattened.jpeg?v=1432665907" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Barbara A. Thomason</p>
+<p>For four years, artist Barbara A. Thomason roamed her beloved Los Angeles, seeking the vistas, nooks, bridges, signs, streets, and landmarks that most captivated her. Inspired by Hiroshige's acclaimed print series <em>One Hundred Famous Views of Edo</em>, this grand project resulted in the one hundred paintings reproduced within. Intimate, often recognizable and sometimes unexpected, Thomason's paintings capture the vibrant L.A., the quirky L.A., the beautiful L.A. - the essential L.A.</p>
+<p>With commentary and history from the artist, and a foreword by David L. Ulin. </p>
+<p>Barbara A. Thomason is a Los Angeles-based artist whose paintings, prints, and drawings have been exhibited widely. She was a master printer at Gemini G.E.L., printing for such artists as Jasper Johns, Claes Oldenberg, and Ed Ruscha, and she has taught art at several leading California institutions, including Otis College of Art &amp; Design and California Polytechnic University, Pomona.</p>
+<p>David L. Ulin is book critic for the Los Angeles Times, the editor of <em>Writing Los Angeles: A Literary Anthology</em>, and the author of many books. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 206 pages, full color illustrations. </span></li>
+<li><span style="line-height: 1.4;">Autographed Copy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648990851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>107163</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987267</id>
+    <published>2015-05-26T14:44:15-04:00</published>
+    <updated>2015-05-26T14:44:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/never-built-los-angeles"/>
+    <title>Never Built Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/NeverBuiltEdit.jpeg?v=1432665857" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Library Foundation of Los Angeles' <a href="http://www.lfla.org/aloud/upcoming.php">ALOUD Series</a> presented <a href="http://www.lfla.org/event-detail/866/Never-Built-Los-Angeles">Never Built Los Angeles by Greg Goldin and Sam Lubell on July 30, 2013.</a></p>
+<p><strong><em>About the Book</em></strong></p>
+<p><em>Never Built Los Angeles</em> is a treasure trove of more than 100 visionary works that only saw the drawing board. These marvels include the energetic, the audacious, and the ludicrous. They consist of wholesale master plans; buildings of all types; parks, civic squares, green spaces, and public gathering points; monuments and follies, including some hilariously farcical amusement parks; and transit designs stretching in all directions over land and sea, adopting every foreseeable technology from monorail to flying bus. Through these never-built schemes, authors Sam Lubell and Greg Goldin explore the "what if" Los Angeles, investigating the values and untapped potential of a city that, to this day, is trying to solve the riddle of what it wants to become.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 375 pages with full color pictures.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>100801</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648985283</id>
+    <published>2015-05-26T14:43:57-04:00</published>
+    <updated>2015-05-26T14:43:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-set-of-8-boxed-notes"/>
+    <title>Los Angeles Set of 8 Boxed Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>Rifle Paper Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesCards.jpeg?v=1432665837" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rifle Paper Co.<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Slow down the Los Angeles pace for a minute to send some old fashioned correspondence. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Created from original art work by Anna Bond.</span></li>
+<li><span style="line-height: 1.4;">Set of 8 A2 notecards and envelopes</span></li>
+<li><span style="line-height: 1.4;">5 1/2" x 4 1/4"</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648985283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>105458</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648984899</id>
+    <published>2015-05-26T14:43:53-04:00</published>
+    <updated>2015-05-26T14:43:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-8x10-print"/>
+    <title>Los Angeles 8x10 Print</title>
+    <s:type>S P</s:type>
+    <s:vendor>Rifle Paper Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesPrintEdit.jpeg?v=1432665834" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rifle Paper Co.<br>
+        <strong>Type: </strong>S P<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Celebrate your love of Los Angeles with an art print created from original art work by Anna Bond.</p>
+<ul>
+<li><span style="line-height: 1.4;">11" x 14" art print</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Poster</s:tag>
+    <s:tag>Print</s:tag>
+    <s:tag>Rifle Paper</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648984899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>106975</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982787</id>
+    <published>2015-05-26T14:43:29-04:00</published>
+    <updated>2015-05-26T14:43:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/frozen-music"/>
+    <title>Frozen Music</title>
+    <s:type>B L</s:type>
+    <s:vendor>HEYDAY BOOKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cover_dc20e547-6e35-4e52-bb2c-1f9b347d7b9c.jpeg?v=1432665810" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HEYDAY BOOKS<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In Frozen Music the art of architecture meets the art of literature. The result is page after page, from novels, memoirs, essays, and poetry, of vivid, thought-provoking, and ceaselessly entertaining work by California's best writers. </p>
+<p>From the Spanish missions to present-day builings to futuristic visions, Frozen Music moves from romantic to speculative, comedic to philosophical. Whether it's John Fante's description of the collapse of the brick Alta Loma Hotel or Paul Goldberger's comparison of Frank Gehry's Disney Hall to a musical instrument, Frozen Music offers us not just new ideas but a language with which to describe them. </p>
+<p>Authors:</p>
+<p>Kurt Andersen, Jaime de Angulo, Anne and Arthur Bloomfield, Gray Brechin, Herb Caen, Ernest Callenbach, Alan Cartnal, Mike Davis, Robert Duncan, John Fante, William Gibson, Brendan Gill, Harold Gilliam, Paul Goldberger, Daniel P. Gregory, Milo Hastings, Helen Hunt Jackson, Neil Levine, David Littlejohn, Malcolm Margolin, Charles W. Moore, Herbert Muschamp, Lynne Olson, Jean Pfaelzer, Malvina Reynolds, Winthrop Sargeant, Charles Francis Saunders and J. Smeaton Chase, Allen G. Siple, Kevin Starr, Karen E. Steen, Allan Temko, Sim Van der Ryn, George Vancouver, D.J. Waldie, Edmund Wilson, and Giles Worsley. </p>
+<p>Softcover, 264 pages</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>architecture</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982787</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>107617</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982467</id>
+    <published>2015-05-26T14:43:27-04:00</published>
+    <updated>2015-05-26T14:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-travel-mug"/>
+    <title>Los Angeles Travel Mug</title>
+    <s:type>G L</s:type>
+    <s:vendor>Sisters of Los Angeles, L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LA_Travel_Mug.jpeg?v=1432665808" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sisters of Los Angeles, L<br>
+        <strong>Type: </strong>G L<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Take a little bit of Los Angeles with you when you are on the GO! </span>
+</div>
+<ul>
+<li><span style="line-height: 1.5;">Double walled ceramic coffee cup with Silicone lid</span></li>
+<li>Sold individually</li>
+<li>Printed in Los Angeles with soy based inks</li>
+<li>Hand wash only</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Sisters of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>107675</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648980739</id>
+    <published>2015-05-26T14:43:13-04:00</published>
+    <updated>2015-05-26T14:43:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/under-spring-voices-art-los-angeles"/>
+    <title>Under Spring: Voices + Art +Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>HEYDAY BOOKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cover.jpeg?v=1432665797" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>HEYDAY BOOKS<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Jeremy Rosenberg</p>
+<p>Beneath Los Angeles' North Spring Street Bridge, a deteriorated concrete landscape was once, as a graffiti sign proclaimed, "God's most destitute place on earth." But artist Lauren Bon and her Metabolic Studio team saw the underpass's potential for creative use, and from 2006 to 2013 they turned it into a verdant space that served as artwork, public square, community garden, and more. </p>
+<p>This award-winning chronicle brings together the words of sixty-six people from all walks of life - artists, scholars, laborers, graffitists, urban planners, activists, the homeless - to tell the history of a place at the heart of LA. Over the course of this wildly energetic narrative, the underpass transforms from art deco emblem into no-man's-land into art project, reflecting (and sometimes challenging) the city's changing values of beauty, ownership, and civic pride. Most of all, Under Spring uproots our complacency about disposable, discarded spaces, offering in its stead a groundbreaking vision of culture and community. </p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover, 97 pages, full color images</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648980739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>108635</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648979459</id>
+    <published>2015-05-26T14:43:03-04:00</published>
+    <updated>2015-05-26T14:43:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/why-l-a-porquoi-paris"/>
+    <title>Why L.A.? Porquoi Paris?</title>
+    <s:type>B L</s:type>
+    <s:vendor>Ingram Publisher Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cover_b31989ab-9908-4236-9ff4-2f75637784cc.jpeg?v=1432665789" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ingram Publisher Services<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>by Diane Ratican, illustrated by Nick Lu and Eric Giriat</span></p>
+<p><span>This unique book is about exploring Paris and Los Angeles, a mixing and pairing of yesterday and today, the monumental and the everyday, the people and things, all shared through text and illustrations that tell the stories of these two very different, yet similar, cities.</span><br><br><span>For the first time, the cities of Los Angeles and Paris are illustrated in parallel. "Why LA? Pourquoi Paris?" represents a visionary approach to a comparative study of two major, contemporary metropolises. As a long-time resident of both cities and a successful entrepreneur, author Diane Ratican curates visual pairings of Los Angeles and Paris with a newfound appreciation for their similarities, differences and eccentricities.</span><br><br><span>"Why LA? Pourquoi Paris?" features full-color illustrations by famed artists Eric Giriat (Paris) and Nick Lu (Los Angeles), highlighting the Yin-Yang relationship of everyday life between two of the world’s great cities. Primarily an art book, this visual publication playfully “connects the dots” between respective architectural icons, historical legends, fashion trends, and cultural peculiarities. With the added benefit of historic information, cultural trivia, and a guide to the author’s favorite “addresses,” "Why LA? Pourquoi Paris?" is a unique visual guide for visitors to Los Angeles and/or Paris who want to experience the cultural milieu of these two distinguished cities.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover, 204 pages with full color illustrations</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648979459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>108641</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648976195</id>
+    <published>2015-05-26T14:42:47-04:00</published>
+    <updated>2015-05-26T14:42:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-in-maps"/>
+    <title>Los Angeles in Maps</title>
+    <s:type>X X</s:type>
+    <s:vendor>Random House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SpineLosangles.jpeg?v=1432665769" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Random House<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Glen Creason and foreword by D.J. Waldie</p>
+<p>With contributions by Dydia Dlyser, Joe Linton, William J. Warren, an Morgan P. Yates</p>
+<p>Los Angeles inhabits a place of the mind as much as it does a physical geopgraphic space. A land of palm trees and movie stars, sunshine and glamour, the city exists in the imagination as a paradise; of course, the reality is far more expansive than this. Through seventy reproductions of seminal and historic documents, Los Angeles in Maps presents the evolution of this almost mythical place. Maps featured include historic maps from the early days of the pueblo that would become Los Angeles, to more recent, yet no less fascinating topographic surveys, tourist guides, real estate maps, bird's-eye views, and more. Winding naturally, like the course of the Los Angeles River, the book passes through essential terrain: the discovery of oil, the rise of Hollywood, the streetcar system, the Sleepy Lagoon murder and Zoot Suit riots, Los Angeles Harbor, earthquakes, sprawl, and splendor. </p>
+<p>Glen Creason is Map Librarian at Los Angeles Public Library</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, full color images</span></li>
+<li><span style="line-height: 1.4;">Autographed copy</span></li>
+<li><span style="line-height: 1.4;">192 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Map</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648976195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>007698</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648974979</id>
+    <published>2015-05-26T14:42:40-04:00</published>
+    <updated>2015-05-26T14:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/libraries-of-los-angeles-tote"/>
+    <title>Libraries of Los Angeles Tote</title>
+    <s:type>L M</s:type>
+    <s:vendor>Maptote</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Libraries_of_Los_AngelesTote.jpeg?v=1432665762" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Maptote<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>A Library Store exclusive, in collaboration with <a href="http://maptote.com/">MAPTOTE</a>! Find your way to any of the 73 Los Angeles libraries with this custom tote. It features a map of all library locations on the front, with a listing of branches &amp; addresses on the reverse.</div>
+<div> </div>
+<div>100% Cotton 7 oz Canvas</div>
+<div>Approx. 15" by 16"</div>
+<div>22" handles</div>
+<div>Made in the USA</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Maptote</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648974979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>000035</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/library-lover.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-05-26T14:45:37-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/648993923</id>
+    <published>2015-05-26T14:45:37-04:00</published>
+    <updated>2015-05-26T14:45:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-pouch"/>
+    <title>Library Card Pouch</title>
+    <s:type>A R</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardPouchEdit.jpeg?v=1432665938" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A R<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Everyday pouches for <em>literally</em> anything. Canvas pouch with yellow library card design. Don't be overdue in checking this out!</p>
+<meta charset="utf-8">
+<ul>
+<li><span>9" x 6" </span></li>
+<li><span>100% cotton canvas</span></li>
+<li><span>Zipper closure</span></li>
+<li><span>Made in USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Zip Pouch</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648993923</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>102111</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648991811</id>
+    <published>2015-05-26T14:45:19-04:00</published>
+    <updated>2015-05-26T14:45:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-tote"/>
+    <title>Library Card Tote</title>
+    <s:type>A B</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCArdTote2.jpeg?v=1432665921" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A B<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Profess your love for libraries with this library card tote bag.</p>
+<ul>
+<li>100% cotton canvas</li>
+<li>Inner pocket</li>
+<li>Flat tote</li>
+<li>14" x 18" with 11" handles</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991811</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>105833</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648990595</id>
+    <published>2015-05-26T14:45:01-04:00</published>
+    <updated>2015-05-26T14:45:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-socks"/>
+    <title>Library Card Socks</title>
+    <s:type>A T</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SocksPackage2.jpeg?v=1432665903" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Are your socks past due?</p>
+<ul>
+<li><span style="line-height: 1.5;">Cotton blend</span></li>
+<li><span style="line-height: 1.5;">Unisex</span></li>
+<li><span style="line-height: 1.5;">Small fits women's shoe size 5.5 - 9</span></li>
+<li><span style="line-height: 1.5;">Large fits men's shoe size 8.5 - 12</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Socks</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648990595</id>
+      <title>SMALL</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>107253</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648990595</id>
+      <title>LARGE</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>107254</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648983491</id>
+    <published>2015-05-26T14:43:39-04:00</published>
+    <updated>2015-05-26T14:43:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-composition-book"/>
+    <title>Library Card Composition Book</title>
+    <s:type>S J</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardCompwithPencilEdit.jpeg?v=1432665821" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Need a great place to write about all your favorite books? This composition book inspired by an old fashioned library card is just the thing!</div>
+<ul>
+<li>Composition notebook</li>
+<li>7.5 in x 9.75 in (19.06 cm x 24.77 cm)</li>
+<li>80 sheets (160 pages) of college-ruled paper</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Composition Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648983491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>107248</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648974979</id>
+    <published>2015-05-26T14:42:40-04:00</published>
+    <updated>2015-05-26T14:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/libraries-of-los-angeles-tote"/>
+    <title>Libraries of Los Angeles Tote</title>
+    <s:type>L M</s:type>
+    <s:vendor>Maptote</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Libraries_of_Los_AngelesTote.jpeg?v=1432665762" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Maptote<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>A Library Store exclusive, in collaboration with <a href="http://maptote.com/">MAPTOTE</a>! Find your way to any of the 73 Los Angeles libraries with this custom tote. It features a map of all library locations on the front, with a listing of branches &amp; addresses on the reverse.</div>
+<div> </div>
+<div>100% Cotton 7 oz Canvas</div>
+<div>Approx. 15" by 16"</div>
+<div>22" handles</div>
+<div>Made in the USA</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Maptote</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648974979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>000035</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648964099</id>
+    <published>2015-05-26T14:41:29-04:00</published>
+    <updated>2015-05-26T14:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-assorted-library-cards"/>
+    <title>50 Assorted Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardsTemplate.jpeg?v=1432665691" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A fun five-color assortment of 50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648964099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106015</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961219</id>
+    <published>2015-05-26T14:41:07-04:00</published>
+    <updated>2015-05-26T14:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-yellow-library-cards"/>
+    <title>50 Yellow Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SidebySideTemplate.jpeg?v=1432665669" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106594</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948099</id>
+    <published>2015-05-26T14:38:45-04:00</published>
+    <updated>2015-05-26T14:38:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-tie"/>
+    <title>Library Card Tie</title>
+    <s:type>A T</s:type>
+    <s:vendor>Cyberoptix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/YellowTie.jpeg?v=1432665527" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cyberoptix<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This microfiber tie is inspired by those good old fashioned due date slips, so slip one on and look extra smart.</p>
+<ul>
+<li>Choose from butter yellow or sky blue</li>
+<li>Approximately 2.75" - 3" wide</li>
+<li>Hand screened, made in Detroit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948099</id>
+      <title>BUTTER</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>108643</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948099</id>
+      <title>SKY</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>108644</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948035</id>
+    <published>2015-05-26T14:38:44-04:00</published>
+    <updated>2015-05-26T14:38:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-bow-tie"/>
+    <title>Library Card Bow Tie</title>
+    <s:type>A T</s:type>
+    <s:vendor>Cyberoptix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AdjustableBowTie.jpeg?v=1432665525" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cyberoptix<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Look extra spiffy in this bow tie inspired by an old fashioned due date slip. Because, let's face it, bow ties (and the library) are cool.</p>
+<ul>
+<li>100% silk</li>
+<li>Hand screened, made in Detroit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948035</id>
+      <title>PLATINUM</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>108645</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648947843</id>
+    <published>2015-05-26T14:38:00-04:00</published>
+    <updated>2015-05-26T14:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-scarf"/>
+    <title>Library Card Scarf</title>
+    <s:type>A T</s:type>
+    <s:vendor>Cyberoptix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/YellowScarfEdit.jpeg?v=1432665523" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cyberoptix<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Wrap up in this silky soft pashmina and it just might remind you to get those books back on time!  Choose a light coral, butter yellow, or cornflower blue scarf inspired by those old due date slips.</p>
+<ul>
+<li>74" x 28" with 3" tassels on both ends</li>
+<li>50% viscose</li>
+<li>50% acrylic</li>
+<li>Hand screened, made in Detroit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Scarf</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648947843</id>
+      <title>LT CORAL</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>108646</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648947843</id>
+      <title>BUTTER</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>108647</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648947843</id>
+      <title>CORNFLOW</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>108648</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

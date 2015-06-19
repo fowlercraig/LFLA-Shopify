@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/only-at-los-angeles-public-library.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-19T15:34:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062673155</id>
+    <published>2015-06-19T15:34:00-04:00</published>
+    <updated>2015-06-19T15:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/bunker-hill-in-the-rearview-mi"/>
+    <title>Bunker Hill in the Rearview Mirror</title>
+    <s:type>L M</s:type>
+    <s:vendor>Photo Friends of Los Ange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BunkerHill.jpg?v=1434741774" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Photo Friends of Los Ange<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Rise, Fall, and Rise Again of an Urban Neighborhood</p>
+<p>During its history, the area of Downtown Los Angeles known as Bunker Hill has been viewed in many different ways - inaccessible, upscale, run-down, blighted, erased, renewed. Over the decades, these perceptions have always been open to interpretation and either agreed with or challenged. An area that has been subject to more change than any other place in the city, it has arguably invoked more passion and reverence than any other Los Angeles neighborhood, while inspiring equal amounts of disdain. </p>
+<p>Bunker Hill in the Rearview Mirror: The Rise, Fall, and Rise Again of an Urban Neighborhood, an exhibit at the Los Angeles Public Library's Central Library, uses photographs, news articles, recollections, and unique ephemera from LAPL Special Collections to illustrate the complex story of Bunker Hill, from its heyday in the 1800s to its redevelopment in the 1960s and 70s. Curated by librarians Christina Rice, Photo Collection, and Emma Roberts, Art &amp; Music/Rare Books, the exhibit is enhanced by this companion catalog with contributing essays by Adrian Scott Fine, Nathan Marsak, Merry Ovnick, Meredith Drake Reitan, and Donald R. Spivack. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Bunker Hill</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Los Angeles Public Library</s:tag>
+    <s:tag>Photo Friends</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062673155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>109920</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803810691</id>
+    <published>2015-06-05T18:30:00-04:00</published>
+    <updated>2015-06-05T18:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-mug"/>
+    <title>Los Angeles Public Library Mug</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1433543250" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with the logo of the Los Angeles Public Library, these colorful mugs will brighten up your beverage of choice. Nothings announces your love of the library more clearly.</p>
+<ul>
+<li><span style="line-height: 1.4;">Ceramic mug</span></li>
+<li><span style="line-height: 1.4;">Dishwasher safe and microwave safe</span></li>
+<li><span style="line-height: 1.4;">16 oz.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>GRN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010662</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>ORAN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010663</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>BLUE</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010664</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273923</id>
+    <published>2015-06-04T14:41:00-04:00</published>
+    <updated>2015-06-04T14:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a"/>
+    <title>To Live and Dine in L.A.</title>
+    <s:type>X X</s:type>
+    <s:vendor>Library Foundation of LA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineinLA.jpg?v=1433443141" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Library Foundation of LA<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Menus And The Making of the Modern City</p>
+<p>by Josh Kun</p>
+<p>How did Los Angeles become the modern city the world watches? We know some of the answers all too well. Sunshine. Railroads. Hollywood. Freeways. But there's another often overlooked but especially delicious and revealing factor: food.</p>
+<p>Think veggie tacos and designer pizzas, hot dogs on sticks and burgers from golden arches, Cobb Salads and chocolate-topped ice cream sundaes, not to mention the healthiest dishes on the planet. Ask anyone who has eaten in L.A.- the city shapes the tastes that predict how America eats. And it always has. </p>
+<p>In its fourth book collaboration with the Los Angeles Public Library and the Library Foundation of Los Angeles, Angel City Press releases <strong>To Live and Dine in L.A.: Menus and the Making of the Modern City</strong> by Josh Kun. With more than 200 menus - some dating back to the nineteenth century - culled from thousands in the Menu Collection of the Los Angeles Public Library, <strong>To Live and Dine in L.A.</strong> is a visual feast of a book. </p>
+<p>But it's more. Much more. </p>
+<p>In this detailed history, author Josh Kun riffs on what the food of a foodie city says about place and time; how some people eat big while others go hungry, and what that says about the past and <em>now</em>. Kun turns to chefs and cultural observers for their take on modern: Chef Roy Choi sits down long enough to say why he writes "some weird-ass menus." Pulitzer Prize-winning critic Jonathan Gold looks at food as theater, and museum curator Staci Steinberger considers the design of classic menus like Lawry's. Restauranteur Bricia Lopez follows a Oaxacan menu into the heart of Koreatown.</p>
+<p>The city's leading chefs remix vintage menus with a 21st-century spin: Joachim Splichal, Nancy Silverton, Susan Feniger, Ricardo Diaz, Jazz Singsanong, Cynthia Hawkins, Micah Wexler, Ramiro Arvizu and Jaime Martin del Campo cook up the past with new flavors. And, of course, the menus delight: Tick Tock Tea Room, Brown Derby, Trumps, Slapsy Maxie's, Don the Beachcomber, and scores more. </p>
+<p>Kun tackles the timely and critically important topic of food justice, an shows how vintage menus teach us about more than just what's tasty, and serve as guides to the politics, economics, and sociology of eating. </p>
+<p>America is a dining-out nation, and our research indicates that L.A. has long been one of its top dining-out towns. The Library's collection is a living repository of meals past, an archive of urban eating that tells us about the changing historical role of food in the city, which is to say it tells us about just about everything that food touches: economics, culture, taste, race, politics, architecture, class, design, industry, gender, to name just some of the themes that recur on menu pages. </p>
+<p>Kun challenged contributors to tackle subjects that readers may have not contemplated. As the renowned L.A. chef Roy Choi points out in his Forward to <strong>To Live and Dine in L.A.</strong>:</p>
+<p style="padding-left: 60px;">The more I looked at the menus, the more they told me about the city and how neighborhoods developed. But it was the menus that I couldn't find that forced me to ask questions about how life really was. I started to think about how the city is now and if those missing menus were a reflection of life just as it is now. Were these menus of the affluent and middle-class? Were the working classes even eating with menus, or were they mostly eating at stand and carts? Were there disparities and access problems just like today?</p>
+<ul>
+<li><span style="line-height: 1.4;">224 pages, full color throughout</span></li>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Josh Kun</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Menu Collection</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>109890</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648994947</id>
+    <published>2015-05-26T14:45:44-04:00</published>
+    <updated>2015-05-26T14:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/songs-in-the-key-of-los-angeles-by-josh-kun"/>
+    <title>Songs in the Key of Los Angeles by Josh Kun</title>
+    <s:type>B L</s:type>
+    <s:vendor>Angel City Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SongsintheKeyofLA.jpeg?v=1432665947" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Angel City Press<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>"You Can't Go Wrong With These L.A. Songs"</p>
+<p>Hits From The City of Angels Available For The First Time!</p>
+<p>Culled from the Southern California Sheet Music Collection of the Los Angeles Public Library, this unprecedented anthology tells the story of Los Angeles through its songs. Featuring the elaborately designed covers of more than one hundred pieces of vintage sheet music, <em>Songs in the Key of Los Angeles</em> spans 1849 to 1959, offering a rare musical window into Southern California history -- from mythic Missions to infinite oranges, from rumbling railroads to romantic Ramona... and there's Hollywood history, too, harmoniously noted by its music and film industries. Inside you'll find California lullabies and Los Angeles waltzes, sunshine rags and sunset serenades, the emergence of West Coast jazz and the legacy of Mexican folk traditions, all accompanied by an essay from the collection's curator and native Angeleno Josh Kun. Additional arrangements from musicians Van Dyke Parks and Stew, plus a chorus of critics and historians, come together to bring these extraordinary city songs back to life, ready for a new generation of city dwellers.</p>
+<p>Look inside for "Los Angeles! Hurrah!," "Miss Los Angeles Queen of the Golden West," "Angeltown" and other songs you'll enjoy!</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 223 pages with full color images.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648994947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>101836</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648993411</id>
+    <published>2015-05-26T14:45:33-04:00</published>
+    <updated>2015-05-26T14:45:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-cotton-tote-bag"/>
+    <title>Los Angeles Public Library Cotton Tote Bag</title>
+    <s:type>L M</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLTotesEdit.jpeg?v=1432665935" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Show your love for the Los Angeles Public Library with this exclusive tote. This lightweight cotton tote bag can be used to cart anything from books to groceries!</p>
+<ul>
+<li>100 % cotton</li>
+<li>Printed with soy-based inks</li>
+<li>Printed in the USA </li>
+<li>15" x 16" with 24" handles.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648993411</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>104008</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648993411</id>
+      <title>BLUE</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>104009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648993411</id>
+      <title>GREEN</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>104010</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648984323</id>
+    <published>2015-05-26T14:43:50-04:00</published>
+    <updated>2015-05-26T14:43:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-cap"/>
+    <title>Los Angeles Public Library Cap</title>
+    <s:type>L M</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCapsEdit.jpeg?v=1432665832" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep the sun out of your eyes while proclaiming your love for the Los Angeles Public Library!</p>
+<p>Adjustable cap</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648984323</id>
+      <title>NAVY</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>107184</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648984323</id>
+      <title>KHAKI</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>107185</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648974979</id>
+    <published>2015-05-26T14:42:40-04:00</published>
+    <updated>2015-05-26T14:42:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/libraries-of-los-angeles-tote"/>
+    <title>Libraries of Los Angeles Tote</title>
+    <s:type>L M</s:type>
+    <s:vendor>Maptote</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Libraries_of_Los_AngelesTote.jpeg?v=1432665762" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Maptote<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>A Library Store exclusive, in collaboration with <a href="http://maptote.com/">MAPTOTE</a>! Find your way to any of the 73 Los Angeles libraries with this custom tote. It features a map of all library locations on the front, with a listing of branches &amp; addresses on the reverse.</div>
+<div> </div>
+<div>100% Cotton 7 oz Canvas</div>
+<div>Approx. 15" by 16"</div>
+<div>22" handles</div>
+<div>Made in the USA</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Maptote</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648974979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>000035</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648960899</id>
+    <published>2015-05-26T14:41:03-04:00</published>
+    <updated>2015-05-26T14:41:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/defining-their-identity"/>
+    <title>Defining Their Identity</title>
+    <s:type>L M</s:type>
+    <s:vendor>Photo Friends of Los Ange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DefiningTheirIdentityEdit.jpeg?v=1432665665" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Photo Friends of Los Ange<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Defining Their Identity: The Changing Roles of Women in the Post-War Era as Documented by the Valley Times Newspaper</p>
+<p>Edited by Christina Rice with Introduction by Joy Picus, Photographs from the Los Angeles Public Library Photo Collection</p>
+<p>The popular view of women in the years following World War II has come to be of homemakers like television's Donna Reed and June Cleaver who maintained picture perfect households in suburban settings. In many cases this was indeed the primary role assumed by women of the era, but it wasn't the only one. Women pursued advanced degrees, became professionals, held office, excelled in sports, fought for equal rights, and became civically involved, and often while running those households. </p>
+<p>The San Fernando Valley has come to exemplify the post-War suburban growth that took place throughout the country and the <em>Valley Times</em> newspaper was there to document this expansion along with the Valley's dynamic women in their various roles. <em>Defining Their Identity</em> explores their changing roles through the lens of the Los Angeles Public Library's Valley Times' image archive.</p>
+<p>This catalog was published in conjunction with a photo exhibit at Los Angeles Central Library's History &amp; Genealogy Department - <a href="http://www.lapl.org/whats-on/exhibits/defining-their-identity-changing-roles-woman-post-war-era-documented-valley-times">Defining Their Identity: The Changing Roles of Women in the Post-War Era</a>, July 7, 2014 - January 3, 2015.</p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback</span></li>
+<li><span style="line-height: 1.4;">202 pages</span></li>
+<li><span style="line-height: 1.4;">Printed in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648960899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>106648</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648956995</id>
+    <published>2015-05-26T14:40:30-04:00</published>
+    <updated>2015-05-26T14:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/from-pop-to-the-pit"/>
+    <title>From Pop to the Pit</title>
+    <s:type>L M</s:type>
+    <s:vendor>Photo Friends of Los Ange</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cover_75269af0-a903-455d-a1e5-2bc229080d47.jpeg?v=1432665631" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Photo Friends of Los Ange<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Los Angeles has always enjoyed a tremendous amount of diversity, both culturally and geographically. In the 1980s, these varied ethnic and socio-economic backgrounds combined with the environmental influences of the beach, suburbs, or inner-city created an astoundingly unique and memorable period for popular music with L.A. at the epicenter. </p>
+<p>Culled from the Los Angeles Public Library's Herald Examiner photo archive and the Gary Leonard Collection, LAPL and Photo Friends present a glimpse into a decade that produced scores of hit singles, showcased strikingly diverse genres and generated tremendous excitement. From Pop to the Pit: LAPL Photo Collection celebrates the Los Angeles Music Scene 1978 - 1989 relives an extraordinary time in music history with rarely seen images of the bands that helped define the era. </p>
+<p>This catalog was published in conjunction with <a href="http://www.lapl.org/whats-on/exhibits/pop-pit-lapl-photo-collection-celebrates-los-angeles-music-scene-1978-1989">From Pop to the Pit: The LAPL Photo Collection Celebrates the Los Angeles Music Scene 1978 - 1989</a>, a photo exhibit on display in the Central Library History &amp; Genealogy Department Jan. 8 - June 28, 2015.</p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback</span></li>
+<li><span style="line-height: 1.4;">148 pages</span></li>
+<li><span style="line-height: 1.4;">Printed in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648956995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>108807</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953923</id>
+    <published>2015-05-26T14:39:56-04:00</published>
+    <updated>2015-05-26T14:39:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-reading-boxed-notecards"/>
+    <title>Los Angeles Public Library Reading Boxed Notecards</title>
+    <s:type>L M</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/GroupofCards.jpeg?v=1432665599" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chosen from the Los Angeles Public Library Photo Collection, these images are a great representation of a love of reading. </p>
+<ul>
+<li><span style="line-height: 1.4;">Set of 8 notecards, 2 of each design</span></li>
+<li><span style="line-height: 1.4;">9 envelopes</span></li>
+<li><span style="line-height: 1.4;">4 1/2" x 6 1/4"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>012937</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648952707</id>
+    <published>2015-05-26T14:39:42-04:00</published>
+    <updated>2015-05-26T14:39:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-mens-tshirt"/>
+    <title>Los Angeles Public Library Men&apos;s Tshirt</title>
+    <s:type>L M</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Men_sFront.jpeg?v=1432665584" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Let your love for the Los Angeles Public Library shine! Wear this vintage library stamp-inspired shirt and support the library!</p>
+<ul>
+<li>100% cotton</li>
+<li>Distressed, softened print</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952707</id>
+      <title>S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106381</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952707</id>
+      <title>M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106382</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952707</id>
+      <title>L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106383</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952707</id>
+      <title>XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106384</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952707</id>
+      <title>2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106385</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648951811</id>
+    <published>2015-05-26T14:39:32-04:00</published>
+    <updated>2015-05-26T14:39:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-womens-tshirt"/>
+    <title>Los Angeles Public Library Women&apos;s Tshirt</title>
+    <s:type>L M</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Women_sFolded.jpeg?v=1432665573" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>How much do you love the Los Angeles Public Library? You can show your LAPL pride by wearing this vintage library stamp-inspired shirt.</p>
+<ul>
+<li>Poly/cotton v-neck tee</li>
+<li>Distressed, softened print</li>
+<li>Slim fit; runs a size small</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951811</id>
+      <title>S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106387</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951811</id>
+      <title>M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106388</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951811</id>
+      <title>L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106389</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951811</id>
+      <title>XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106390</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951811</id>
+      <title>2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>106391</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648950851</id>
+    <published>2015-05-26T14:39:20-04:00</published>
+    <updated>2015-05-26T14:39:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-graphite-pencil"/>
+    <title>Los Angeles Public Library Graphite Pencil</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/GraphitPencils.jpeg?v=1432665561" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These unique pencils are made of solid graphite! They come in a variety of metallic colors.</p>
+<p>Sold individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Pencils</s:tag>
+    <s:tag>Coloring</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648950851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>010316</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648950595</id>
+    <published>2015-05-26T14:39:17-04:00</published>
+    <updated>2015-05-26T14:39:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-bendable-eraser"/>
+    <title>Los Angeles Public Library Bendable Eraser</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLerasers.jpeg?v=1432665559" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An eraser that takes making mistakes in a fun direction. Who would mind pulling out this floppy eraser to remove the unwanted marks from the page. Comes in a variety of colors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eraser</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648950595</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>010317</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648950467</id>
+    <published>2015-05-26T14:39:15-04:00</published>
+    <updated>2015-05-26T14:39:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-eraser"/>
+    <title>Los Angeles Public Library Eraser</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/EraserRainbow.jpeg?v=1432665556" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's an eraser that shows how much you love Los Angeles Public Library. Comes in a variety of colors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eraser</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648950467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>010318</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648950275</id>
+    <published>2015-05-26T14:39:12-04:00</published>
+    <updated>2015-05-26T14:39:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-magnifying-bookmark"/>
+    <title>Los Angeles Public Library Magnifying Bookmark</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MagnifyingBookmarks.jpeg?v=1432665554" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bookmark has magnifying power!</p>
+<p>Sold individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book Mark</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648950275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>100619</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648949827</id>
+    <published>2015-05-26T14:39:07-04:00</published>
+    <updated>2015-05-26T14:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-eco-pencils"/>
+    <title>Los Angeles Public Library Eco Pencils</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/EcoPencilsinContainer.jpeg?v=1432665548" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 colored pencils made from recycled newspaper tucked away in a recycled tube that shouts out your love for Los Angeles Public Library!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Pencils</s:tag>
+    <s:tag>Coloring</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648949827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>100682</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648949123</id>
+    <published>2015-05-26T14:38:59-04:00</published>
+    <updated>2015-05-26T14:38:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/central-library-golden-pin"/>
+    <title>Central Library Golden Pin</title>
+    <s:type>L M</s:type>
+    <s:vendor>Library Foundation of LA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryGoldPin.jpeg?v=1432665540" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Library Foundation of LA<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">This cast metal pin is the perfect memento from Central Library.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Central Library</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Pin</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648949123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>103588</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948931</id>
+    <published>2015-05-26T14:38:57-04:00</published>
+    <updated>2015-05-26T14:38:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-color-changing-pencil"/>
+    <title>Los Angeles Public Library Color Changing Pencil</title>
+    <s:type>L M</s:type>
+    <s:vendor>National Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ColorChangePencils.jpeg?v=1432665538" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>National Design<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pencils that change color with the heat of your hand!? Could they make writing any more fun? Comes in a variety of colors.</p>
+<p>Sold individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>103631</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648944387</id>
+    <published>2015-05-26T14:38:08-04:00</published>
+    <updated>2015-05-26T14:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-pen"/>
+    <title>Los Angeles Public Library Pen</title>
+    <s:type>L M</s:type>
+    <s:vendor>Prodir SA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryPen.jpeg?v=1432665488" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Prodir SA<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We love the way these pens feel and write. Let the Los Angeles Public Library inspire your next writing. </p>
+<ul>
+<li><span style="line-height: 1.4;">Black ink pen</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>pen</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648944387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>000001</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648943939</id>
+    <published>2015-05-26T14:38:05-04:00</published>
+    <updated>2015-05-26T14:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/central-library-enamel-pin"/>
+    <title>Central Library Enamel Pin</title>
+    <s:type>L M</s:type>
+    <s:vendor>Focus On Souvenirs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Central_Library_Enamel_Pin.jpeg?v=1432665487" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Focus On Souvenirs<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enameled pin depicting the view of Central Library from the Maguire Gardens.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Central Library</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Pin</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648943939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>010461</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648943683</id>
+    <published>2015-05-26T14:38:04-04:00</published>
+    <updated>2015-05-26T14:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-keychain"/>
+    <title>Los Angeles Public Library Keychain</title>
+    <s:type>L M</s:type>
+    <s:vendor>Focus On Souvenirs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLKeyChain.jpeg?v=1432665485" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Focus On Souvenirs<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring a view of Central Library from the Maguire Gardens, these key chains have a stain-glass effect.</p>
+<p>Sold individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Key Chain</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648943683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>013082</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648940291</id>
+    <published>2015-05-26T14:37:38-04:00</published>
+    <updated>2015-05-26T14:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/central-library-boxed-notecards"/>
+    <title>Central Library Boxed Notecards</title>
+    <s:type>L M</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CentralLibraryCard.jpeg?v=1432665459" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This set of notecards depicts a beautiful historical graphic of the Los Angeles Public Library circa 1926. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Includes 8 notecards and 9 envelopes</span></li>
+<li><span style="line-height: 1.4;">5" x 6 1/2"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Central Library</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648940291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>009137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

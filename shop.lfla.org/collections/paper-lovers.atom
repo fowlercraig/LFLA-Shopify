@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/paper-lovers.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-08T17:45:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/864337219</id>
+    <published>2015-06-08T17:45:00-04:00</published>
+    <updated>2015-06-08T17:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/thank-you-books-card"/>
+    <title>Thank You Books Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Regional Assembly of Text</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Closeup.jpg?v=1433799940" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Regional Assembly of Text<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>What better way to say thanks than with a stack of books?</span></p>
+<p><span>A2 note 5 1/2" x 4 1/4" with matching envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>card</s:tag>
+    <s:tag>note</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Thank you</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/864337219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>101979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804268163</id>
+    <published>2015-06-04T14:29:00-04:00</published>
+    <updated>2015-06-04T14:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/balloon-little-notes"/>
+    <title>Balloon Little Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>E. Frances Paper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BalloonLittleNotes.jpg?v=1433545927" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>E. Frances Paper<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Better than a sticky-note, with a bright red balloon, these Little Notes are just the thing to brighten someone's day. </p>
+<ul>
+<li><span>Pack of 85</span></li>
+<li><span>3 1/2 x 2 inches</span></li>
+<li><span>Printed in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balloon</s:tag>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Boxed Notes</s:tag>
+    <s:tag>E.Frances Paper</s:tag>
+    <s:tag>Notecards</s:tag>
+    <s:tag>Notes</s:tag>
+    <s:tag>Paper</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804268163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>108889</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938307</id>
+    <published>2015-06-02T19:17:00-04:00</published>
+    <updated>2015-06-02T19:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/no-1-pencil-little-notes"/>
+    <title>No. 1 Pencil Little Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>E. Frances Paper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PencilNotes.jpg?v=1433285943" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>E. Frances Paper<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These sweet Little Notes are the perfect thing to send surprise hellos, pocket notes, and lunchbox love. </p>
+<p>Use unsparingly. </p>
+<ul>
+<li><span style="line-height: 1.4;">Set of 85 little notes</span></li>
+<li><span style="line-height: 1.4;">2 x 3 1/2 inches</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>E. Frances Paper</s:tag>
+    <s:tag>Notecards</s:tag>
+    <s:tag>Paper</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>109855</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987011</id>
+    <published>2015-05-26T14:44:11-04:00</published>
+    <updated>2015-05-26T14:44:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/birthday-books-card"/>
+    <title>Birthday Books Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Regional Assembly of Text</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BirthdayBooksCardEdit.jpeg?v=1432665854" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Regional Assembly of Text<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect card for the book lover's birthday! </p>
+<p>A2 note 5 1/2" x 4 1/4" with matching envelope. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>101978</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648985539</id>
+    <published>2015-05-26T14:43:58-04:00</published>
+    <updated>2015-05-26T14:43:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/write-drunk-edit-sober-card"/>
+    <title>Write Drunk, Edit Sober Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Obvious State/Paris Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/WriteDrunkCardPencilEdit.jpeg?v=1432665838" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Obvious State/Paris Print<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Send a bit of inspiration with a quote from Hemingway. </span></p>
+<p><span>A2 note 5 1/2" x 4 1/4" with black envelope</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Write drunk Edit sober</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648985539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>104869</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648985283</id>
+    <published>2015-05-26T14:43:57-04:00</published>
+    <updated>2015-05-26T14:43:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-set-of-8-boxed-notes"/>
+    <title>Los Angeles Set of 8 Boxed Notes</title>
+    <s:type>S D</s:type>
+    <s:vendor>Rifle Paper Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesCards.jpeg?v=1432665837" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Rifle Paper Co.<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Slow down the Los Angeles pace for a minute to send some old fashioned correspondence. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Created from original art work by Anna Bond.</span></li>
+<li><span style="line-height: 1.4;">Set of 8 A2 notecards and envelopes</span></li>
+<li><span style="line-height: 1.4;">5 1/2" x 4 1/4"</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648985283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>105458</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648978179</id>
+    <published>2015-05-26T14:42:58-04:00</published>
+    <updated>2015-05-26T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-like-big-books-card"/>
+    <title>I Like Big Books Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Alisa Bobzien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Card.jpeg?v=1432665781" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Alisa Bobzien<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This "I Like Big Books and I Cannot Lie" card comes with a coordinating kraft envelope. </p>
+<meta charset="utf-8">
+<p>A2, 5 1/2" x 4 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>card</s:tag>
+    <s:tag>I Like Big Books</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648978179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>108705</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648977411</id>
+    <published>2015-05-26T14:42:55-04:00</published>
+    <updated>2015-05-26T14:42:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/reading-is-sexy-sticker"/>
+    <title>Reading is Sexy Sticker</title>
+    <s:type>S K</s:type>
+    <s:vendor>buyolympia.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ReadingisSexyStickerEdit.jpeg?v=1432665776" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>buyolympia.com<br>
+        <strong>Type: </strong>S K<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>What better way to show the world how smart and cheeky you are by having a </span><b>Reading is Sexy</b><span> sticker! Decorate your cubicle, car, or home with this super cute message. You can even use it as a bookmark. </span><br><br></p>
+<ul>
+<li><span style="line-height: 1.4;">5.5" x 2.13"</span></li>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Reading is Sexy</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Sticker</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648977411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>000368</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648972611</id>
+    <published>2015-05-26T14:42:25-04:00</published>
+    <updated>2015-05-26T14:42:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/card-catalog-30-notecard-set"/>
+    <title>Card Catalog: 30 Notecard Set</title>
+    <s:type>S C</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Box2.jpeg?v=1432665746" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Evoking memories of book-filled libraries, this handy notecard set reproduces the original cards used to keep track of literary classics. Enclosed in a keepsake replica card catalog box with tabbed dividers, each card features a different beloved work of literature straight from the storied collection of the Library of Congress.
+<p> </p>
+<p>Thirty 5" x 3" notecard replecations from the Library of Congress with 30 envelopes</p>
+<p>Box tray with slip case approx. 6" x 4" x 4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Card Catalog</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648972611</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>101878</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648964099</id>
+    <published>2015-05-26T14:41:29-04:00</published>
+    <updated>2015-05-26T14:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-assorted-library-cards"/>
+    <title>50 Assorted Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardsTemplate.jpeg?v=1432665691" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A fun five-color assortment of 50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648964099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106015</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648963075</id>
+    <published>2015-05-26T14:41:24-04:00</published>
+    <updated>2015-05-26T14:41:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-glasses-card"/>
+    <title>Los Angeles Glasses Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Dear Hancock</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesGlassesCard.jpeg?v=1432665685" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Dear Hancock<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send some Love from the home of Hollywood.</p>
+<ul>
+<li><span style="line-height: 1.4;">A2 notecard with envelope</span></li>
+<li><span style="line-height: 1.4;">5 1/2" x 4 1/4"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>card</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648963075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>106224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961219</id>
+    <published>2015-05-26T14:41:07-04:00</published>
+    <updated>2015-05-26T14:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-yellow-library-cards"/>
+    <title>50 Yellow Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SidebySideTemplate.jpeg?v=1432665669" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106594</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953923</id>
+    <published>2015-05-26T14:39:56-04:00</published>
+    <updated>2015-05-26T14:39:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lapl-reading-boxed-notecards"/>
+    <title>Los Angeles Public Library Reading Boxed Notecards</title>
+    <s:type>L M</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/GroupofCards.jpeg?v=1432665599" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chosen from the Los Angeles Public Library Photo Collection, these images are a great representation of a love of reading. </p>
+<ul>
+<li><span style="line-height: 1.4;">Set of 8 notecards, 2 of each design</span></li>
+<li><span style="line-height: 1.4;">9 envelopes</span></li>
+<li><span style="line-height: 1.4;">4 1/2" x 6 1/4"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>012937</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648943363</id>
+    <published>2015-05-26T14:38:01-04:00</published>
+    <updated>2015-05-26T14:38:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/mini-pencils"/>
+    <title>Mini Pencils</title>
+    <s:type>S G</s:type>
+    <s:vendor>JPT America, Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MiniColorPencils.jpeg?v=1432665482" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>JPT America, Inc<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These tiny color pencils are almost too cute. Almost. They're just right for a pocket sketchbook and come with their own tiny sharpener to keep them on point!</p>
+<ul>
+<li><span style="line-height: 1.4;">12 mini color pencils</span></li>
+<li><span style="line-height: 1.4;">Mini pencil sharpener</span></li>
+<li><span style="line-height: 1.4;">Mini eraser</span></li>
+<li><span style="line-height: 1.4;">Carrying case</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>Colored Pencils</s:tag>
+    <s:tag>Coloring</s:tag>
+    <s:tag>Pencil</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648943363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>003033</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648942915</id>
+    <published>2015-05-26T14:38:00-04:00</published>
+    <updated>2015-05-26T14:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-boxed-notecards"/>
+    <title>Los Angeles Boxed Notecards</title>
+    <s:type>S C</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesCards_7a62be26-a1d7-40a1-baac-66ca942cf36c.jpeg?v=1432665480" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The image for these nostalgic cards comes from a vintage travel poster. </p>
+<ul>
+<li><span style="line-height: 1.4;">8 notecards, 9 envelopes</span></li>
+<li><span style="line-height: 1.4;">5" x 6 1/2"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648942915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>006516</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648942467</id>
+    <published>2015-05-26T14:37:58-04:00</published>
+    <updated>2015-05-26T14:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/welcome-to-california-boxed-notecards"/>
+    <title>Welcome to California Boxed Notecards</title>
+    <s:type>S C</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/WelcometoCalCard.jpeg?v=1432665479" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These cards are sure to send some California cheer.</p>
+<meta charset="utf-8">
+<ul>
+<li><span>Includes 8 notecards and 9 envelopes</span></li>
+<li><span>5" x 6 1/2"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648942467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>009234</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648941635</id>
+    <published>2015-05-26T14:37:54-04:00</published>
+    <updated>2015-05-26T14:37:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-library-is-cool-sticker"/>
+    <title>The Library is Cool Sticker</title>
+    <s:type>S K</s:type>
+    <s:vendor>Little Red Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheLibraryisCoolSticker.jpeg?v=1432665474" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Little Red Press<br>
+        <strong>Type: </strong>S K<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>You know the library is cool. Remind everyone else with this sticker!</p>
+<ul>
+<li><span style="line-height: 1.4;">2 x 7 1/2 inches</span></li>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Sticker</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648941635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>106138</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648941443</id>
+    <published>2015-05-26T14:37:49-04:00</published>
+    <updated>2015-05-26T14:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/darth-vader-family-notecards"/>
+    <title>Darth Vader &amp; Family Notecards</title>
+    <s:type>S D</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/IceCream.jpeg?v=1432665472" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This collection of new illustrations from Jeffrey Brown's bestselling Darth Vader series is perfect for sending greetings to family and friends or anyone in need of galactic good cheer.</p>
+<ul>
+<li>20 notecards and envelopes</li>
+<li>5 designs (4 of each)</li>
+<li>approx. 4 x 5 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Star Wars</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648941443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>106622</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648940291</id>
+    <published>2015-05-26T14:37:38-04:00</published>
+    <updated>2015-05-26T14:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/central-library-boxed-notecards"/>
+    <title>Central Library Boxed Notecards</title>
+    <s:type>L M</s:type>
+    <s:vendor>Found Image Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CentralLibraryCard.jpeg?v=1432665459" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Found Image Press<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This set of notecards depicts a beautiful historical graphic of the Los Angeles Public Library circa 1926. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Includes 8 notecards and 9 envelopes</span></li>
+<li><span style="line-height: 1.4;">5" x 6 1/2"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Central Library</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648940291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>009137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938819</id>
+    <published>2015-05-26T14:37:25-04:00</published>
+    <updated>2015-05-26T14:37:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/high-five-notecards"/>
+    <title>High Five! Notecards</title>
+    <s:type>S D</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/HighFivePopUpCards.jpeg?v=1432665446" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pop-up cards of ridiculously cute animals high-fiving are the perfect thing for any occasion. Say congrats, thanks, or even just hi.</p>
+<ul>
+<li><span style="line-height: 1.4;">10 notecards &amp; 10 envelopes</span></li>
+<li><span style="line-height: 1.4;">2 each of 5 designs</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>card</s:tag>
+    <s:tag>Cards</s:tag>
+    <s:tag>Cats</s:tag>
+    <s:tag>Dogs</s:tag>
+    <s:tag>notecard</s:tag>
+    <s:tag>Notecards</s:tag>
+    <s:tag>Pop-up</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>109414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

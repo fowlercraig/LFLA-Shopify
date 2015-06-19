@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/bibliophiles.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-19T15:00:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/648953859</id>
+    <published>2015-06-19T15:00:00-04:00</published>
+    <updated>2015-06-19T15:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/reading-is-sexy-button"/>
+    <title>Reading is Sexy Button</title>
+    <s:type>A P</s:type>
+    <s:vendor>buyolympia.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PinswithGlasses.jpeg?v=1432665596" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>buyolympia.com<br>
+        <strong>Type: </strong>A P<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>What better way to show the world how smart and cheeky you are by having a </span>Reading is Sexy<span> button! Smart up your outfit or backpack and get instant genius cred. This unique button is made by L.A. artist Sarah Utter, formerly of the band BANGS.</span><br><br></p>
+<ul>
+<li><span style="line-height: 1.4;">2 1/4" Button</span></li>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pin</s:tag>
+    <s:tag>Reading is Sexy</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>000941</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987075</id>
+    <published>2015-06-03T16:07:00-04:00</published>
+    <updated>2015-06-03T16:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespearean-insult-bandages"/>
+    <title>Shakespearean Insult Bandages</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareInsultBandages.jpg?v=1433291822" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add insult to injury with Shakespearean Insult Bandages. Each bandage is printed with a picture and insulting quote. </p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Fifteen </span><span style="line-height: 1.4;">1 x 3</span><span style="line-height: 1.4;"> inch bandages</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Decorative ti</span><span style="line-height: 1.4;">n box</span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bandages</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>Classic Literature</s:tag>
+    <s:tag>Insult</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>Shakespeare</s:tag>
+    <s:tag>Shakespearean Insult</s:tag>
+    <s:tag>William</s:tag>
+    <s:tag>William Shakespeare</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>101030</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938499</id>
+    <published>2015-06-02T20:21:00-04:00</published>
+    <updated>2015-06-02T20:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespeare-candy"/>
+    <title>Shakespeare Candy</title>
+    <s:type>G F</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareCandy.jpg?v=1433290327" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G F<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The next time you reach for the collected works of William Shakespeare, you might be surprised to find that it's full of candy! This clever, tiny book is full of lemon-flavored candy decorated with the Bard's face! Any sweet tooth with a dramatic bent (and English majors) will appreciate the hard candy hidden inside. The package looks great on a bookshelf with other books or backstage when you're performing the "The Scottish Play."</p>
+<p>3.3 oz of lemon flavor hard candy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>archie mcphee</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>classic</s:tag>
+    <s:tag>Classic Literature</s:tag>
+    <s:tag>lemon</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>Shakespeare</s:tag>
+    <s:tag>William</s:tag>
+    <s:tag>William Shakespeare</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>109563</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648995907</id>
+    <published>2015-05-26T14:45:50-04:00</published>
+    <updated>2015-05-26T14:45:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/jane-austen-bandages"/>
+    <title>Jane Austen Bandages</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BandagesEdit_196b2abb-5939-4e7a-b00a-2775e42f760a.jpeg?v=1432665951" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What better way to protect your wounds than with an author synonymous with the romance of the landed gentry? If only they healed wounds of the heart...</p>
+<meta charset="utf-8">
+<ul>
+<li>
+<span>Fifteen</span><span> 3" x 1" sterile latex-free adhesive strips</span>
+</li>
+<li><span>Comes with a free prize!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bandages</s:tag>
+    <s:tag>Jane Austen</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648995907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>101027</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648994499</id>
+    <published>2015-05-26T14:45:39-04:00</published>
+    <updated>2015-05-26T14:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/and-then-story-starters"/>
+    <title>And Then Story Starters</title>
+    <s:type>C G</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AndThenTemplate.jpeg?v=1432665942" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C G<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>And Then is a collection of 20 beginnings. What will the endings look like? It's up to you. Each of the cards in this box has a tantalizing start to a story you and your child will want to finish. After the And then... it's up to you to decide what happens next. Encourage self-expression, creativity, and confidence at home, on the road, or in the classroom.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">20 story starter cards</span></li>
+<li><span style="line-height: 1.4;">Ages 4 to 104</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>And Then</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648994499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>101850</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648992835</id>
+    <published>2015-05-26T14:45:32-04:00</published>
+    <updated>2015-05-26T14:45:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/edgar-allan-poe-bandages"/>
+    <title>Edgar Allan Poe Bandages</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BandagesEdit.jpeg?v=1432665933" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Edgar Allan Poe is associated with the macabre, so it's only natural that his image would be on bandages covering your wounds.</span></p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Fifteen</span><span style="line-height: 1.4;"> 3" x 1" sterile latex-free adhesive strips</span>
+</li>
+<li><span style="line-height: 1.4;">Comes with a free prize!</span></li>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bandages</s:tag>
+    <s:tag>Edgar Allan Poe</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648992835</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>104962</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648992707</id>
+    <published>2015-05-26T14:45:30-04:00</published>
+    <updated>2015-05-26T14:45:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/jane-austen-tattoos"/>
+    <title>Jane Austen Tattoos</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Tin.jpeg?v=1432665931" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Jane Austen Tattoos let the world know that you love the romance and complex manners of England in the early 1800s. Of course, in those days only brigands and sailors had tattoos, but today even the highly cultured decorate themselves with ink (at least temporarily). They'll help you show your undying love for Mr. Darcy and his 10,000 pounds a year, plus your fondness for "bad boys" John Willoughby and George Wickham.</p>
+<p>Twenty-two temporary tattoos <span style="line-height: 1.4;">come in an illustrated 5" x 5 1/2" x 1/2" tin.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jane Austen</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>Temporary Tattoos</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648992707</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>104963</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648992515</id>
+    <published>2015-05-26T14:45:27-04:00</published>
+    <updated>2015-05-26T14:45:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/jane-austen-action-figure"/>
+    <title>Jane Austen Action Figure</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/HeadshotEdit_ffb031bf-26bd-4b98-9b1f-3312a5405029.jpeg?v=1432665929" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This Jane Austen action figure pays homage to one of history's greatest observers of human behavior. It includes a book and quill as accessories and is the perfect gift for any Austen fan no matter their sensibility or prejudices. </p>
+<ul>
+<li><span style="line-height: 1.4;">5 1/2" tall</span></li>
+<li><span style="line-height: 1.4;">Hard vinyl </span></li>
+<li><span style="line-height: 1.4;">Ages 3+</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Action Figure</s:tag>
+    <s:tag>Jane Austen</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648992515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>104964</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648992451</id>
+    <published>2015-05-26T14:45:25-04:00</published>
+    <updated>2015-05-26T14:45:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/edgar-allan-poe-action-figure"/>
+    <title>Edgar Allan Poe Action Figure</title>
+    <s:type>G G</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BoxEdit.jpeg?v=1432665926" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This Edgar Allan Poe Action Figure captures the father of the modern horror story in stark black and white with a hauntingly pale complexion and a removable plastic raven. Pose him on your bookshelf next to your volumes of his poetry and prose.</p>
+<ul>
+<li>5 1/4" tall</li>
+<li>Hard vinyl</li>
+<li>Ages 3+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Action Figure</s:tag>
+    <s:tag>Edgar Allan Poe</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648992451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>104966</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648991299</id>
+    <published>2015-05-26T14:45:13-04:00</published>
+    <updated>2015-05-26T14:45:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/literary-listography"/>
+    <title>Literary Listography</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiteraryListographyEdit.jpeg?v=1432665915" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>My Reading Life in Lists</p>
+<p>by Lisa Nola</p>
+<p>Now fans of the bestselling Listography Journal series can keep track of their literary life - past, present, and future. With over 70 entertaining and thought-provoking list topics ranging from the quintessential (favorite books by genre, authors to explore) to the lovably idiosyncratic (favorite reading spots, books to skip), this illustrated journal will serve as a unique autobiography and reading log for bibliophiles.</p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback, 160 pages with colorful illustrations</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>106634</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648990851</id>
+    <published>2015-05-26T14:45:05-04:00</published>
+    <updated>2015-05-26T14:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/100-not-so-famous-views-of-l-a"/>
+    <title>100 Not So Famous Views of L.A.</title>
+    <s:type>B L</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/100NotSoFamousViewsFlattened.jpeg?v=1432665907" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Barbara A. Thomason</p>
+<p>For four years, artist Barbara A. Thomason roamed her beloved Los Angeles, seeking the vistas, nooks, bridges, signs, streets, and landmarks that most captivated her. Inspired by Hiroshige's acclaimed print series <em>One Hundred Famous Views of Edo</em>, this grand project resulted in the one hundred paintings reproduced within. Intimate, often recognizable and sometimes unexpected, Thomason's paintings capture the vibrant L.A., the quirky L.A., the beautiful L.A. - the essential L.A.</p>
+<p>With commentary and history from the artist, and a foreword by David L. Ulin. </p>
+<p>Barbara A. Thomason is a Los Angeles-based artist whose paintings, prints, and drawings have been exhibited widely. She was a master printer at Gemini G.E.L., printing for such artists as Jasper Johns, Claes Oldenberg, and Ed Ruscha, and she has taught art at several leading California institutions, including Otis College of Art &amp; Design and California Polytechnic University, Pomona.</p>
+<p>David L. Ulin is book critic for the Los Angeles Times, the editor of <em>Writing Los Angeles: A Literary Anthology</em>, and the author of many books. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 206 pages, full color illustrations. </span></li>
+<li><span style="line-height: 1.4;">Autographed Copy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648990851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>107163</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648986371</id>
+    <published>2015-05-26T14:44:02-04:00</published>
+    <updated>2015-05-26T14:44:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/books-ive-read-journal"/>
+    <title>Books I&apos;ve Read Journal</title>
+    <s:type>S J</s:type>
+    <s:vendor>Random House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CroppedEdit.jpeg?v=1432665844" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Random House<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Bibliophiles Journal</p>
+<p>Regardless of whether you favor printed or digital books, why not keep tangible record of your reading experience? Featuring enchanting watercolors of book-filled rooms and lists of prize-winning books, this journal also serves as a lovely object to keep by your bed, next to a favorite chair, or anywhere else in your home where you like to rest and reflect. </p>
+<ul>
+<li><span style="line-height: 1.4;">Introduction by Deborah Needleman</span></li>
+<li><span style="line-height: 1.4;">Illustrations by Virginia Johnson</span></li>
+<li><span style="line-height: 1.4;">Hardcover journal, sold individually</span></li>
+<li><span style="line-height: 1.4;">240 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Journal</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648986371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>102900</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648984067</id>
+    <published>2015-05-26T14:43:46-04:00</published>
+    <updated>2015-05-26T14:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/banned-books-zip-pouch"/>
+    <title>Banned Books Zip Pouch</title>
+    <s:type>A R</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Zip2Template.jpeg?v=1432665829" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A R<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This little zip pouch holds <em>literally</em> anything!</p>
+<ul>
+<li><span style="line-height: 1.4;">9" x 6" </span></li>
+<li><span style="line-height: 1.4;">100% cotton canvas</span></li>
+<li><span style="line-height: 1.4;">Zipper closure</span></li>
+<li><span style="line-height: 1.4;">Made in USA</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banned Books</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Zip Pouch</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648984067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>107246</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982915</id>
+    <published>2015-05-26T14:43:31-04:00</published>
+    <updated>2015-05-26T14:43:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/edgar-allan-poe-temporary-tattoos"/>
+    <title>Edgar Allan Poe Temporary Tattoos</title>
+    <s:type>G S</s:type>
+    <s:vendor>Accoutrements</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TinEdit.jpeg?v=1432665813" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Accoutrements<br>
+        <strong>Type: </strong>G S<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Tell-Tale Tats</p>
+<p>This set of temporary Edgar Allan Poe Tattoos reveals the darkness you have inside to the rest of the world. Nevermore will you have to be without the terrifying visage of the murderous jester, Hop-Frog to mark your flesh. Not to mention, you'll get various ravens and a Poe tombstone. </p>
+<p>Thirty-three temporary tattoos come in an illustrated 5" x 5 1/2" x 1/2" tin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Edgar Allan Poe</s:tag>
+    <s:tag>Temporary Tattoos</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>107282</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648978179</id>
+    <published>2015-05-26T14:42:58-04:00</published>
+    <updated>2015-05-26T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-like-big-books-card"/>
+    <title>I Like Big Books Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Alisa Bobzien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Card.jpeg?v=1432665781" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Alisa Bobzien<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This "I Like Big Books and I Cannot Lie" card comes with a coordinating kraft envelope. </p>
+<meta charset="utf-8">
+<p>A2, 5 1/2" x 4 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>card</s:tag>
+    <s:tag>I Like Big Books</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648978179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>108705</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648976963</id>
+    <published>2015-05-26T14:42:51-04:00</published>
+    <updated>2015-05-26T14:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/well-read-women"/>
+    <title>Well-Read Women</title>
+    <s:type>B K</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/WellReadWomenEdit.jpeg?v=1432665774" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Portraits of Fiction's Most Beloved Heroines</p>
+<p>By Samantha Hahn</p>
+<p>A treasure of a gift for the well-read woman, this collection brings together 50 stirring portraits, in watercolor and in word, of literature's most well-read female characters. Anna Karenina, Clarissa Dalloway, Daisy Buchanan...each seems to live on the page through celebrated artist Samantha Hahn's evocative portraits and hand lettered quotations, with the pairing of art and text capturing all the spirit of the character as she was originally written. The book itself evokes vintage grace reimagined for contempary taste, with a cloth spine silkscreened in a graphic pattern, debossed cover, and pages that turn with the tactile satisfaction of watercolor paper. In the hand and in the reading, here is a new classic for the book and art lover's library.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 107 pages with full-color illustrations</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648976963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>101888</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648964099</id>
+    <published>2015-05-26T14:41:29-04:00</published>
+    <updated>2015-05-26T14:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-assorted-library-cards"/>
+    <title>50 Assorted Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardsTemplate.jpeg?v=1432665691" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A fun five-color assortment of 50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648964099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106015</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648962755</id>
+    <published>2015-05-26T14:41:21-04:00</published>
+    <updated>2015-05-26T14:41:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/fictitious-dishes"/>
+    <title>Fictitious Dishes</title>
+    <s:type>B K</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/FictitiousDishesEdit.jpeg?v=1432665683" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An Album of Literature's Most Memorable Meals</p>
+<p>by Dinah Fried</p>
+<p>Fifty Iconic Culinary Scenes from Literary Classics Sure to Delight Readers, Foodies, and Photo-Junkies Alike</p>
+<p>Fictitious Dishes serves up a delectable assortment of photographic interpretations of culinary moments from contemporary and classic literature. Showcasing famous meals such as the madcap tea party from Alice's Adventures in Wonderland, the watery gruel from Oliver Twist, the lavish chicken breakfast from To Kill a Mockingbird, the stomach-turning avocado-and crabmeat salad from The Bell Jar, and the seductive cupcakes from The Corrections, this unique volume pairs each place setting with the text from the book that inspired its creation. Interesting food facts and entertaining anecdotes about the authors, their work, and their culinary predilections complete this charming book, which is sure to whet the appetites of lovers of great literature and delicious dishes.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, sold individually</span></li>
+<li><span style="line-height: 1.4;">128 pages</span></li>
+<li><span style="line-height: 1.4;">Full-color photography</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648962755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>106247</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961219</id>
+    <published>2015-05-26T14:41:07-04:00</published>
+    <updated>2015-05-26T14:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/50-yellow-library-cards"/>
+    <title>50 Yellow Library Cards</title>
+    <s:type>S G</s:type>
+    <s:vendor>Knot &amp; Bow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SidebySideTemplate.jpeg?v=1432665669" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Knot &amp; Bow<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>50 library cards. Printed on sturdy card stock with tons of old school appeal!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>106594</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648959107</id>
+    <published>2015-05-26T14:40:44-04:00</published>
+    <updated>2015-05-26T14:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/constellation-huxley-print"/>
+    <title>Aldous Huxley Print</title>
+    <s:type>S P</s:type>
+    <s:vendor>Obvious State/Paris Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AldousHuxleyPrint.jpeg?v=1432665645" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Obvious State/Paris Print<br>
+        <strong>Type: </strong>S P<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>"Maybe this world is another planet's hell." - Aldous Huxley</span></p>
+<p><span>In this print inspired by dystopian author Aldous Huxley, a new constellation depicts the face of a crying god, a distant better world shining in its eye, and the earth far below, trapped in a teardrop.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">13" x 19"</span></li>
+<li><span style="line-height: 1.4;">Matte-finish, heavy-weight, archival paper</span></li>
+<li><span style="line-height: 1.4;">Artwork from Obvious State</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aldous Huxley</s:tag>
+    <s:tag>Poster</s:tag>
+    <s:tag>Print</s:tag>
+    <s:tag>Quote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648959107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>107793</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648954307</id>
+    <published>2015-05-26T14:40:01-04:00</published>
+    <updated>2015-05-26T14:40:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/books-to-check-out-journal"/>
+    <title>Books to Check Out Journal</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BookstoCheckOut.jpeg?v=1432665602" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Inspired by the hand-stamped due date cards from public libraries, this clever journal has sections for keeping track of books to read, favorite passages, and books lent and borrowed. Includes a handy pocket for review clippings.</p>
+<p>Hard cover spiral bound journal, 128 Pages</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Journal</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648954307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>007051</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953219</id>
+    <published>2015-05-26T14:39:47-04:00</published>
+    <updated>2015-05-26T14:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/alice-in-wonderland-womens-tshirt"/>
+    <title>Alice in Wonderland Women&apos;s Tshirt</title>
+    <s:type>A S</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Angle.jpeg?v=1432665588" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A S<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Follow Alice down the rabbit hole in this t-shirt and have a "mad" tea party. An Out of Print adaptation of classic illustrations by Sir John Tenniel. Things certainly are getting "curiouser and curiouser."</p>
+<ul>
+<li>Cotton/poly v-neck tee</li>
+<li>Distressed, softened print</li>
+<li>Slim fit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alice in Wonderland</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953219</id>
+      <title>S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>100989</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953219</id>
+      <title>M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>100990</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953219</id>
+      <title>L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>100991</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953219</id>
+      <title>XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>100992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648952259</id>
+    <published>2015-05-26T14:39:36-04:00</published>
+    <updated>2015-05-26T14:39:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-raven-tshirt"/>
+    <title>The Raven Tshirt</title>
+    <s:type>A S</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheRavenFolded.jpeg?v=1432665578" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A S<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Be without an Edgar Allan Poe shirt nevermore (merely this and nothing more). Cover illustration by Gustave Dore for one of Poe's most celebrated poems.</p>
+<ul>
+<li>Cotton/poly fitted tee</li>
+<li>Distressed, softened print</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>Edgar Allan Poe</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:tag>The Raven</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952259</id>
+      <title>S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>102202</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952259</id>
+      <title>M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>102203</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952259</id>
+      <title>L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>102204</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648952259</id>
+      <title>XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>102205</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648951619</id>
+    <published>2015-05-26T14:39:29-04:00</published>
+    <updated>2015-05-26T14:39:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/pride-prejudice-womens-tshirt"/>
+    <title>Pride &amp; Prejudice Women&apos;s Tshirt</title>
+    <s:type>A S</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Pride_PrejShirt.jpeg?v=1432665571" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A S<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jane Austen's classic novel of love, reputation and class struggle remains as popular with readers today as it was when it was first published in 1813.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% cotton tee </span></li>
+<li><span style="line-height: 1.4;">Distressed, softened print</span></li>
+<li><span style="line-height: 1.4;">Slim fit; runs a size small</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jane Austen</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951619</id>
+      <title>S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>008077</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951619</id>
+      <title>M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>008078</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951619</id>
+      <title>L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>008079</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951619</id>
+      <title>XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>008080</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948355</id>
+    <published>2015-05-26T14:38:48-04:00</published>
+    <updated>2015-05-26T14:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/infographic-guide-to-literature"/>
+    <title>Infographic Guide to Literature</title>
+    <s:type>B K</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/InfographicGuidetoLiterature.jpeg?v=1432665529" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>100 stunning, ingenious and absorbing infographics all about literature, featuring your favorite books and authors! <em>Infographic Guide to Literature</em> presents unique, witty and surprising facts about literature, from Shakespeare and Austen to Nabakov and Orwell, to George R. R. Martin and E. L. James. Fascinating stats and all the facts on your favorite writers, poets and playwrights, it features infamous tales from behind the scenes of the literary world. This book celebrates the power of words with graphs, Venn diagrams and charts, this book provides a unique overview of your favorite figures in literature, boasting over 100 original artworks and illustrations and at-a-glance facts to amaze and astound readers. Brilliant infographics include: War Words: The conflicts and the writers who fought, wrote and perished in them across timeline and geography, 100 Years of Family: The family tree of Garcia Marquez's huge novel traced, Shakespeare Eternal: Seven key plays and their rewrite in different genres, including crime, chick-lit, thriller, comedy, Adult, YA and literary, and Banned Books: timeline and location of titles that have and continue to be banned in different countries.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, with full color graphics</span></li>
+<li><span style="line-height: 1.4;">160 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>108281</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

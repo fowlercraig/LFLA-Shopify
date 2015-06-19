@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/word-nerds.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-05-26T14:45:11-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/648991171</id>
+    <published>2015-05-26T14:45:11-04:00</published>
+    <updated>2015-05-26T14:45:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/712-more-things-to-write-about"/>
+    <title>712 More Things to Write About</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/712ThingstoWRiteTemplate.jpeg?v=1432665912" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by The San Francisco Writers' Grotto with introduction by Bo Bronson</p>
+<p>Open to any page for a jolt of inspiration. Write. Turn page. Repeat. For fans of the bestselling <em>642 Things to Write About</em>, this journal has even more excellent writing prompts from the creative geniuses at the San Francisco Writers' Grotto. Sometimes funny, sometimes serious, always thought-provoking, these inventive prompts will jump-start any writer's practice. </p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover journal</span></li>
+<li><span style="line-height: 1.4;">7 1/2 " x 9"</span></li>
+<li><span style="line-height: 1.4;">336 pages</span></li>
+<li><span style="line-height: 1.4;">712 writing prompts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>107137</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987651</id>
+    <published>2015-05-26T14:44:20-04:00</published>
+    <updated>2015-05-26T14:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/write-drunk-edit-sober-13x19-print"/>
+    <title>Write Drunk, Edit Sober 13x19 Print</title>
+    <s:type>S P</s:type>
+    <s:vendor>Obvious State/Paris Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/WriteDrunkPrint.jpeg?v=1432665861" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Obvious State/Paris Print<br>
+        <strong>Type: </strong>S P<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Words to live by. The god of brevity and manly dilapidation. Manly dilapidation? See? He would have gone with "guts." What other quotation could possibly sum up this literary giant in four words?</span></p>
+<ul>
+<li><span style="line-height: 1.4;">13" x 19"</span></li>
+</ul>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poster</s:tag>
+    <s:tag>Print</s:tag>
+    <s:tag>Write drunk Edit sober</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>000157</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648985539</id>
+    <published>2015-05-26T14:43:58-04:00</published>
+    <updated>2015-05-26T14:43:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/write-drunk-edit-sober-card"/>
+    <title>Write Drunk, Edit Sober Card</title>
+    <s:type>S C</s:type>
+    <s:vendor>Obvious State/Paris Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/WriteDrunkCardPencilEdit.jpeg?v=1432665838" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Obvious State/Paris Print<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Send a bit of inspiration with a quote from Hemingway. </span></p>
+<p><span>A2 note 5 1/2" x 4 1/4" with black envelope</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:tag>Write drunk Edit sober</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648985539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>104869</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648983747</id>
+    <published>2015-05-26T14:43:42-04:00</published>
+    <updated>2015-05-26T14:43:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/banned-books-composition-book"/>
+    <title>Banned Books Composition Book</title>
+    <s:type>S J</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/BannedBook3Template.jpeg?v=1432665825" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ever have a great idea but, didn't have a place to write it down? Be a genius and carry around this composition notebook, you never know when inspiration will strike you. </p>
+<ul>
+<li><span style="line-height: 1.4;">7 1/2" x 9 3/4"</span></li>
+<li><span style="line-height: 1.4;">80 sheets</span></li>
+<li><span style="line-height: 1.4;">college-ruled composition book</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banned Books</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648983747</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>107247</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648983491</id>
+    <published>2015-05-26T14:43:39-04:00</published>
+    <updated>2015-05-26T14:43:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/library-card-composition-book"/>
+    <title>Library Card Composition Book</title>
+    <s:type>S J</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LibraryCardCompwithPencilEdit.jpeg?v=1432665821" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Need a great place to write about all your favorite books? This composition book inspired by an old fashioned library card is just the thing!</div>
+<ul>
+<li>Composition notebook</li>
+<li>7.5 in x 9.75 in (19.06 cm x 24.77 cm)</li>
+<li>80 sheets (160 pages) of college-ruled paper</li>
+<li>Made in the USA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Composition Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648983491</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>107248</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648983363</id>
+    <published>2015-05-26T14:43:36-04:00</published>
+    <updated>2015-05-26T14:43:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/compostition-zip-pouch"/>
+    <title>Compostition Zip Pouch</title>
+    <s:type>A R</s:type>
+    <s:vendor>Out of Print Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CroppedEdit_e8185e96-b106-4316-806f-50d06d77e788.jpeg?v=1432665818" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Out of Print Clothing<br>
+        <strong>Type: </strong>A R<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Zip up your favorite pens and pencils to keep your materials composed.</div>
+<ul>
+<li><span>9" x 6" </span></li>
+<li><span>100% cotton canvas</span></li>
+<li><span>Zipper closure</span></li>
+<li><span>Made in USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Composition Book</s:tag>
+    <s:tag>Zip Pouch</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648983363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>107249</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648972611</id>
+    <published>2015-05-26T14:42:25-04:00</published>
+    <updated>2015-05-26T14:42:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/card-catalog-30-notecard-set"/>
+    <title>Card Catalog: 30 Notecard Set</title>
+    <s:type>S C</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Box2.jpeg?v=1432665746" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S C<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Evoking memories of book-filled libraries, this handy notecard set reproduces the original cards used to keep track of literary classics. Enclosed in a keepsake replica card catalog box with tabbed dividers, each card features a different beloved work of literature straight from the storied collection of the Library of Congress.
+<p> </p>
+<p>Thirty 5" x 3" notecard replecations from the Library of Congress with 30 envelopes</p>
+<p>Box tray with slip case approx. 6" x 4" x 4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Card Catalog</s:tag>
+    <s:tag>Library Card</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648972611</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>101878</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648964291</id>
+    <published>2015-05-26T14:41:32-04:00</published>
+    <updated>2015-05-26T14:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lowwriting"/>
+    <title>LowWriting</title>
+    <s:type>B L</s:type>
+    <s:vendor>Ingram Publisher Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Lowriting.jpeg?v=1432665693" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ingram Publisher Services<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><em style="line-height: 1.5;">Lowriting: Shots, Rides, &amp; Stories from the Chicano Soul</em><br><span style="line-height: 1.5;">Photography by Art Meza</span><br><span style="line-height: 1.5;">Edited by Santino J. Rivera</span><br>
+<p> </p>
+<p>Take a little trip into the world of <em>Lowriting</em>. Cruise through the streets where sparks fly, oldies are forever and tales of love, lust and the law will tempt you. These are the stories behind the cars and people who love them.</p>
+<p><em>Lowriting: Shots, Rides &amp; Stories from the Chicano Soul </em>puts the iconic images of Los Angeles based photographer Art Meza with stories from some of the most chingon voices in the literary world today.<em>Lowriting</em> collects over 50 of Meza's stunning photos and pairs them with stories, artwork and poetry from Luis J. Rodriguez, Luis Alberto Urrea, Lalo Alcaraz, Gustavo Arellano and Alvaro Rodriguez (cowriter of<em>Machete</em>). Lowriting also has contibutions from actors Danny De La Paz (<em>Boulevard Nights, American Me</em>) and Daniel Villarreal (<em>Stand and Deliver, American Me</em>) as well as many more authors from all over Aztlan. These are the shots, rides &amp; stories from the Chicano soul! This is <em>Lowriting</em>.</p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback</span></li>
+<li><span style="line-height: 1.4;">272 pages, includes full color images</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648964291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>105564</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961027</id>
+    <published>2015-05-26T14:41:06-04:00</published>
+    <updated>2015-05-26T14:41:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/street-food-journal"/>
+    <title>Street Food Journal</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/StreetfoodJournal.jpeg?v=1432665667" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Everyone eats, and everyone enjoys a satisfying meal. The foodie tribe continues to grow, and its members are constantly on the hunt for their next good meal.</span></p>
+<meta charset="utf-8">
+<p><span><span>The Street Food Journal is a diary for collecting delicious memories. In addition to 128 blank pages, the journal is also punctuated by lovely watercolors by Sophia Augusta of street foods and food trucks, making it the ultimate place for adventurous travelers to record their lucky finds and foodie favorites.</span></span></p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover journal</span></li>
+<li><span style="line-height: 1.4;">132 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Street Food</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>106625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648959939</id>
+    <published>2015-05-26T14:40:51-04:00</published>
+    <updated>2015-05-26T14:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-collecting-books"/>
+    <title>The Collecting Book</title>
+    <s:type>S J</s:type>
+    <s:vendor>KNOCK KNOCK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheCollectingBook.jpeg?v=1432665652" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>KNOCK KNOCK<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Created by Jason Polan</span></p>
+<p><span>This notebook is based on journals Polan uses to store paper ephemera: ticket stubs, receipts, clippings, photos, and more. Less formal-and less work-than a scrapbook, this journal speaks to the collector in all of us. 8.75 x 11.25 Inches. Smyth-sewn, lay-flat binding; head- and tailbands. Waterfall tabs with colored page dividers enable customized sections. Perforated card with artist interview.</span></p>
+<meta charset="utf-8">
+<ul>
+<li><span style="line-height: 1.4;">Hardcover wrapped with textured paper</span></li>
+<li><span style="line-height: 1.4;">160 blank pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Journal</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648959939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>107086</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958467</id>
+    <published>2015-05-26T14:40:38-04:00</published>
+    <updated>2015-05-26T14:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/scrabble-coasters"/>
+    <title>Scrabble Coasters</title>
+    <s:type>G C</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Scrabble_CoastersEdit.jpeg?v=1432665639" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Scrabble lovers unite! Next time you host game night, impress your guests with coasters that replicate everyone's favorite world building game!</p>
+<ul>
+<li>26 Pub Style Coasters</li>
+<li>Includes full alphabet set, plus Scrabble bonus squares on reverse.</li>
+<li>3.5" x 3.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>108284</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958083</id>
+    <published>2015-05-26T14:40:36-04:00</published>
+    <updated>2015-05-26T14:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/scrabble-vintage-mug"/>
+    <title>Scrabble Mug</title>
+    <s:type>G C</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ScrabbleMug.jpeg?v=1432665637" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect vessel for a scrabble lover. </p>
+<p>13 oz. ceramic mug</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>108286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948867</id>
+    <published>2015-05-26T14:38:55-04:00</published>
+    <updated>2015-05-26T14:38:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/letters-to-my-future-self"/>
+    <title>Letters to My Future Self</title>
+    <s:type>S G</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LettersToMyFutureSelf.jpeg?v=1432665536" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Lea Redmond</p>
+<p>Write Now. Read Later. Treasure Forever.</p>
+<p>Give yourself the wisdom and perspective that comes with thoughtful reflection and the passage of time. Use this set of twelve creative letter writing prompts to start a conversation with your future self.</p>
+<p>What do you love right now?</p>
+<p>Where do you want to go tomorrow?</p>
+<p>What do you never want to forget?</p>
+<p>This beautifully designed paper time capsule delivers remembrance, reflection, and plenty of patience. And the innovative letter/envelope format is way more fun than a blank diary. Use it to appreciate the past, celebrate the present, and embrace the future.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">12 letter format pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Journal</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>105860</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948547</id>
+    <published>2015-05-26T14:38:50-04:00</published>
+    <updated>2015-05-26T14:38:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/eric-the-memo-elephant"/>
+    <title>Eric the Memo Elephant</title>
+    <s:type>S S</s:type>
+    <s:vendor>Luckies of London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Eric.jpeg?v=1432665531" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Luckies of London<br>
+        <strong>Type: </strong>S S<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An elephant never forgets, and Eric is not your average elephant. He is made of smooth ceramic you can easily write your notes and scribbles on, that way YOU don't forget! Wipe him clean and he'll help you remember a whole new set of messages.</p>
+<ul>
+<li>100% ceramic</li>
+<li>Comes with small cloth and pen to write and wipe off messages!</li>
+<li>7 1/4" W x 5" H x 5" D</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dry Erase</s:tag>
+    <s:tag>Elephant</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>106976</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648941443</id>
+    <published>2015-05-26T14:37:49-04:00</published>
+    <updated>2015-05-26T14:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/darth-vader-family-notecards"/>
+    <title>Darth Vader &amp; Family Notecards</title>
+    <s:type>S D</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/IceCream.jpeg?v=1432665472" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S D<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This collection of new illustrations from Jeffrey Brown's bestselling Darth Vader series is perfect for sending greetings to family and friends or anyone in need of galactic good cheer.</p>
+<ul>
+<li>20 notecards and envelopes</li>
+<li>5 designs (4 of each)</li>
+<li>approx. 4 x 5 inches</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boxed Cards</s:tag>
+    <s:tag>Star Wars</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648941443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>106622</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648939715</id>
+    <published>2015-05-26T14:37:34-04:00</published>
+    <updated>2015-05-26T14:37:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/darth-vader-son"/>
+    <title>Darth Vader &amp; Son</title>
+    <s:type>B K</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DarthVader_Son.jpeg?v=1432665454" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What if Darth Vader took an active role in raising his son? What if "Luke, I am your father" was just a stern admonishment from an annoyed dad? In this hilarious and sweet comic reimagining, Darth Vader is a dad like any other—except with all the baggage of being the Dark Lord of the Sith. Celebrated artist Jeffrey Brown's delightful illustrations give classic Star Wars® moments a fresh twist, presenting the trials and joys of parenting through the lens of a galaxy far, far away. Life lessons include lightsaber batting practice, using the Force to raid the cookie jar, Take Your Child to Work Day on the Death Star ("Er, he looks just like you, Lord Vader!"), and the special bond shared between any father and son.</p>
+<p>Hardcover, 64 pages</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Jeffrey Brown</s:tag>
+    <s:tag>Star Wars</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648939715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>101458</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648939331</id>
+    <published>2015-05-26T14:37:30-04:00</published>
+    <updated>2015-05-26T14:37:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/darth-vader-friends"/>
+    <title>Darth Vader &amp; Friends</title>
+    <s:type>B K</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DarthVader_Friends.jpeg?v=1432665451" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In this funny and sweet new book in the bestselling Darth Vader™ series, Eisner Award–winning author Jeffrey Brown offers an intimate look at the friendships between best pals in the Star Wars universe, from Darth Vader and the Emperor to Leia and her Ewok pals, Han and Chewie, C-3PO and R2-D2, the bounty hunters, and other favorite characters. Jealousy, birthday parties, lightsaber battles, sharing, intergalactic rebellion and more all come into play as Brown's charming illustrations and humor irresistibly combine the adventures of our friends in a galaxy far, far away with everyday events closer to home.</p>
+<p>Hardcover, 64 pages</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Jeffrey Brown</s:tag>
+    <s:tag>Star Wars</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648939331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>109380</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938883</id>
+    <published>2015-05-26T14:37:27-04:00</published>
+    <updated>2015-05-26T14:37:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/darth-vader-friends-mini-journals"/>
+    <title>Darth Vader &amp; Friends Mini Journals</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DarthVader_FriendsMiniNotebooks.jpeg?v=1432665448" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep track of important info in these pocket-sized, eco-friendly journals featuring adorable new Star Wars best friend illustrations by artist Jeffrey Brown.</p>
+<ul>
+<li><span style="line-height: 1.4;">4 paperback notebooks with stitched spine and 48 pages (2 lined and 2 blank)</span></li>
+<li><span style="line-height: 1.4;">3 3/4 x 5 1/2 inches</span></li>
+<li><span style="line-height: 1.4;">100% FSC-certified paper, soy-based inks</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jeffrey Brown</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Star Wars</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>109407</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

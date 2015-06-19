@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/autographed-books.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-15T20:45:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/804266755</id>
+    <published>2015-06-15T20:45:00-04:00</published>
+    <updated>2015-06-15T20:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/muse-ings-snapshots-of-the-arts-distric-downtown-los-angeles"/>
+    <title>MUSE-ings: Snapshots of the Arts Distric, Downtown Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Cause Connect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Muse-ings.jpg?v=1434415284" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Cause Connect<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>MUSE-ings: Snapshots from the Arts District, Downtown Los Angeles</em> features on-the-fly images captured and shared by Melissa Richardson Banks daily through her award-winning Downtown Muse blog and social media (Instagram, Tumblr, Twitter). Richardson Banks says she is a collector of memories more than a photographer. "A real photographer," she says, "owns a 'real' camera. I just take snapshots with my iPhone; mostly of temporary things that I love and don't want to forget." Collectively, her images reveal an insider's glimpse into her urban neighborhood transformed by artists in the early 1980s and now quickly gaining widespread popularity. Seemingly, the point of view for each shot is more of someone who has lost a loved one than a tourist taking photos on vacation. A pile of bricks covered in graffiti from a demolished industrial building, luscious blossoms against stark concrete, blinding rooftop sunsets, skies crisscrossed by power lines, serpentine wire twirled around iron fences, and the promise of a new day as the sun rises over historic bridges are among the many images that evoke the sense of a place more pastoral or even more exotic than what you'd expect to find in the center of the nation's second largest metropolitan area. The book includes 92 full-color photographs and an introductory essay by Melissa Richardson Banks. It was designed by Christy Addis.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, full color images</span></li>
+<li><span style="line-height: 1.4;">96 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arts District</s:tag>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Melissa Richardson</s:tag>
+    <s:tag>Photography</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804266755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>107245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648990851</id>
+    <published>2015-05-26T14:45:05-04:00</published>
+    <updated>2015-05-26T14:45:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/100-not-so-famous-views-of-l-a"/>
+    <title>100 Not So Famous Views of L.A.</title>
+    <s:type>B L</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/100NotSoFamousViewsFlattened.jpeg?v=1432665907" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Barbara A. Thomason</p>
+<p>For four years, artist Barbara A. Thomason roamed her beloved Los Angeles, seeking the vistas, nooks, bridges, signs, streets, and landmarks that most captivated her. Inspired by Hiroshige's acclaimed print series <em>One Hundred Famous Views of Edo</em>, this grand project resulted in the one hundred paintings reproduced within. Intimate, often recognizable and sometimes unexpected, Thomason's paintings capture the vibrant L.A., the quirky L.A., the beautiful L.A. - the essential L.A.</p>
+<p>With commentary and history from the artist, and a foreword by David L. Ulin. </p>
+<p>Barbara A. Thomason is a Los Angeles-based artist whose paintings, prints, and drawings have been exhibited widely. She was a master printer at Gemini G.E.L., printing for such artists as Jasper Johns, Claes Oldenberg, and Ed Ruscha, and she has taught art at several leading California institutions, including Otis College of Art &amp; Design and California Polytechnic University, Pomona.</p>
+<p>David L. Ulin is book critic for the Los Angeles Times, the editor of <em>Writing Los Angeles: A Literary Anthology</em>, and the author of many books. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 206 pages, full color illustrations. </span></li>
+<li><span style="line-height: 1.4;">Autographed Copy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648990851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>107163</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648976195</id>
+    <published>2015-05-26T14:42:47-04:00</published>
+    <updated>2015-05-26T14:42:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-in-maps"/>
+    <title>Los Angeles in Maps</title>
+    <s:type>X X</s:type>
+    <s:vendor>Random House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/SpineLosangles.jpeg?v=1432665769" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Random House<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Glen Creason and foreword by D.J. Waldie</p>
+<p>With contributions by Dydia Dlyser, Joe Linton, William J. Warren, an Morgan P. Yates</p>
+<p>Los Angeles inhabits a place of the mind as much as it does a physical geopgraphic space. A land of palm trees and movie stars, sunshine and glamour, the city exists in the imagination as a paradise; of course, the reality is far more expansive than this. Through seventy reproductions of seminal and historic documents, Los Angeles in Maps presents the evolution of this almost mythical place. Maps featured include historic maps from the early days of the pueblo that would become Los Angeles, to more recent, yet no less fascinating topographic surveys, tourist guides, real estate maps, bird's-eye views, and more. Winding naturally, like the course of the Los Angeles River, the book passes through essential terrain: the discovery of oil, the rise of Hollywood, the streetcar system, the Sleepy Lagoon murder and Zoot Suit riots, Los Angeles Harbor, earthquakes, sprawl, and splendor. </p>
+<p>Glen Creason is Map Librarian at Los Angeles Public Library</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, full color images</span></li>
+<li><span style="line-height: 1.4;">Autographed copy</span></li>
+<li><span style="line-height: 1.4;">192 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Map</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648976195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>007698</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648968579</id>
+    <published>2015-05-26T14:41:51-04:00</published>
+    <updated>2015-05-26T14:41:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-orange-the-california-dream"/>
+    <title>The Orange &amp; The California Dream</title>
+    <s:type>B L</s:type>
+    <s:vendor>Angel City Press</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheOrange.jpeg?v=1432665729" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Angel City Press<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>The Orange and the Dream of California</em> takes a lively, literary, and extraordinarily visual look at the symbiotic relationship between the Golden State and its "golden apple," a pairing that resulted in a compelling fantasy and a fantastic reality. </p>
+<p>Untold numbers of people came West in the twentieth century lured by postcards showing orange blossoms juxtaposed with snow-capped mountains. And across the country, daily glasses of navel orange juice were a must after Sunkist's <em>Mad Men</em>-style campaign spread the word that drinking a California orange was as sweet and delicious as eating one - <em>and</em> held the promise of a healthy life. </p>
+<p>In 176 full-color pages and more than 250 images, author David Boule shares the fastcinating story of the orange's impact on the culture - historic, financial, and yes, romantic - of California. And at the same time, he shows and tells the vivid tale of citriculture - the complex and captivating world of growing the orange and its juicy cousins. </p>
+<p>History lovers will marvel as Boule traces the orange's origins back to Southeast Asia, and links the roots of its influence on California all the way back to Califia, a fictional warrior queen whose name became bona fide history. From its earliest days, the dream of California has been that it is a place of plenty, of potential, of personal opportunity.</p>
+<p>David Boule brings the world of the orange and California to the coffee table. Drink it all in; savor every last drop. This is <em>The Orange and the Dream of California</em>.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover coffee table book</span></li>
+<li><span style="line-height: 1.4;">176 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648968579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>105429</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648957315</id>
+    <published>2015-05-26T14:40:32-04:00</published>
+    <updated>2015-05-26T14:40:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/leaving-before-the-rains-come"/>
+    <title>Leaving Before the Rains Come</title>
+    <s:type>B S</s:type>
+    <s:vendor>Penguin USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LeavingBeforetheRainsCome.jpeg?v=1432665633" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Penguin USA<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A child of the Rhodesian wars and daughter of two deeply complicated parents, Alexandra Fuller is no stranger to pain. But the disintegration of Fuller's own marriage leaves her shattered. Looking to pick up the pieces of her life, she finally confronts the tough questions about her past, about the American man she married, and the family she left behind in Africa. A breathtaking achievement, <em>Leaving Before the Rains Come</em> is a memoir of such grace and intelligence, filled with such wit and courage, that it could only have been written by Alexandra Fuller.</p>
+<p><em>Leaving Before the Rains Come</em> begins with the dreadful first years of the American financial crisis when Fuller's delicate balance - between American pragmatism and African fatalism, the linchpin of her unorthodox marriage - irrevocably fails. Recalling her unusual courtship in Zambia - elephant attacks on the first date, sick with malaria on the wedding day - Fuller struggles to understand her younger self as she overcomes her current misfortunes. </p>
+<p><em>Leaving Before the Rains Come</em> showcase Fuller at the peak of her abilities, threading panoramic vistas with her deepest revelations as a fully grown woman and mother. Fuller reveals how - after spending a liftime fearfully waiting for someone to show up and save her - she discovered that, in the end, we all simply save ourselves.</p>
+<p>An unforgettable book, Leaving Before the Rains Come is a story of sorrow grounded in the tragic grandeur and rueful joy only to be found in Fuller's Africa.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">258 pages</span></li>
+<li><span style="line-height: 1.4;">Autographed copy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648957315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>108753</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958915</id>
+    <published>2015-05-26T14:40:00-04:00</published>
+    <updated>2015-05-26T14:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/crooked-mirror-by-louis-steinman"/>
+    <title>The Crooked Mirror by Louis Steinman</title>
+    <s:type>B S</s:type>
+    <s:vendor>Random House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Spine_9d71d1f0-0d22-43d3-b3af-bf568e14154d.jpeg?v=1432665642" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Random House<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Library Foundation of Los Angeles' <a href="http://www.lfla.org/aloud/upcoming.php" target="_blank">ALOUD Series</a> presented <a href="http://www.lfla.org/event-detail/893/The-Crooked-Mirror-A-Memoir-of-Polish-Jewish-Reconciliation-" target="_blank"><em>The Crooked Mirror </em>by Louise Steinman on November 7, 2013</a>.</p>
+<p><strong><em>About the Book</em></strong></p>
+<p>In the winter of 2000, Louise Steinman  set out to attend an international Bearing Witness Retreat at Auschwitz-Birkenau at the invitation of her Zen rabbi, who felt the Poles had gotten a "bum rap." A bum rap? Her own mother could not bear to utter the word "Poland," a country, Steinman was taught, that allowed and perhaps abetted the genocide that decimated Europe's Jewish population, including members of her own extended family.</p>
+<p>As Steinman learns more about her lost ancestors, though, she finds that the history of Polish-Jewish relations is far more complex. Although German-occupied Poland was the site of horrific Jewish persecution, Poland was for centuries the epicenter of European Jewish life. After the war, Polish-Jewish relations soured. For Poles under communism, it was taboo to examine or discuss the country's Jewish past. Among Jews in the Diaspora, there was little acknowledgement of the Poles' immense suffering during its dual occupation.</p>
+<p>Steinman's research leads her to her grandparents' town of Radomsko, whose eighteen thousand Jews were deported or shot during the Nazi occupation. As she delves deeper into the town's and her family's history, Steinman discovers a prewar past where a lively community of Jews and Catholics lived shoulder to shoulder, where a Polish Catholic painted the blue ceiling of the Radomsko synagogue, and a Jewish tinsmith roofed the spires of the Catholic church. She also uncovers untold stories of Poles who rescued their Jewish neighbors in Radomsko and helps bring these heroes to the light of day.</p>
+<p>Returning time and again to Poland over the course of a decade, Steinman finds Poles who are seeking the truth about the past, however painful, and creating their own rituals to teach their towns about the history of their lost Jewish neighbors. This lyrical memoir chronicles her immersion in the exhilarating, discomforting, sometimes surreal, and ultimately healing process of Polish-Jewish reconciliation.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, sold individually</span></li>
+<li><span style="line-height: 1.4;">224 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>108235</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648959747</id>
+    <published>2015-05-26T14:40:00-04:00</published>
+    <updated>2015-05-26T14:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-flamethrowers-by-rachel-kushner"/>
+    <title>The Flamethrowers by Rachel Kushner</title>
+    <s:type>B S</s:type>
+    <s:vendor>Simon &amp; Schuster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheFlameThrowersEdit2.jpeg?v=1432665650" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Simon &amp; Schuster<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Library Foundation of Los Angeles' <a href="http://www.lfla.org/aloud/upcoming.php" target="_blank">ALOUD Series</a> presented <a href="http://www.lfla.org/event-detail/1053/An-Evening-with-Colm-Tibn-and-Rachel-Kushner" target="_blank">The Flame Throwers on Thursday, November 6, 2014</a>. </p>
+<p><em><strong>About the book</strong></em></p>
+<p>Reno, so-called because of the place of her birth, comes to New York intent on turning her fascination with motorcylces and speed into art. Her arrival coincides with an explosion of activity - artists colonize a deserted and industrial SoHo, stage actions in the East Village, and blur the line between life and art. Reno is submitted to a sentimental education of sorts - by dreamers, poseurs, and raconteurs in New York and by radicals in Italy, where she goes with her lover to meet his estranged and formidable family. Ardent, vulnerable, and bold, Reno is a fiercely memorable observer, superbly realized by Rachel Kushner. </p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback sold individually</span></li>
+<li><span style="line-height: 1.4;">383 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648959747</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>107312</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648940995</id>
+    <published>2015-05-26T14:37:00-04:00</published>
+    <updated>2015-05-26T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lila-by-marilynne-robinson"/>
+    <title>Lila by Marilynne Robinson</title>
+    <s:type>B S</s:type>
+    <s:vendor>MPS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LilaEdit.jpeg?v=1432665466" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MPS<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Library Foundation of Los Angeles' <a href="http://www.lfla.org/aloud/upcoming.php" target="_blank">ALOUD Series</a> presented <a href="http://www.lfla.org/event-detail/1052/Lila-A-Novel" target="_blank"><em>Lila: A Novel </em>by Marilynne Robinson on November 05, 2014</a>.</p>
+<p>About the Book</p>
+<p>Marilynne Robinson, one of the greatest novelists of our time, returns to the town Gilead in the unforgettable story of a girlhood lived on the fringes of society in fear, awe, and wonder.</p>
+<p>Lila, homeless and alone after years of roaming the countryside, steps inside a small-town Iowa church - the only available shelter from the rain - and ignites a romance and a debate that will reshape her life. She becomes the wife of a minister and widower, John Ames, and begins a new existence while trying to make sense of the days that preceded her new-found security.</p>
+<p>Neglected as a toddler, Lila was rescued by Doll, a canny young drifter, and brought up by her in a hardscrabble childhood of itinerant work. Together they crafted a life on the run, living hand to mouth with nothing but their sisterly bond and a ragged blade to protect them. Despite bouts of petty violence and moments of desperation, the times they shared were laced with joy. After Lila arrives in Gilead, she struggles harmonize the life of her makeshift family and their days of hardship with the gentle Christian worldview of her husband, which paradoxically judges those she loves.</p>
+<p>Revisiting the beloved characters and setting of Marilynne Robinson's Pulitzer Prize-winning <em>Gilead</em> and<em>Home</em>, a National Book Award finalist, <em>Lila </em>is a moving expression of the mysteries of existence that is destined to become an American classic.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover </span></li>
+<li><span style="line-height: 1.4;">272 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aloud</s:tag>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648940995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>107306</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

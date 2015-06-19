@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/culinary-finds.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-17T17:44:25-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/648957763</id>
+    <published>2015-06-17T17:44:25-04:00</published>
+    <updated>2015-06-17T17:44:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/vintage-scrabble-dish-towel"/>
+    <title>Scrabble Dish Towel</title>
+    <s:type>A T</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ScrabbleTowelsFolded.jpeg?v=1432665635" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>A T<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>This dish towel is the perfect thing for scrabble fans!</div>
+<ul class="a-vertical a-spacing-none">
+<li>23 1/2" x 23 1/2"</li>
+<li>Cotton</li>
+<li><span class="a-list-item">Machine washable in cold water, line dry, cool iron.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Dish Towel</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648957763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>108287</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/877195587</id>
+    <published>2015-06-08T17:11:00-04:00</published>
+    <updated>2015-06-08T17:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cooks-coloring-book"/>
+    <title>Cook&apos;s Coloring Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cook_sColoring.jpg?v=1433799508" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>For the young cook or the beginning homemaker, this recipe collection will foster confidence while building a repertoire of tasty main dishes and treats made from scratch. User-friendly, non-intimidating illustrations plus written directions guide the cook through the recipes step by step. For extra fun or to identify dishes mastered, the cook (or cook’s assistant) can color the pages to make this a personal favorite cookbook.</span></p>
+<p>Execute a perfect Mexican Omelette, stir together a One-Pot Sausage Casserole, toss a Rainbow Coleslaw, stir-fry a pan of Sweet and Savory Kale, bake a batch of Cranberry and Cinnamon Cookies, or whip up a delicious Banofee Pie. Here is a great collection of fresh recipes for learning to cook at home.</p>
+<ul>
+<li><span>Paperback coloring and cook book, sold individually</span></li>
+<li><span>144 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Coloring Book</s:tag>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Kid&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/877195587</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>109060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804270147</id>
+    <published>2015-06-05T19:38:00-04:00</published>
+    <updated>2015-06-05T19:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/guest-check-tea-towel"/>
+    <title>Guest Check Tea Towel</title>
+    <s:type>G C</s:type>
+    <s:vendor>Fresh Pastry Stand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/GuestCheckTeaTowel.jpg?v=1433547315" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Fresh Pastry Stand<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This contemporary tea towel speaks to the age old question the home cook asks, "Whaddya think this is? A restaurant?"</p>
+<ul>
+<li><span style="line-height: 1.4;">100% cotton</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Tea Towel</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804270147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>109813</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/803810691</id>
+    <published>2015-06-05T18:30:00-04:00</published>
+    <updated>2015-06-05T18:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-public-library-mug"/>
+    <title>Los Angeles Public Library Mug</title>
+    <s:type>L M</s:type>
+    <s:vendor>MP Barcelona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1433543250" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>MP Barcelona<br>
+        <strong>Type: </strong>L M<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with the logo of the Los Angeles Public Library, these colorful mugs will brighten up your beverage of choice. Nothings announces your love of the library more clearly.</p>
+<ul>
+<li><span style="line-height: 1.4;">Ceramic mug</span></li>
+<li><span style="line-height: 1.4;">Dishwasher safe and microwave safe</span></li>
+<li><span style="line-height: 1.4;">16 oz.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>GRN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010662</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>ORAN</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010663</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/803810691</id>
+      <title>BLUE</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>010664</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938371</id>
+    <published>2015-06-02T14:34:00-04:00</published>
+    <updated>2015-06-02T14:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-pint-glass"/>
+    <title>I Love You California Pint Glass</title>
+    <s:type>G C</s:type>
+    <s:vendor>SF Mercantile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PintGlass.jpg?v=1433269717" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>SF Mercantile<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The best way to enjoy your beverage? In a pint glass that has your favorite bear on it of course!</p>
+<p>Hand wash only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>109665</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938435</id>
+    <published>2015-05-28T14:06:00-04:00</published>
+    <updated>2015-05-28T14:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-cork-coaster-set"/>
+    <title>I Love You California Cork Coaster Set</title>
+    <s:type>G C</s:type>
+    <s:vendor>SF Mercantile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CoasterandBag.jpg?v=1432835923" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>SF Mercantile<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These thick cork coasters are printed with everyone's favorite image complete with a golden California. </p>
+<p>Set of 4 coasters with drawstring bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bear</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Cork</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>109664</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/655540419</id>
+    <published>2015-05-27T02:01:00-04:00</published>
+    <updated>2015-05-27T02:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/coolhaus-ice-cream-book"/>
+    <title>CoolHaus Ice Cream Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Houghton Mifflin Harcourt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CoolhausIceCreamBook_grande_ff7e5173-598f-4233-a21d-8f5a7c7c340b.jpg?v=1432706846" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Houghton Mifflin Harcourt<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Custom-Built Sandwiches with Crazy-Good Combos of Cookies, Ice Creams, Gelatos, and Sorbets</p>
+<p>by Natasha Case, Freya Estrella, and Kathleen Squires</p>
+<p>From a beat-up postal van turned food truck, Coolhaus has rocketed to a national brand. Yahoo! called it "the best ice cream in America." The inventive sandwiches, named after famous architects, are sold in supermarkets across the country, as well as from trucks in Los Angeles, New York, Austin, and Dallas. Coolhaus has drawn accolades from the New York Times, Every Day with Rachael Ray, Time, and Good Morning America, to name a few, and from such celebrities as Will Ferrel, Jimmy Kimmel, and Alex Guarnaschelli.</p>
+<p>Now the owners part with the recipes for thier coolest creations, like the BuckMintster Fuller (Dirty Mint Chip Ice Cream with Chocolate Chip Cookies) and the Frank Behry (Strawberry Gelato with Snickerdoodles). Daring flavors range from classic (Cookies and Sweet Cream), to boozy (Bourban Manhattan), to vegan (Lychee Martini), and even savory (Fried Chicken and Waffle).</p>
+<p>Sandwiched among the treats are tips on ice cream making, profiles of major and up-and-coming architects, and amusing tales of the owners' forays into the ice cream busines.</p>
+<ul>
+<li>
+<span>Hardcover,</span><span> full-color images</span>
+</li>
+<li><span>240 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Ice Cream</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/655540419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>106772</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648996163</id>
+    <published>2015-05-26T14:45:52-04:00</published>
+    <updated>2015-05-26T14:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-tumbler-glass"/>
+    <title>Los Angeles Tumbler Glass</title>
+    <s:type>G L</s:type>
+    <s:vendor>Sisters of Los Angeles, L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LosAngelesGlass.jpeg?v=1432665954" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sisters of Los Angeles, L<br>
+        <strong>Type: </strong>G L<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>From the bright blue skies and ocean to the green rolling canyons, nothing says Los Angeles more than sipping a drink from this glass tumbler. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Sold individually</span></li>
+<li><span style="line-height: 1.4;">Printed with organic inks</span></li>
+<li><span style="line-height: 1.4;">Made in Los Angeles</span></li>
+<li><span style="line-height: 1.4;">Hand wash only</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Sisters of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648996163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>100040</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982467</id>
+    <published>2015-05-26T14:43:27-04:00</published>
+    <updated>2015-05-26T14:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/los-angeles-travel-mug"/>
+    <title>Los Angeles Travel Mug</title>
+    <s:type>G L</s:type>
+    <s:vendor>Sisters of Los Angeles, L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LA_Travel_Mug.jpeg?v=1432665808" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sisters of Los Angeles, L<br>
+        <strong>Type: </strong>G L<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Take a little bit of Los Angeles with you when you are on the GO! </span>
+</div>
+<ul>
+<li><span style="line-height: 1.5;">Double walled ceramic coffee cup with Silicone lid</span></li>
+<li>Sold individually</li>
+<li>Printed in Los Angeles with soy based inks</li>
+<li>Hand wash only</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Sisters of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>107675</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648962755</id>
+    <published>2015-05-26T14:41:21-04:00</published>
+    <updated>2015-05-26T14:41:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/fictitious-dishes"/>
+    <title>Fictitious Dishes</title>
+    <s:type>B K</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/FictitiousDishesEdit.jpeg?v=1432665683" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An Album of Literature's Most Memorable Meals</p>
+<p>by Dinah Fried</p>
+<p>Fifty Iconic Culinary Scenes from Literary Classics Sure to Delight Readers, Foodies, and Photo-Junkies Alike</p>
+<p>Fictitious Dishes serves up a delectable assortment of photographic interpretations of culinary moments from contemporary and classic literature. Showcasing famous meals such as the madcap tea party from Alice's Adventures in Wonderland, the watery gruel from Oliver Twist, the lavish chicken breakfast from To Kill a Mockingbird, the stomach-turning avocado-and crabmeat salad from The Bell Jar, and the seductive cupcakes from The Corrections, this unique volume pairs each place setting with the text from the book that inspired its creation. Interesting food facts and entertaining anecdotes about the authors, their work, and their culinary predilections complete this charming book, which is sure to whet the appetites of lovers of great literature and delicious dishes.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, sold individually</span></li>
+<li><span style="line-height: 1.4;">128 pages</span></li>
+<li><span style="line-height: 1.4;">Full-color photography</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648962755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>106247</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961795</id>
+    <published>2015-05-26T14:41:13-04:00</published>
+    <updated>2015-05-26T14:41:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/recipe-dice-for-omnivores"/>
+    <title>Recipe Dice for Omnivores</title>
+    <s:type>G C</s:type>
+    <s:vendor>Leafcutter Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/RecipeDiceEdit2.jpeg?v=1432665675" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Leafcutter Designs<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>What's for dinner? Answer the age old question with a quick flick of the wrist. Let the culinary adventures begin!</p>
+<p>These twelve dice made of solid wood feature more than 60 seasonal vegetables, hearty grains, juicy meats, flavorful spices, and succulent herbs. The tag includes tips to craft a deliciously new and tasteful meal every time.</p>
+<ul>
+<li>Made in U.S.A.</li>
+<li>Glass jar contains twelve 5/8" solid wood dice</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Game</s:tag>
+    <s:tag>Recipe</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>106557</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961475</id>
+    <published>2015-05-26T14:41:11-04:00</published>
+    <updated>2015-05-26T14:41:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/notebook-paper-napkins"/>
+    <title>Notebook &quot;Paper&quot; Napkins</title>
+    <s:type>G C</s:type>
+    <s:vendor>Leafcutter Designs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/NotebookPaperNapkins.jpeg?v=1432665672" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Leafcutter Designs<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add charm to your kitchen with these Notebook "Paper" Napkins. There's nothing paper about them because they're made from 100% organic cotton.</p>
+<ul>
+<li><span style="line-height: 1.4;">Set of four 8 1/2" x 11" napkins</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Napkins</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961475</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>106562</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648961027</id>
+    <published>2015-05-26T14:41:06-04:00</published>
+    <updated>2015-05-26T14:41:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/street-food-journal"/>
+    <title>Street Food Journal</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/StreetfoodJournal.jpeg?v=1432665667" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Everyone eats, and everyone enjoys a satisfying meal. The foodie tribe continues to grow, and its members are constantly on the hunt for their next good meal.</span></p>
+<meta charset="utf-8">
+<p><span><span>The Street Food Journal is a diary for collecting delicious memories. In addition to 128 blank pages, the journal is also punctuated by lovely watercolors by Sophia Augusta of street foods and food trucks, making it the ultimate place for adventurous travelers to record their lucky finds and foodie favorites.</span></span></p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover journal</span></li>
+<li><span style="line-height: 1.4;">132 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Street Food</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648961027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>106625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648960131</id>
+    <published>2015-05-26T14:40:53-04:00</published>
+    <updated>2015-05-26T14:40:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-auntie-ems-cookbook"/>
+    <title>The Auntie Em&apos;s Cookbook</title>
+    <s:type>B C</s:type>
+    <s:vendor>Perseus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AuntieEm_sCookbook.jpeg?v=1432665655" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Perseus<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Theresa Wahl Photography by David Kiang</p>
+<p>What happens when a punk musician turns her considerable energy and passion to cooking? Damn good food, that's what. Everyone from Daily Candy to USA Today has proclaimed Terri Wahl's Auntie Em's Kitchen as one of L.A.'s very best spots for breakfast, brunch, and dessert. Wahl's cooking is American comfort food at its finest, with a focus on seasonality, simplicity, and knockout flavors. Now her greatest kitchen hits are showcased, complete with playlists of her favorite songs for the kitchen. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">208 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648960131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>106843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958979</id>
+    <published>2015-05-26T14:40:43-04:00</published>
+    <updated>2015-05-26T14:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/sandwich-sponge"/>
+    <title>Scrubwich Sandwich Sponge</title>
+    <s:type>G C</s:type>
+    <s:vendor>FRED</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Scrubwich.jpeg?v=1432665644" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>FRED<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span style="line-height: 1.5;">Take a big bite out of your cleaning chores with the Scrubwich sandwich sponges! Delightfully shaped to look like a deli-style sandwich and sized to take up your whole hand.</span></p>
+<p>Approx. 4 1/4" x 4 1/4" x 3/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Sandwich</s:tag>
+    <s:tag>Sponge</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>108165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958467</id>
+    <published>2015-05-26T14:40:38-04:00</published>
+    <updated>2015-05-26T14:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/scrabble-coasters"/>
+    <title>Scrabble Coasters</title>
+    <s:type>G C</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Scrabble_CoastersEdit.jpeg?v=1432665639" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Scrabble lovers unite! Next time you host game night, impress your guests with coasters that replicate everyone's favorite world building game!</p>
+<ul>
+<li>26 Pub Style Coasters</li>
+<li>Includes full alphabet set, plus Scrabble bonus squares on reverse.</li>
+<li>3.5" x 3.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>108284</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648958083</id>
+    <published>2015-05-26T14:40:36-04:00</published>
+    <updated>2015-05-26T14:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/scrabble-vintage-mug"/>
+    <title>Scrabble Mug</title>
+    <s:type>G C</s:type>
+    <s:vendor>Wild &amp; Wolf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ScrabbleMug.jpeg?v=1432665637" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Wild &amp; Wolf<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect vessel for a scrabble lover. </p>
+<p>13 oz. ceramic mug</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Scrabble</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648958083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>108286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648949635</id>
+    <published>2015-05-26T14:39:03-04:00</published>
+    <updated>2015-05-26T14:39:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/l-a-son-my-life-my-city-my-food-by-roy-choi"/>
+    <title>L.A. Son: My Life, My City, My Food By Roy Choi</title>
+    <s:type>B S</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LASon.jpeg?v=1432665544" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Los Angeles: A patchwork megalopolis defined by its unlikely cultural collisions; the city that raised and shaped Roy Choi, the boundary-breaking chef who decided to leave behind fine dining to feed the city he loved - and, with the creation of the Korean taco, reinvented street food along the way. </p>
+<p>Abounding with both the food and the stories that gave rise to Choi's inspired cooking, L.A. Son takes us through the neighborhoods and streets most tourists never see, from the hidden casinos where gamblers slurp fragrant bowls of pho to Downtown's Jewelry District, where a ten-year-old Choi wolfed down Jewish deli classics between diamond deliveries; from the kitchen of his parents' Korean restaurant and his mother's pungent kimchi to the boulevards of East L.A. and the best taquerias in the country, to, at last, the curbside view from one of his emblematic Kogi taco trucks, where people from all walks of life line up for a revolutionary meal. </p>
+<p>Filled with over 85 inspired recipes that meld the overlapping traditions and flavors of L.A. - including Korean fried chicken, tempura potato pancakes, homemade chorizo, and Kimchi and Pork Belly Stuffed Pupusas - L.A. Son embodies the sense of invention, resourcefulness, and hybrid attitude of the city from which it takes its name, as it tells the transporting, unlikely story of how a Korean American kid went from lowriding in the streets of L.A. to becoming an acclaimed chef. </p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Hardcover, full color images </span><span style="line-height: 1.4;">with</span><span style="line-height: 1.4;"> recipes</span>
+</li>
+<li><span style="line-height: 1.4;">340 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Street Food</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648949635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>102973</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648947779</id>
+    <published>2015-05-26T14:38:39-04:00</published>
+    <updated>2015-05-26T14:38:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lolli-truck"/>
+    <title>Lolli Truck</title>
+    <s:type>G C</s:type>
+    <s:vendor>Sukie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CloseupLolliTruck.jpeg?v=1432665521" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Sukie<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Have your own personal ice cream van, making anything you fancy. You can experiment with different juices, smoothies, chunks of fruit or yogurt; the flavor combinations are endless! </span></p>
+<p><span>The Ice Lolly Maker is a silicone shaped ice cream van with 6 reusable sticks included. A wonderful gift for anyone who wants to stay cool this summer.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648947779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>109188</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648947203</id>
+    <published>2015-05-26T14:38:26-04:00</published>
+    <updated>2015-05-26T14:38:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/restaurants-to-check-out-notebook"/>
+    <title>Restaurants to Check Out Notebook</title>
+    <s:type>G C</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/RestaurantstoCheckOut.jpeg?v=1432665515" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>G C<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fill in the pages of this do-it-yourself restaurant guide and you'll have your own personal lists of 5 star restaurants you want to visit again.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">128 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Guide Book</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648947203</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>109250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

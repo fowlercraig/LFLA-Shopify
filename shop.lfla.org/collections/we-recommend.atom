@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/we-recommend.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-05-27T02:01:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/655540419</id>
+    <published>2015-05-27T02:01:00-04:00</published>
+    <updated>2015-05-27T02:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/coolhaus-ice-cream-book"/>
+    <title>CoolHaus Ice Cream Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Houghton Mifflin Harcourt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CoolhausIceCreamBook_grande_ff7e5173-598f-4233-a21d-8f5a7c7c340b.jpg?v=1432706846" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Houghton Mifflin Harcourt<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Custom-Built Sandwiches with Crazy-Good Combos of Cookies, Ice Creams, Gelatos, and Sorbets</p>
+<p>by Natasha Case, Freya Estrella, and Kathleen Squires</p>
+<p>From a beat-up postal van turned food truck, Coolhaus has rocketed to a national brand. Yahoo! called it "the best ice cream in America." The inventive sandwiches, named after famous architects, are sold in supermarkets across the country, as well as from trucks in Los Angeles, New York, Austin, and Dallas. Coolhaus has drawn accolades from the New York Times, Every Day with Rachael Ray, Time, and Good Morning America, to name a few, and from such celebrities as Will Ferrel, Jimmy Kimmel, and Alex Guarnaschelli.</p>
+<p>Now the owners part with the recipes for thier coolest creations, like the BuckMintster Fuller (Dirty Mint Chip Ice Cream with Chocolate Chip Cookies) and the Frank Behry (Strawberry Gelato with Snickerdoodles). Daring flavors range from classic (Cookies and Sweet Cream), to boozy (Bourban Manhattan), to vegan (Lychee Martini), and even savory (Fried Chicken and Waffle).</p>
+<p>Sandwiched among the treats are tips on ice cream making, profiles of major and up-and-coming architects, and amusing tales of the owners' forays into the ice cream busines.</p>
+<ul>
+<li>
+<span>Hardcover,</span><span> full-color images</span>
+</li>
+<li><span>240 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Ice Cream</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/655540419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>106772</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648994499</id>
+    <published>2015-05-26T14:45:39-04:00</published>
+    <updated>2015-05-26T14:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/and-then-story-starters"/>
+    <title>And Then Story Starters</title>
+    <s:type>C G</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AndThenTemplate.jpeg?v=1432665942" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C G<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>And Then is a collection of 20 beginnings. What will the endings look like? It's up to you. Each of the cards in this box has a tantalizing start to a story you and your child will want to finish. After the And then... it's up to you to decide what happens next. Encourage self-expression, creativity, and confidence at home, on the road, or in the classroom.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">20 story starter cards</span></li>
+<li><span style="line-height: 1.4;">Ages 4 to 104</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>And Then</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648994499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>101850</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648991171</id>
+    <published>2015-05-26T14:45:11-04:00</published>
+    <updated>2015-05-26T14:45:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/712-more-things-to-write-about"/>
+    <title>712 More Things to Write About</title>
+    <s:type>S J</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/712ThingstoWRiteTemplate.jpeg?v=1432665912" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by The San Francisco Writers' Grotto with introduction by Bo Bronson</p>
+<p>Open to any page for a jolt of inspiration. Write. Turn page. Repeat. For fans of the bestselling <em>642 Things to Write About</em>, this journal has even more excellent writing prompts from the creative geniuses at the San Francisco Writers' Grotto. Sometimes funny, sometimes serious, always thought-provoking, these inventive prompts will jump-start any writer's practice. </p>
+<ul>
+<li><span style="line-height: 1.4;">Softcover journal</span></li>
+<li><span style="line-height: 1.4;">7 1/2 " x 9"</span></li>
+<li><span style="line-height: 1.4;">336 pages</span></li>
+<li><span style="line-height: 1.4;">712 writing prompts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>107137</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648974467</id>
+    <published>2015-05-26T14:42:38-04:00</published>
+    <updated>2015-05-26T14:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/gourmet-ghosts-los-angeles"/>
+    <title>Gourmet Ghosts Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>City Ghost Guides</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cover_1c519e7c-bc77-40dd-bc66-d5cc8d5a6497.jpeg?v=1432665759" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>City Ghost Guides<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><em>Gourmet Ghosts - Los Angeles </em>is a new "history and mystery" guide book that features 274 pages of ghosts, murderers and mysteries at over 40 bars and restaurants in Hollywood, West Hollywood &amp; Beverly Hills, Mid-City, Downtown, Westside &amp; Beaches and - in a special section - "Off the Menu". An illustrated guide with photographs, newspaper archive clippings, eyewitness accounts and never-before-published pictures and stories - as well as food and drink recommendations. It's not a psychic investigation, more of a fun look into Los Angeles' historical past that finds out that many of the legendary tales have some basis in real, documented events...</p>
+<ul>
+<li><span style="line-height: 1.4;">Paperback, sold individually</span></li>
+<li><span style="line-height: 1.4;">274 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648974467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>011072</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648972931</id>
+    <published>2015-05-26T14:42:27-04:00</published>
+    <updated>2015-05-26T14:42:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/l-a-adventures-eclectic-day-trips-by-metro-rail-through-los-angeles-and-beyond"/>
+    <title>L.A. Adventures: Eclectic Day Trips by Metro Rail through Los Angeles and Beyond</title>
+    <s:type>B L</s:type>
+    <s:vendor>LA Electric Travel Books</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L.A.Adventures.jpeg?v=1432665749" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>LA Electric Travel Books<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="outer_postBodyPS">
+<div id="postBodyPS">You don’t need a car to see the best of L.A., just a sense of adventure and curiosity. L.A. Adventures makes it easy and fun to discover Los Angeles in ways you never thought possible - by rail, by bike and by imagination. With fourteen easy to follow day trips for every budget and interest, plus three bike tours to get your blood moving, L.A. Adventures debunks the myth of Los Angeles as a must-have-a-car-city. From tourist icons to Japanese tacos, from Old Town Pasadena to the oldest occult shop in America, where they'll customize a magic spell for you, this guide takes you to the heart of L.A. and beyond. Along the way you’ll uncover the city's best kept secrets. Did you know you can listen to the world's largest church organ for free? Get a traditional Akasuri Korean body scrub at three in the morning? Or lunch on imaginative Mexican-fusion cuisine prepared by reformed gang members? L.A. Adventures takes you step-by-step from sunrise to sunset - what to see, where to eat and how to get there without burning a gallon of gas, or battling freeway traffic. Touring L.A. has never been easier. <br><br>Softcover, sold individually</div>
+<div>278 pages<br><br>
+</div>
+</div>
+<div id="collapsePS"><span class="swSprite s_collapseChevron"></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Guide Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>paperback</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648972931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>101875</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648962755</id>
+    <published>2015-05-26T14:41:21-04:00</published>
+    <updated>2015-05-26T14:41:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/fictitious-dishes"/>
+    <title>Fictitious Dishes</title>
+    <s:type>B K</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/FictitiousDishesEdit.jpeg?v=1432665683" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>B K<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An Album of Literature's Most Memorable Meals</p>
+<p>by Dinah Fried</p>
+<p>Fifty Iconic Culinary Scenes from Literary Classics Sure to Delight Readers, Foodies, and Photo-Junkies Alike</p>
+<p>Fictitious Dishes serves up a delectable assortment of photographic interpretations of culinary moments from contemporary and classic literature. Showcasing famous meals such as the madcap tea party from Alice's Adventures in Wonderland, the watery gruel from Oliver Twist, the lavish chicken breakfast from To Kill a Mockingbird, the stomach-turning avocado-and crabmeat salad from The Bell Jar, and the seductive cupcakes from The Corrections, this unique volume pairs each place setting with the text from the book that inspired its creation. Interesting food facts and entertaining anecdotes about the authors, their work, and their culinary predilections complete this charming book, which is sure to whet the appetites of lovers of great literature and delicious dishes.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, sold individually</span></li>
+<li><span style="line-height: 1.4;">128 pages</span></li>
+<li><span style="line-height: 1.4;">Full-color photography</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Literature</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648962755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>106247</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648962307</id>
+    <published>2015-05-26T14:41:16-04:00</published>
+    <updated>2015-05-26T14:41:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/anywhere-travel-guide"/>
+    <title>Anywhere Travel Guide</title>
+    <s:type>G G</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AnywhereTravelGuide.jpeg?v=1432665680" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A creative travel guide for anywhere, this handy deck includes 75 cards to inspire exploration. With a unique mix of concrete actions and whimsical prompts—from "Ask the next person you meet where his/her favorite street is. Go there" to "Write down what you like about this city on a small piece of paper. Leave it where someone else will find it later"—</span><em>Anywhere</em><span> encourages users to see things differently while discovering both new and familiar places.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guide Book</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648962307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>106517</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953603</id>
+    <published>2015-05-26T14:39:52-04:00</published>
+    <updated>2015-05-26T14:39:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/city-walks-los-angel"/>
+    <title>City Walks: Los Angeles</title>
+    <s:type>B L</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CityWalksLosAngeles.jpeg?v=1432665594" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B L<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They say nobody walks in LA. But contrary to popular belief, Los Angeles explored on foot can yield surprising and enjoyable adventures. Whether you're a first-time visitor or just want to discover new terrain,<em> City Walks: Los Angeles</em> will give you an intimate view of the city. Each card in this deck outlines a self-guided walking adventure, with a detailed map on one side and insider information on the other. From stargazing on famous Hollywood Bouldevard and shopping sprees on Rodeo Drive to hikes in Runyon Canyon and catching waves at Venice Beach, you'll discover the locals' favorite places to eat, drink, stop, shop, rest, walk, and play. Pick any card and start exploring Los Angeles!</p>
+<p>Includes 50 cards with maps and highlights</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guide Book</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>002311</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953411</id>
+    <published>2015-05-26T14:39:49-04:00</published>
+    <updated>2015-05-26T14:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/black-los-angeles-tote"/>
+    <title>Black Los Angeles Tote</title>
+    <s:type>A B</s:type>
+    <s:vendor>Maptote</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AngleBlackMaptote.jpeg?v=1432665591" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Maptote<br>
+        <strong>Type: </strong>A B<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Carry this tote and you'll always have a handy overview of Los Angeles' neighborhoods with you at all times.</div>
+<ul>
+<li><span>100% cotton canvas</span></li>
+<li><span>15" x 14" </span></li>
+<li><span>21" handles</span></li>
+<li><span><span>Made in Brooklyn, NY</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>002501</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648949635</id>
+    <published>2015-05-26T14:39:03-04:00</published>
+    <updated>2015-05-26T14:39:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/l-a-son-my-life-my-city-my-food-by-roy-choi"/>
+    <title>L.A. Son: My Life, My City, My Food By Roy Choi</title>
+    <s:type>B S</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LASon.jpeg?v=1432665544" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Los Angeles: A patchwork megalopolis defined by its unlikely cultural collisions; the city that raised and shaped Roy Choi, the boundary-breaking chef who decided to leave behind fine dining to feed the city he loved - and, with the creation of the Korean taco, reinvented street food along the way. </p>
+<p>Abounding with both the food and the stories that gave rise to Choi's inspired cooking, L.A. Son takes us through the neighborhoods and streets most tourists never see, from the hidden casinos where gamblers slurp fragrant bowls of pho to Downtown's Jewelry District, where a ten-year-old Choi wolfed down Jewish deli classics between diamond deliveries; from the kitchen of his parents' Korean restaurant and his mother's pungent kimchi to the boulevards of East L.A. and the best taquerias in the country, to, at last, the curbside view from one of his emblematic Kogi taco trucks, where people from all walks of life line up for a revolutionary meal. </p>
+<p>Filled with over 85 inspired recipes that meld the overlapping traditions and flavors of L.A. - including Korean fried chicken, tempura potato pancakes, homemade chorizo, and Kimchi and Pork Belly Stuffed Pupusas - L.A. Son embodies the sense of invention, resourcefulness, and hybrid attitude of the city from which it takes its name, as it tells the transporting, unlikely story of how a Korean American kid went from lowriding in the streets of L.A. to becoming an acclaimed chef. </p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Hardcover, full color images </span><span style="line-height: 1.4;">with</span><span style="line-height: 1.4;"> recipes</span>
+</li>
+<li><span style="line-height: 1.4;">340 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Street Food</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648949635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>102973</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648948867</id>
+    <published>2015-05-26T14:38:55-04:00</published>
+    <updated>2015-05-26T14:38:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/letters-to-my-future-self"/>
+    <title>Letters to My Future Self</title>
+    <s:type>S G</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LettersToMyFutureSelf.jpeg?v=1432665536" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>S G<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Lea Redmond</p>
+<p>Write Now. Read Later. Treasure Forever.</p>
+<p>Give yourself the wisdom and perspective that comes with thoughtful reflection and the passage of time. Use this set of twelve creative letter writing prompts to start a conversation with your future self.</p>
+<p>What do you love right now?</p>
+<p>Where do you want to go tomorrow?</p>
+<p>What do you never want to forget?</p>
+<p>This beautifully designed paper time capsule delivers remembrance, reflection, and plenty of patience. And the innovative letter/envelope format is way more fun than a blank diary. Use it to appreciate the past, celebrate the present, and embrace the future.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">12 letter format pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Journal</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648948867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>105860</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648941251</id>
+    <published>2015-05-26T14:37:47-04:00</published>
+    <updated>2015-05-26T14:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/in-car-nito"/>
+    <title>In-car-nito</title>
+    <s:type>G G</s:type>
+    <s:vendor>Luckies of London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/InCarNito.jpeg?v=1432665468" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Luckies of London<br>
+        <strong>Type: </strong>G G<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>On the surface, just an old book about driving. It looks nice, but nothing much to see here. But – turns out this innocent looking object is in fact a storage box for stuff you sometimes can’t avoid leaving in the car like a GPS, stereo face etc. </span><strong>In-Car-Nito</strong><span> is sturdy but lightweight and extremely useful. It keeps your precious things incognito!</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Approx. 8" x 6 1/2"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648941251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>106977</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

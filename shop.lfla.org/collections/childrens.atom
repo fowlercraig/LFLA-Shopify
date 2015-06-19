@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/childrens.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-08T17:11:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/877195587</id>
+    <published>2015-06-08T17:11:00-04:00</published>
+    <updated>2015-06-08T17:11:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cooks-coloring-book"/>
+    <title>Cook&apos;s Coloring Book</title>
+    <s:type>B C</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cook_sColoring.jpg?v=1433799508" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>B C<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>For the young cook or the beginning homemaker, this recipe collection will foster confidence while building a repertoire of tasty main dishes and treats made from scratch. User-friendly, non-intimidating illustrations plus written directions guide the cook through the recipes step by step. For extra fun or to identify dishes mastered, the cook (or cook’s assistant) can color the pages to make this a personal favorite cookbook.</span></p>
+<p>Execute a perfect Mexican Omelette, stir together a One-Pot Sausage Casserole, toss a Rainbow Coleslaw, stir-fry a pan of Sweet and Savory Kale, bake a batch of Cranberry and Cinnamon Cookies, or whip up a delicious Banofee Pie. Here is a great collection of fresh recipes for learning to cook at home.</p>
+<ul>
+<li><span>Paperback coloring and cook book, sold individually</span></li>
+<li><span>144 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Coloring Book</s:tag>
+    <s:tag>Cookbook</s:tag>
+    <s:tag>Cooking</s:tag>
+    <s:tag>Kid&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/877195587</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>109060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/877177987</id>
+    <published>2015-06-08T17:10:00-04:00</published>
+    <updated>2015-06-08T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/tickle-monster"/>
+    <title>Tickle Monster</title>
+    <s:type>C B</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Standing.jpg?v=1433799093" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Josie Bissett illustrated by Kevan J. Atteberry</p>
+<p>A loveable monster with big puffy mitts has just flown in from Planet Tickle. His mission is to bring joy and laughter to Planet Earth. How? By tickling any child who happens to follow along in this book. Parents read aloud and do the tickling, while their children squirm and giggle with delight.</p>
+<ul>
+<li><span>Hardcover, 36 pages.</span></li>
+<li><span>Reading level 4 years and up.</span></li>
+<li><span>Tickle Monster hands sold separately.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Tickle Monster</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/877177987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>007104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648996355</id>
+    <published>2015-05-26T14:45:55-04:00</published>
+    <updated>2015-05-26T14:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/press-here-by-herve-tullet"/>
+    <title>Press Here by Herve Tullet</title>
+    <s:type>C B</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PressHere.jpeg?v=1432665958" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Press the yellow dot on the cover of this book, follow the instructions within, and embark upon a magical journey! Each page of this surprising book instructs the reader to press the dots, shake the pages, tilt the book, and who knows what will happen next! Children and adults alike will giggle with delight as the dots multiply, change direction, and grow in size! Especially remarkable because the adventure occurs on the flat surface of the simple, printed page, this unique picture book about the power of imagination and interactivity will provide read aloud fun for all ages!</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover, 56 pages with full color illustrations</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Herve Tullet</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648996355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>010821</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648994499</id>
+    <published>2015-05-26T14:45:39-04:00</published>
+    <updated>2015-05-26T14:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/and-then-story-starters"/>
+    <title>And Then Story Starters</title>
+    <s:type>C G</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/AndThenTemplate.jpeg?v=1432665942" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C G<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>And Then is a collection of 20 beginnings. What will the endings look like? It's up to you. Each of the cards in this box has a tantalizing start to a story you and your child will want to finish. After the And then... it's up to you to decide what happens next. Encourage self-expression, creativity, and confidence at home, on the road, or in the classroom.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">20 story starter cards</span></li>
+<li><span style="line-height: 1.4;">Ages 4 to 104</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>And Then</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648994499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>101850</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648991619</id>
+    <published>2015-05-26T14:45:16-04:00</published>
+    <updated>2015-05-26T14:45:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/press-here-the-game"/>
+    <title>Press Here: The Game</title>
+    <s:type>C G</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PressHereTheGAme.jpeg?v=1432665918" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>C G<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Herve Tullet</p>
+<p>The magic of the New York Times bestseller Press Here is now available in game form! Herve Tullet has reimagnied his groundbreaking book in an entirely new dimension. Players take turns completing color sequances by placing red, blue, and yellow playing pieces on one of twenty-five fabulously designed game boards. What seems like a simple choice is likely to lead to animated discussion as players come to understand the visual logic at the heart of the game. With two levels of play to choose from - so that it's easy enough for a toddler to grasp, but also complex enough to challenge older siblings and adults - this engaging game delivers hours of entertainment for the whole family.</p>
+<ul>
+<li>25 double-sided cards and 90 playing pieces</li>
+<li>Ages 3 and up.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Game</s:tag>
+    <s:tag>Herve Tullet</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648991619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>106618</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987907</id>
+    <published>2015-05-26T14:44:24-04:00</published>
+    <updated>2015-05-26T14:44:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/tickle-monster-gloves"/>
+    <title>Tickle Monster Gloves</title>
+    <s:type>C T</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/OpenGloves.jpeg?v=1432665867" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C T<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Parents and grandparents alike can instantly transform themselves into the Tickle Monster with these fluffy blue mitts. Poke-through finger holes make it easy to turn pages and tickle. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Accompanies Tickle Monster by Josie Bissett</span></li>
+<li><span style="line-height: 1.4;">Book sold separately</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Tickle Monster</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>007105</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648987715</id>
+    <published>2015-05-26T14:44:22-04:00</published>
+    <updated>2015-05-26T14:44:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/magnatab-uppercase-writing-tablet"/>
+    <title>Magnatab Uppercase Writing Tablet</title>
+    <s:type>C T</s:type>
+    <s:vendor>Kid O</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MagnatabEdit.jpeg?v=1432665863" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Kid O<br>
+        <strong>Type: </strong>C T<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>With the A to Z Magnetic Writing Pad learning alphabets will be exciting and fun to little ones. Kids writing their first letters will get helpful up, down, and sideways instructions with the easy-to-follow arrows. With the magnetic stylus, guide the beads along the arrows to create lines. Also helps improve fine motor skills. Erases with the tip of a finger.</div>
+<div></div>
+<div>
+<ul>
+<li><span style="line-height: 1.5;">Includes: Magnetic Board and Pen.</span></li>
+<li><span style="line-height: 1.5;">11 1/2" x 9 1/4" x 1/2". </span></li>
+<li><span style="line-height: 1.5;">Ages 3 and up.</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648987715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>008240</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982275</id>
+    <published>2015-05-26T14:43:24-04:00</published>
+    <updated>2015-05-26T14:43:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/petit-collage-wild-reading-floor-puzzle"/>
+    <title>Petit Collage Wild Reading Floor Puzzle</title>
+    <s:type>C T</s:type>
+    <s:vendor>Petitcollage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PuzzleBoxEdit.jpeg?v=1432665806" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Petitcollage<br>
+        <strong>Type: </strong>C T<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Encourage reading with this fun floor puzzle featuring wild animals reading on a bookshelf!</p>
+<ul>
+<li>Completed puzzle measures 18" x 24", individual pieces are approximately 5" squares</li>
+<li>The puzzle and box are made from recycled paper and printed with vegetable inks</li>
+<li>Ages 3 and up.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Game</s:tag>
+    <s:tag>Puzzle</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>107908</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648981827</id>
+    <published>2015-05-26T14:43:00-04:00</published>
+    <updated>2015-05-26T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/frog"/>
+    <title>Frog</title>
+    <s:type>C P</s:type>
+    <s:vendor>Yottoy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Frog.jpeg?v=1432665801" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Yottoy<br>
+        <strong>Type: </strong>C P<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created from the classic "Frog and Toad" stories by Arnold Lobel, Frog is certain to be a great gift for any young reader. </p>
+<ul>
+<li><span style="line-height: 1.4;">12" tall soft plush</span></li>
+<li>
+<span style="line-height: 1.4;">Perfect companion to </span><span style="line-height: 1.4;"></span><a href="http://shop.lfla.org/products/frog-toad-storybook-treasury" style="line-height: 1.4;">Frog and Toad Storybook Treasury</a>
+</li>
+<li>
+<span style="line-height: 1.4;">Also available: </span><span style="line-height: 1.4;"></span><a href="http://shop.lfla.org/products/toad" style="line-height: 1.4;">Toad</a>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Frog</s:tag>
+    <s:tag>Frog &amp; Toad</s:tag>
+    <s:tag>Frog and Toad</s:tag>
+    <s:tag>Plush</s:tag>
+    <s:tag>STuffed</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648981827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>108242</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648982019</id>
+    <published>2015-05-26T14:43:00-04:00</published>
+    <updated>2015-05-26T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/toad"/>
+    <title>Toad</title>
+    <s:type>C P</s:type>
+    <s:vendor>Yottoy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Toad.jpeg?v=1432665804" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Yottoy<br>
+        <strong>Type: </strong>C P<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Created from the classic "Frog and Toad" stories by Arnold Lobel, Toad is certain to be a great gift for any young reader. </p>
+<ul>
+<li><span>9" tall soft plush</span></li>
+<li>
+<span>Perfect companion to </span><span></span><a href="http://shop.lfla.org/products/frog-toad-storybook-treasury">Frog and Toad Storybook Treasury</a>
+</li>
+<li><span>Also available: <a href="http://shop.lfla.org/products/frog">Frog</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Frog &amp; Toad</s:tag>
+    <s:tag>Plush</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648982019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>108241</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648985091</id>
+    <published>2015-05-26T14:43:00-04:00</published>
+    <updated>2015-05-26T14:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/frog-toad-storybook-treasury"/>
+    <title>Frog &amp; Toad Storybook Treasury</title>
+    <s:type>C B</s:type>
+    <s:vendor>Harper Collins Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Frog_ToadBook.jpeg?v=1432665836" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Harper Collins Publishers<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Arnold Lobel</p>
+<p>Come celebrate the power of friendship with all four of the beloved Frog and Toad stories - now in one volume! Share the adventures of best friends Frog and Toad as they fly a kite, resist the temptation of cookies, and search for a lost button. No matter what kind of situation they find themselves in, one thing is certain: Frog and Toad will always be together. </p>
+<ul>
+<li>
+<span style="line-height: 1.4;">This reading collection includes:</span><em style="line-height: 1.4;"> Frog and Toad Are Friends, Frog and Toad Together, Frog and Toad All Year</em><span style="line-height: 1.4;"> and </span><em style="line-height: 1.4;">Days with Frog and Toad.</em>
+</li>
+<li><span style="line-height: 1.4;">Hardcover, illustrated</span></li>
+<li><span style="line-height: 1.4;">254 pages</span></li>
+<li>
+<span style="line-height: 1.4;">Also available: </span><a href="http://shop.lfla.org/products/frog" style="line-height: 1.4;">Frog</a><span style="line-height: 1.4;"> and </span><span style="line-height: 1.4;"></span><a href="http://shop.lfla.org/products/toad" style="line-height: 1.4;">Toad</a>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animal</s:tag>
+    <s:tag>Arnold Lobei</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Frog</s:tag>
+    <s:tag>Frog and Toad</s:tag>
+    <s:tag>Frog Toad</s:tag>
+    <s:tag>Plush</s:tag>
+    <s:tag>Storybook</s:tag>
+    <s:tag>Toad</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648985091</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>105568</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648975555</id>
+    <published>2015-05-26T14:42:43-04:00</published>
+    <updated>2015-05-26T14:42:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/baby-lit-jane-eyre"/>
+    <title>Baby Lit Jane Eyre</title>
+    <s:type>C B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/JaneEyrePage7_260fcc84-f10a-4303-94a7-a5c81be5bd39.jpeg?v=1432665765" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Spend a day with the humble governess of Thornfield Hall in </span><i id="yui_3_8_1_1_1424477770330_1526">Jane Eyre: A BabyLit Counting Primer</i><span>. Count candles, chalkboards, pearls, and books on your adventure through Mr. Rochester’s mysterious manor.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Board book, 22 pages with with full color illustrations</span></li>
+<li><span style="line-height: 1.4;">Ages 0 - 4</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Board Book</s:tag>
+    <s:tag>Bronte</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Jane Eyre</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648975555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>007444</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648970883</id>
+    <published>2015-05-26T14:42:16-04:00</published>
+    <updated>2015-05-26T14:42:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/books-by-murray-mccain-illustrated-by-john-alcorn"/>
+    <title>Books! by Murray McCain illustrated by John Alcorn</title>
+    <s:type>C B</s:type>
+    <s:vendor>Ingram Publisher Services</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Books.jpeg?v=1432665737" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ingram Publisher Services<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><em>BOOKS!</em> by Murray McCain and John Alcorn, the beloved classic children's book originally published in 1962, is now re-released for the first time in a new, large format.</p>
+<p>This 1962 The New York Times book of the year is beloved for its charming, hand-drawn illustrations, inventive typography, and sweet homage to the very nature of books themselves. The author and illustrator celebrate the importance of books in our everyday lives, through words and graphics that are all beautifully designed and printed with fluorescent inks.</p>
+<p>This sweet and nostalgic book shares the wonder of language, stories, and imagination that young children can discover through the joy of reading. In our digital age, a treasure like <em>BOOKS!</em> reminds us of how irreplaceable they truly are. This classic example of hand-drawn mid-century graphic design is sure to find renewed interest in a new generation of young readers.</p>
+<p>This is a one-of-a-kind: A wonderful book for children and grownups about books. How books are made, what they do, what people do with them. It is called <em>BOOKS!</em>Flip through it and you will see why it is likely to turn children into book-lovers and parents into <em>BOOKS!</em>lovers. Get Books! Keep Books! Give Books!</p>
+<p>Hardcover with Dust Jacket, 42 full-color pages</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648970883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>104097</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648969347</id>
+    <published>2015-05-26T14:42:10-04:00</published>
+    <updated>2015-05-26T14:42:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/what-do-you-know-bingo"/>
+    <title>What Do You Know? Bingo!</title>
+    <s:type>C T</s:type>
+    <s:vendor>Ee Boo Corp.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Bingo.jpeg?v=1432665732" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ee Boo Corp.<br>
+        <strong>Type: </strong>C T<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fossils, bugs, and shooting stars - Learn facts about this world of ours! Natural wonders are explored, as you fill your bingo board! Learn natural history and earth science facts as you play with bingo cards and pieces illustrated by Melissa Sweet.</p>
+<meta charset="utf-8">
+<ul>
+<li>Includes 6 game cards, 48 playing pieces, and cotton drawstring bag</li>
+<li><span>Made from 90% recycled gray board and printed with soy based inks</span></li>
+<li><span>Designed in the USA </span></li>
+<li><span>Ages 5 and up</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Game</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648969347</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>105387</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648965443</id>
+    <published>2015-05-26T14:41:33-04:00</published>
+    <updated>2015-05-26T14:41:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/the-jungle-book-board-book"/>
+    <title>The Jungle Book Board Book</title>
+    <s:type>C B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/JungleBookandBabyLit.jpeg?v=1432665710" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An Animals Primer by Jennifer Adams Art by Alison Oliver</p>
+<meta charset="utf-8">
+<p><span style="line-height: 1.4;"><span>Spy a sneaky snake, a lazy bear, and a proud panther before roaring like a tiger into the night. Jennifer Adam’s carefully curated quotations provide the best of Rudyard Kipling’s descriptions of Kaa, Baloo, Bagheera, Shere Khan and more while teaching little ones the characteristics of these colorful jungle animals.</span></span></p>
+<ul>
+<li><span style="line-height: 1.4;">Board Book, 20 pages</span></li>
+<li><span style="line-height: 1.4;">Ages 0-4</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Board Book</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Jungle Book</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648965443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>105441</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648960579</id>
+    <published>2015-05-26T14:40:58-04:00</published>
+    <updated>2015-05-26T14:40:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/wizard-of-oz-board-book"/>
+    <title>Wizard of Oz Board Book</title>
+    <s:type>C B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/TheWizardofOz_Babylit.jpeg?v=1432665660" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>by Jennifer Adams art by Alison Oliver</p>
+<p>There's more to the story than just lions, tigers, and bears - there are also so many colors to explore! From the wicked witch and her evil black dress, to the good witch Glinda and her bright pink socks, you'll find all of the familiar characters of Oz decked out in brilliant technicolor!</p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Board Book, </span><span style="line-height: 1.4;">22 pages</span>
+</li>
+<li><span style="line-height: 1.4;">Ages 0 - 4</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Board Book</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Wizard of Oz</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648960579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>106820</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648960323</id>
+    <published>2015-05-26T14:40:56-04:00</published>
+    <updated>2015-05-26T14:40:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-books-little-lit-tote"/>
+    <title>I Love Books Little Lit Tote</title>
+    <s:type>A B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Closeup_48ef2f84-c7c5-4d43-a4ba-5f916f531fba.jpeg?v=1432665658" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>A B<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The little ones will want to show off their love of books with this little tote too!</p>
+<ul>
+<li>Made in the USA</li>
+<li>9 1/2" x 9 1/2"</li>
+<li>5" long handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Book</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648960323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>106825</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648959683</id>
+    <published>2015-05-26T14:40:46-04:00</published>
+    <updated>2015-05-26T14:40:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/lets-play-a-game"/>
+    <title>Let&apos;s Play a Game</title>
+    <s:type>C B</s:type>
+    <s:vendor>W.W. Norton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LEt_sPlayAGame.jpeg?v=1432665648" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>W.W. Norton<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ready? Steady. Go!</p>
+<p>Get ready to play six action-packed board games! This pack includes everything you need, even a spinner and playing pieces.</p>
+<ul>
+<li><span style="line-height: 1.4;">Includes 3 double side game boards, spinner, and 6 playing pieces</span></li>
+<li><span style="line-height: 1.4;">Games are Hot Air Repair, The Rumble-fart Game, Ready, Steady, Disco, Slither and Climb, Superbuzz!, and Space Race</span></li>
+<li><span style="line-height: 1.4;">Each game is for 2 or more players</span></li>
+<li><span style="line-height: 1.4;">Ages 3 and up</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Game</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648959683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>107647</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648955779</id>
+    <published>2015-05-26T14:40:22-04:00</published>
+    <updated>2015-05-26T14:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/tin-man-little-lit-tote"/>
+    <title>Tin Man Little Lit Tote</title>
+    <s:type>A B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MyHeartBeatsforBooks.jpeg?v=1432665623" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>A B<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Does your heart beat for books? If it does you should have this adorable miniature tote!</p>
+<meta charset="utf-8">
+<ul>
+<li>Made in the USA</li>
+<li>9 1/2" x 9 1/2"</li>
+<li>5" long handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:tag>Wizard of Oz</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648955779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>109062</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648955971</id>
+    <published>2015-05-26T14:40:00-04:00</published>
+    <updated>2015-05-26T14:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/frankenstein-little-lit-tote"/>
+    <title>Frankenstein Little Lit Tote</title>
+    <s:type>A B</s:type>
+    <s:vendor>Gibbs-Smith Publishers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Closeup_1171719c-aec3-4905-a145-9c829c440d68.jpeg?v=1432665625" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Gibbs-Smith Publishers<br>
+        <strong>Type: </strong>A B<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Youngsters who read will love this Frankenstein inspired tote.</div>
+<ul>
+<li>Made in the USA</li>
+<li>9 1/2" x 9 1/2"</li>
+<li>5" long handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Lit</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Frankenstein</s:tag>
+    <s:tag>Little Tote</s:tag>
+    <s:tag>Paradise Lost</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648955971</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>109061</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648953091</id>
+    <published>2015-05-26T14:39:45-04:00</published>
+    <updated>2015-05-26T14:39:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-baby-one-piece"/>
+    <title>I Love You California Baby One-Piece</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/CalBearOnesieEdit.jpeg?v=1432665586" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Created as part of the "<a href="http://lfla.org/skla/">Songs in the Key of Los Angeles</a>" project. This adorable snap-suit is sure to show your favorite baby you love them!</p>
+<p>Image courtesy of the Los Angeles Public Library Sheet Music Collection.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% combed cotton baby onesie</span></li>
+<li><span style="line-height: 1.4;">Made in the USA, screen printed in Downtown Los Angeles.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>California</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953091</id>
+      <title>0M-6M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>102987</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953091</id>
+      <title>6M-12M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>102988</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953091</id>
+      <title>12M-18M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>102989</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648953091</id>
+      <title>18M-24M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>102990</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648951939</id>
+    <published>2015-05-26T14:39:34-04:00</published>
+    <updated>2015-05-26T14:39:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-childs-t-shirt"/>
+    <title>I Love You California Child&apos;s T-shirt</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToddlerCalBearHanging.jpeg?v=1432665575" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Created as part of the "Songs in the Key of Los Angeles" project.</p>
+<p>Image courtesy of the Los Angeles Public Library Sheet Music Collection.</p>
+<p>American Apparel 100% cotton child's t-shirt, made in the USA, screen printed in Downtown Los Angeles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparal</s:tag>
+    <s:tag>California</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>I Love You California Bear</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Songs in the Key of Los Angeles</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951939</id>
+      <title>2</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>102982</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951939</id>
+      <title>4</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>102983</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951939</id>
+      <title>6</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>102984</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951939</id>
+      <title>8</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>102985</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648951363</id>
+    <published>2015-05-26T14:39:27-04:00</published>
+    <updated>2015-05-26T14:39:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/madeline"/>
+    <title>Madeline</title>
+    <s:type>C B</s:type>
+    <s:vendor>Penguin USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MadelineandTea.jpeg?v=1432665568" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Penguin USA<br>
+        <strong>Type: </strong>C B<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Ludwig Bemelmans</p>
+<p>"In an old house in Paris, That was covered with vines, Lived twelve little girls, In two straight lines"</p>
+<p>So begins one of the best loved of all children's books. Enjoyed for its cheerful humor and rhythmic text as well as Bemelmans' famous paintings of Paris, Madeline has become a classic - loved by generation after generation. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">48 pages</span></li>
+<li><span style="line-height: 1.4;">Ages 3 - 7 </span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Children&apos;s Book</s:tag>
+    <s:tag>Madeline</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>008469</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648951171</id>
+    <published>2015-05-26T14:39:24-04:00</published>
+    <updated>2015-05-26T14:39:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/my-art"/>
+    <title>My Art</title>
+    <s:type>S J</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MyArt.jpeg?v=1432665566" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>S J<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This colorful, interactive art journal will inspire your child to create original drawings by offering easy and fun prompts. Years from now, every page will be a cherished memory of the way your child saw the world. </span><br>
+<ul>
+<li><span style="line-height: 1.5;">Softcover </span></li>
+<li><span style="line-height: 1.5;">9”H x 7”W </span></li>
+<li><span style="line-height: 1.5;">64 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art</s:tag>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648951171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>010551</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648950979</id>
+    <published>2015-05-26T14:39:22-04:00</published>
+    <updated>2015-05-26T14:39:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/my-writing"/>
+    <title>My Writing</title>
+    <s:type>C G</s:type>
+    <s:vendor>Compendium, INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/MyWriting.jpeg?v=1432665563" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Compendium, INC<br>
+        <strong>Type: </strong>C G<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This colorful, creative journal will inspire your child to create original essays by offering easy and fun prompts. Years from now, every page will be a cherished memory of the way your child saw the world. </span><br><br><span>• Softcover </span><br><span>• 9”H x 7”W </span><br><span>• 64 pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s</s:tag>
+    <s:tag>Journal</s:tag>
+    <s:tag>Writing</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648950979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>010552</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

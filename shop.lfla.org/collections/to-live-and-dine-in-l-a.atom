@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://shop.lfla.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/to-live-and-dine-in-l-a.atom"/>
+  <title>The Library Store</title>
+  <updated>2015-06-18T19:54:00-04:00</updated>
+  <author>
+    <name>The Library Store</name>
+  </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062570819</id>
+    <published>2015-06-18T19:54:00-04:00</published>
+    <updated>2015-06-18T19:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-neoprene-lunch-bag"/>
+    <title>To Live and Dine in L.A. Neoprene Lunch Bag</title>
+    <s:type>X X</s:type>
+    <s:vendor>Printglobe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineLunchBag.jpg?v=1434667773" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Printglobe<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The best way to bring your lunch? In a To Live and Dine insulated neoprene lunch sack of course! </p>
+<ul>
+<li><span style="line-height: 1.4;">9 1/2 x 7 inches with a 4 1/2 inch gusset</span></li>
+<li><span style="line-height: 1.4;">Neoprene</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>lunch</s:tag>
+    <s:tag>Lunch Bag</s:tag>
+    <s:tag>Lunch Box</s:tag>
+    <s:tag>Lunch Sack</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062570819</id>
+      <title>BLUE</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>109953</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062571331</id>
+    <published>2015-06-18T19:16:00-04:00</published>
+    <updated>2015-06-18T19:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-reusable-snack-pack"/>
+    <title>To Live and Dine in L.A. Reusable Snack Pack</title>
+    <s:type>X X</s:type>
+    <s:vendor>Printglobe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineSnackPack.jpg?v=1434669408" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Printglobe<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replace your need for plastic baggies with this reusable snack pack. Cart anything from a sandwich to chips and put less in the landfills.</p>
+<ul>
+<li>
+<span style="line-height: 1.4;">Exterior is made from recycled bottles and </span><span style="line-height: 1.4;">organic cotton</span>
+</li>
+<li><span style="line-height: 1.4;">Interior is made from nylon</span></li>
+<li><span style="line-height: 1.4;">7 1/4 x 5 3/4 inches</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Reusable</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062571331</id>
+      <title>GREEN</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>109956</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804272195</id>
+    <published>2015-06-18T18:40:00-04:00</published>
+    <updated>2015-06-18T18:40:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-coaster-set"/>
+    <title>To Live and Dine in L.A. Coaster Set</title>
+    <s:type>X X</s:type>
+    <s:vendor>4imprint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L_DCoasterSet.jpg?v=1434666878" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>4imprint<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specially made to accompany To Live and Dine in L.A., this set of 6 cork coasters will keep your favorite furniture dry. Each set contains two each of three different coasters created from menus in the collection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coaster</s:tag>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804272195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>109879</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062570243</id>
+    <published>2015-06-18T18:18:00-04:00</published>
+    <updated>2015-06-18T18:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-grocery-tote"/>
+    <title>To Live and Dine in L.A. Grocery Tote</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/L_DTote.jpg?v=1434662110" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An extra large tote to cart all your farmers market or grocery store goods.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% Cotton</span></li>
+<li><span style="line-height: 1.4;">21 x 14 inches with 4 1/2 inch gusset and 9 1/2 inch handles</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+<li><span style="line-height: 1.4;">Printed in Downtown Los Angeles</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:tag>Tote</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062570243</id>
+      <title>NAVY</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>109944</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938179</id>
+    <published>2015-06-05T17:46:00-04:00</published>
+    <updated>2015-06-05T17:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a-cocktail-napkins"/>
+    <title>To Live and Dine in L.A. Cocktail Napkins</title>
+    <s:type>X X</s:type>
+    <s:vendor>For Your Party</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PackagedLiveandDineNapkins.jpg?v=1433537700" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>For Your Party<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect for hosting, this set of 20 cocktail napkins are sure to be a conversation starter.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>109866</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273219</id>
+    <published>2015-06-05T16:49:00-04:00</published>
+    <updated>2015-06-05T16:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-flask"/>
+    <title>To Live and Dine in L.A. Flask</title>
+    <s:type>X X</s:type>
+    <s:vendor>Tote &amp; Able</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LiveandDineFlask2.jpg?v=1433530321" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Tote &amp; Able<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This <strong>To Live and Dine in L.A.</strong> flask will tuck into your purse, backpack, or back pocket. Just remove the shot glass, pour yourself a sip, and sit back and enjoy. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Cotton canvas flask with BPA free, leak proof and airtight liner.</span></li>
+<li><span style="line-height: 21px;">1 oz. aluminum shot glass</span></li>
+<li><span style="line-height: 1.4;">Holds 4 oz.</span></li>
+<li><span style="line-height: 1.4;">Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottle</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>Flask</s:tag>
+    <s:tag>L.A.</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>109883</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/648938115</id>
+    <published>2015-06-04T21:28:00-04:00</published>
+    <updated>2015-06-04T21:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-dine-in-l-a-bib"/>
+    <title>To Live and Dine in L.A. Bib</title>
+    <s:type>X X</s:type>
+    <s:vendor>Ultimate Shirt Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineBib.jpg?v=1433465177" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Ultimate Shirt Co.<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect accessory for the infant foodie.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% cotton</span></li>
+<li><span style="line-height: 1.4;">Printed in Los Angeles</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>Bib</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibit</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Infant</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/648938115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>109912</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/804273923</id>
+    <published>2015-06-04T14:41:00-04:00</published>
+    <updated>2015-06-04T14:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/to-live-and-dine-in-l-a"/>
+    <title>To Live and Dine in L.A.</title>
+    <s:type>X X</s:type>
+    <s:vendor>Library Foundation of LA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ToLiveandDineinLA.jpg?v=1433443141" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Library Foundation of LA<br>
+        <strong>Type: </strong>X X<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Menus And The Making of the Modern City</p>
+<p>by Josh Kun</p>
+<p>How did Los Angeles become the modern city the world watches? We know some of the answers all too well. Sunshine. Railroads. Hollywood. Freeways. But there's another often overlooked but especially delicious and revealing factor: food.</p>
+<p>Think veggie tacos and designer pizzas, hot dogs on sticks and burgers from golden arches, Cobb Salads and chocolate-topped ice cream sundaes, not to mention the healthiest dishes on the planet. Ask anyone who has eaten in L.A.- the city shapes the tastes that predict how America eats. And it always has. </p>
+<p>In its fourth book collaboration with the Los Angeles Public Library and the Library Foundation of Los Angeles, Angel City Press releases <strong>To Live and Dine in L.A.: Menus and the Making of the Modern City</strong> by Josh Kun. With more than 200 menus - some dating back to the nineteenth century - culled from thousands in the Menu Collection of the Los Angeles Public Library, <strong>To Live and Dine in L.A.</strong> is a visual feast of a book. </p>
+<p>But it's more. Much more. </p>
+<p>In this detailed history, author Josh Kun riffs on what the food of a foodie city says about place and time; how some people eat big while others go hungry, and what that says about the past and <em>now</em>. Kun turns to chefs and cultural observers for their take on modern: Chef Roy Choi sits down long enough to say why he writes "some weird-ass menus." Pulitzer Prize-winning critic Jonathan Gold looks at food as theater, and museum curator Staci Steinberger considers the design of classic menus like Lawry's. Restauranteur Bricia Lopez follows a Oaxacan menu into the heart of Koreatown.</p>
+<p>The city's leading chefs remix vintage menus with a 21st-century spin: Joachim Splichal, Nancy Silverton, Susan Feniger, Ricardo Diaz, Jazz Singsanong, Cynthia Hawkins, Micah Wexler, Ramiro Arvizu and Jaime Martin del Campo cook up the past with new flavors. And, of course, the menus delight: Tick Tock Tea Room, Brown Derby, Trumps, Slapsy Maxie's, Don the Beachcomber, and scores more. </p>
+<p>Kun tackles the timely and critically important topic of food justice, an shows how vintage menus teach us about more than just what's tasty, and serve as guides to the politics, economics, and sociology of eating. </p>
+<p>America is a dining-out nation, and our research indicates that L.A. has long been one of its top dining-out towns. The Library's collection is a living repository of meals past, an archive of urban eating that tells us about the changing historical role of food in the city, which is to say it tells us about just about everything that food touches: economics, culture, taste, race, politics, architecture, class, design, industry, gender, to name just some of the themes that recur on menu pages. </p>
+<p>Kun challenged contributors to tackle subjects that readers may have not contemplated. As the renowned L.A. chef Roy Choi points out in his Forward to <strong>To Live and Dine in L.A.</strong>:</p>
+<p style="padding-left: 60px;">The more I looked at the menus, the more they told me about the city and how neighborhoods developed. But it was the menus that I couldn't find that forced me to ask questions about how life really was. I started to think about how the city is now and if those missing menus were a reflection of life just as it is now. Were these menus of the affluent and middle-class? Were the working classes even eating with menus, or were they mostly eating at stand and carts? Were there disparities and access problems just like today?</p>
+<ul>
+<li><span style="line-height: 1.4;">224 pages, full color throughout</span></li>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dine</s:tag>
+    <s:tag>Exhibition</s:tag>
+    <s:tag>Josh Kun</s:tag>
+    <s:tag>LA</s:tag>
+    <s:tag>LAPL</s:tag>
+    <s:tag>Live</s:tag>
+    <s:tag>Live &amp; Dine</s:tag>
+    <s:tag>Los Angeles</s:tag>
+    <s:tag>Menu</s:tag>
+    <s:tag>Menu Collection</s:tag>
+    <s:tag>To Live and Dine</s:tag>
+    <s:tag>To Live and Dine in LA</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/804273923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>109890</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

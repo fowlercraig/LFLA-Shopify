@@ -7,6 +7,47 @@
     margin-top: -25px;
   }
 
+  &#store-bar {
+
+    margin-bottom: 0;
+
+    &-mobile {
+
+      position: relative;
+      max-height: 0;
+      transition: 300ms ease;
+      overflow:hidden;
+      position: absolute;
+      background: @white;
+      width: 100%;
+
+      &.active {
+        max-height: 500px;
+        border-bottom: 0;
+        box-shadow: 0 1px 1px @black25;
+        z-index: 99;
+      }
+
+      @media @min {
+        li {
+          display: block;
+          height: 45px;
+          line-height: 45px;
+          a {
+            height: 25px;
+            line-height: 25px;
+          }
+        }
+      }
+
+      @media @desktop {
+        display: none;
+      }
+
+    }
+
+  }
+
   &.stuck {
 
     position: fixed;

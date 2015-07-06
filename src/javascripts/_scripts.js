@@ -2,6 +2,18 @@ $( document ).ready(function() {
 
   function scripts(){
 
+    $('#menu-toggle').hover(function(){
+      $("#store-bar-mobile").addClass('active');
+    });
+
+    $('#store-slider').hover(function(){
+      $("#store-bar-mobile").removeClass('active');
+    });
+
+    $.shifter({
+      maxWidth: '960px'
+    });
+
     $(".royalslider").royalSlider({
       keyboardNavEnabled: true,
       imageScaleMode : 'fill',

@@ -1,18 +1,17 @@
 <div id="store-bar" class="toolbar">
   <div class="row">
-    <div class="max-10 desktop-10 tablet-6 mobile-3">
+    <div class="max-9 desktop-9 tablet-3 mobile-2 min-2">
       <ul class="nav sf-menu">
-      <li>
-        <a href="/" class="title">The Library Store</a>
-      </li>
+      <li><a href="/" class="title">The Library Store</a></li>
+      <li class="show-mobile"><a id="menu-toggle" href="collections.html" class="site-nav__link">Menu</a></li>
       {% for link in linklists.main-menu.links %}
-      <li {% if link.active %}class="current-menu-item"{% endif %}>
+      <li class="hide-mobile{% if link.active %} current-menu-item {% endif %}">
         <a href="{{ link.url }}" class="site-nav__link">{{ link.title }}</a>
       </li>
       {% endfor %}
       </ul>
     </div>
-    <div class="max-2 desktop-2 tablet-2 mobile-3 text-right">
+    <div class="max-3 desktop-3 tablet-3 mobile-1 min-1 text-right">
       <ul class="nav">
         <li class="cart">
           <a href="/search" class="search ss-search ss-gizmo"></a> | 
@@ -22,6 +21,18 @@
             {{ 'layout.cart.items_count' | t: count: cart.item_count }}
           </a>
         </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="store-bar-mobile" class="toolbar">
+  <div class="row">
+    <div class="desktop-12 tablet-6 mobile-3">
+      <ul class="nav sf-menu">
+      {% for link in linklists.main-menu.links %}
+      <li {% if link.active %}class="current-menu-item"{% endif %}><a href="{{ link.url }}" class="site-nav__link">{{ link.title }}</a></li>
+      {% endfor %}
       </ul>
     </div>
   </div>

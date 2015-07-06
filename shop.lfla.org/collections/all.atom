@@ -4,10 +4,186 @@
   <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
   <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/all.atom"/>
   <title>The Library Store</title>
-  <updated>2015-06-19T15:34:00-04:00</updated>
+  <updated>2015-06-23T20:25:00-04:00</updated>
   <author>
     <name>The Library Store</name>
   </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062671427</id>
+    <published>2015-06-23T20:25:00-04:00</published>
+    <updated>2015-06-23T20:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/dead-to-me"/>
+    <title>Dead to Me</title>
+    <s:type>B S</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DeadtoMeMaryMcCoy.jpg?v=1435104670" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Mary McCoy</p>
+<p>"Don't believe anything they say." Those were the last words that Annie spoke to Alice before turning her back on their family and vanishing without a trace. Alice spent four years waiting and wondering when the impossibly glamorous sister she idolized would return to her - and what their Hollywood-insider parents had done to drive her away.</p>
+<p>When Annie does turn up, the blond, broken stranger lying in a coma has no answers for her. But Alice isn't a kid anymore, and this time she won't let anything stand between her and the truth, no matter how ugly. The search for those who beat Annie and left her for dead leads Alice into a treacherous world of tough-talking private eyes, psychopathic movie stars, and troubled starlets - and onto the trail of a runaway who is the sole witness to an unspeakable crime. What this girl knows could shut down a criminal syndicate and put Annie's attacker behind bars - if Alice can find the witness first. And she isn't the only one looking...</p>
+<p>Evoking classic film noir, debut novelist Mary McCoy brings the dangerous glamour of Hollywood's golden age to life, where the most decadent parties and be the deadliest, and no drive into the sunset can erase the crimes of the past. </p>
+<p>Mary McCoy is the Senior Librarian at Teen'Scape, the young adult department at our very own Los Angeles Public Library.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">297 pages</span></li>
+<li><span style="line-height: 1.4;">Autographed</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062671427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>109338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062673795</id>
+    <published>2015-06-23T19:37:00-04:00</published>
+    <updated>2015-06-23T19:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cutie-critter-gel-pen-set"/>
+    <title>Cutie Critter Gel Pen Set</title>
+    <s:type>S S</s:type>
+    <s:vendor>International Arrivals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cutiecritters.jpg?v=1435102566" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>International Arrivals<br>
+        <strong>Type: </strong>S S<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute animal gel pens? We got ‘em. Cutie Critters Gel Pens is a set of 4 wildly fun colored gel pens with animal designs. What do Cutie Critters says? “Baa,” Squeak,” “Grrr,” and we’re not so sure about the fox. Each animal gel pen writes in different colors (Purple Sheep, Blue Mouse, Pink Bear and Orange Fox). And you’ll be writing fine notes and drawings because Cutie Critters have a 0.7mm tip for super fine and super smooth gel ink action. Cutie Critters are great for school or making your office space fun.</p>
+<ul>
+<li><span style="line-height: 1.4;">Colors Include Purple, Blue, Pink and Orange</span></li>
+<li><span style="line-height: 1.4;">0.7mm Fine Tip for Detailed Writing and Drawing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel Pen</s:tag>
+    <s:tag>pen</s:tag>
+    <s:tag>Pens</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062673795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>109954</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062672259</id>
+    <published>2015-06-23T18:49:00-04:00</published>
+    <updated>2015-06-23T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cutensils-gel-pen-set"/>
+    <title>Cutensils Gel Pen Set</title>
+    <s:type>S S</s:type>
+    <s:vendor>International Arrivals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cutensils.jpg?v=1435099376" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>International Arrivals<br>
+        <strong>Type: </strong>S S<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cutensils Gel Pens are a set of two black ink gel pens shaped like a spork and a spoon, that winks at you. Also they’re the finest utensil inspired gel pens around meaning that they really do write fine with their 0.7mm fine tip point; so you can write in small detail.</p>
+<ul>
+<li><span style="line-height: 1.4;">Black ink</span></li>
+<li><span style="line-height: 1.4;">0.7 mm Nib</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel Pen</s:tag>
+    <s:tag>pen</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062672259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>109654</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062674307</id>
+    <published>2015-06-22T15:04:00-04:00</published>
+    <updated>2015-06-22T15:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/in-the-unlikely-event"/>
+    <title>In the Unlikely Event</title>
+    <s:type>B S</s:type>
+    <s:vendor>Baker and Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/IntheUnlikelyEvent.jpg?v=1434999796" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Baker and Taylor<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In 1987, Miri Ammerman returns to her hometown of Elizabeth, New Jersey, to attend a commemoration of the worst year of her life.</p>
+<p>Thirty-five years earlier, when Miri was fifteen, and in love for the first time, a succession of airplanes fell from the sky, leaving a community reeling. Against this backdrop of actual events in the early 1950s, when airline travel was new and exciting and everyone dreamed of going somewhere, Judy Blume imagines and weaves together a haunting story of three generations of families, friends, and strangers, whose lives are profoundly changed by these disasters. She paints a vivid portrait of a particular time and place - Nat King Cole singing "Unforgettable," Elizabeth Taylor haircuts, young (and not-so-young) love, explosive friendships, A-bomb hysteria, rumors of Communist threat. And a young journalist who makes his name reporting tragedy. Through it all, one generation reminds another that life goes on. </p>
+<p>In the Unlikely Event is a gripping novel with all the hallmarks of Judy Blume's unparalleled storytelling. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">Signed Bookplate</span></li>
+<li><span style="line-height: 1.4;">416 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Judy Blume</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062674307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>109959</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
   <entry>
     <id>http://shop.lfla.org/products/1062673155</id>
     <published>2015-06-19T15:34:00-04:00</published>
@@ -382,8 +558,8 @@
   </entry>
   <entry>
     <id>http://shop.lfla.org/products/1041027971</id>
-    <published>2015-06-16T21:10:40-04:00</published>
-    <updated>2015-06-16T21:10:40-04:00</updated>
+    <published>2015-06-16T21:10:00-04:00</published>
+    <updated>2015-06-16T21:10:00-04:00</updated>
     <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/reading-is-sexy-mug"/>
     <title>Reading is Sexy Mug</title>
     <s:type>G C</s:type>
@@ -391,7 +567,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="#" /></td>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ReadingisSexyMugCloseupEdit.jpg?v=1435000031" /></td>
     <td valign="bottom">
       <p>
         <strong>Vendor: </strong>buyolympia.com<br>
@@ -402,17 +578,27 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"></td>
+    <td colspan="2"><p>You've seen the pin, the magnet, even the sticker, so here's the mug! Made from 100% corn plastic, it's not dish washer safe but, it's saving the environment one cup of coffee (or tea) at a time.</p>
+<ul>
+<li><span style="line-height: 1.4;">100% corn plastic, BPA free</span></li>
+<li><span style="line-height: 1.4;">Microwave safe</span></li>
+<li><span style="line-height: 1.4;">Hand wash only</span></li>
+<li><span style="line-height: 1.4;">10.5 ounces</span></li>
+</ul>
+<p> </p></td>
   </tr>
 </table>
 ]]>
     </summary>
+    <s:tag>Reading</s:tag>
+    <s:tag>Reading is Sexy</s:tag>
+    <s:tag>Sarah Utter</s:tag>
     <s:variant>
       <id>http://shop.lfla.org/products/1041027971</id>
       <title>Default Title</title>
       <s:price currency="USD">14.00</s:price>
       <s:sku>003781</s:sku>
-      <s:grams>0</s:grams>
+      <s:grams>907</s:grams>
     </s:variant>
   </entry>
   <entry>
@@ -720,7 +906,7 @@
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1433543250" /></td>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/LAPLMugs.jpg?v=1435258813" /></td>
     <td valign="bottom">
       <p>
         <strong>Vendor: </strong>MP Barcelona<br>
@@ -1024,193 +1210,6 @@
       <s:price currency="USD">13.95</s:price>
       <s:sku>108889</s:sku>
       <s:grams>454</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>http://shop.lfla.org/products/648987075</id>
-    <published>2015-06-03T16:07:00-04:00</published>
-    <updated>2015-06-03T16:07:00-04:00</updated>
-    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespearean-insult-bandages"/>
-    <title>Shakespearean Insult Bandages</title>
-    <s:type>G G</s:type>
-    <s:vendor>Accoutrements</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareInsultBandages.jpg?v=1433291822" /></td>
-    <td valign="bottom">
-      <p>
-        <strong>Vendor: </strong>Accoutrements<br>
-        <strong>Type: </strong>G G<br>
-        <strong>Price: </strong>
-            6.95
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p>Add insult to injury with Shakespearean Insult Bandages. Each bandage is printed with a picture and insulting quote. </p>
-<ul>
-<li>
-<span style="line-height: 1.4;">Fifteen </span><span style="line-height: 1.4;">1 x 3</span><span style="line-height: 1.4;"> inch bandages</span>
-</li>
-<li>
-<span style="line-height: 1.4;">Decorative ti</span><span style="line-height: 1.4;">n box</span>
-</li>
-</ul>
-<p> </p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:tag>Bandages</s:tag>
-    <s:tag>classic</s:tag>
-    <s:tag>Classic Literature</s:tag>
-    <s:tag>Insult</s:tag>
-    <s:tag>Literature</s:tag>
-    <s:tag>Shakespeare</s:tag>
-    <s:tag>Shakespearean Insult</s:tag>
-    <s:tag>William</s:tag>
-    <s:tag>William Shakespeare</s:tag>
-    <s:variant>
-      <id>http://shop.lfla.org/products/648987075</id>
-      <title>Default Title</title>
-      <s:price currency="USD">6.95</s:price>
-      <s:sku>101030</s:sku>
-      <s:grams>454</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>http://shop.lfla.org/products/648938499</id>
-    <published>2015-06-02T20:21:00-04:00</published>
-    <updated>2015-06-02T20:21:00-04:00</updated>
-    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/shakespeare-candy"/>
-    <title>Shakespeare Candy</title>
-    <s:type>G F</s:type>
-    <s:vendor>Accoutrements</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/ShakespeareCandy.jpg?v=1433290327" /></td>
-    <td valign="bottom">
-      <p>
-        <strong>Vendor: </strong>Accoutrements<br>
-        <strong>Type: </strong>G F<br>
-        <strong>Price: </strong>
-            7.95
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p>The next time you reach for the collected works of William Shakespeare, you might be surprised to find that it's full of candy! This clever, tiny book is full of lemon-flavored candy decorated with the Bard's face! Any sweet tooth with a dramatic bent (and English majors) will appreciate the hard candy hidden inside. The package looks great on a bookshelf with other books or backstage when you're performing the "The Scottish Play."</p>
-<p>3.3 oz of lemon flavor hard candy</p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:tag>archie mcphee</s:tag>
-    <s:tag>Candy</s:tag>
-    <s:tag>classic</s:tag>
-    <s:tag>Classic Literature</s:tag>
-    <s:tag>lemon</s:tag>
-    <s:tag>Literature</s:tag>
-    <s:tag>Shakespeare</s:tag>
-    <s:tag>William</s:tag>
-    <s:tag>William Shakespeare</s:tag>
-    <s:variant>
-      <id>http://shop.lfla.org/products/648938499</id>
-      <title>Default Title</title>
-      <s:price currency="USD">7.95</s:price>
-      <s:sku>109563</s:sku>
-      <s:grams>454</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>http://shop.lfla.org/products/648938307</id>
-    <published>2015-06-02T19:17:00-04:00</published>
-    <updated>2015-06-02T19:17:00-04:00</updated>
-    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/no-1-pencil-little-notes"/>
-    <title>No. 1 Pencil Little Notes</title>
-    <s:type>S D</s:type>
-    <s:vendor>E. Frances Paper</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PencilNotes.jpg?v=1433285943" /></td>
-    <td valign="bottom">
-      <p>
-        <strong>Vendor: </strong>E. Frances Paper<br>
-        <strong>Type: </strong>S D<br>
-        <strong>Price: </strong>
-            13.95
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p>These sweet Little Notes are the perfect thing to send surprise hellos, pocket notes, and lunchbox love. </p>
-<p>Use unsparingly. </p>
-<ul>
-<li><span style="line-height: 1.4;">Set of 85 little notes</span></li>
-<li><span style="line-height: 1.4;">2 x 3 1/2 inches</span></li>
-<li><span style="line-height: 1.4;">Made in the USA</span></li>
-</ul></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:tag>Boxed Cards</s:tag>
-    <s:tag>E. Frances Paper</s:tag>
-    <s:tag>Notecards</s:tag>
-    <s:tag>Paper</s:tag>
-    <s:tag>Pencil</s:tag>
-    <s:tag>Stationery</s:tag>
-    <s:variant>
-      <id>http://shop.lfla.org/products/648938307</id>
-      <title>Default Title</title>
-      <s:price currency="USD">13.95</s:price>
-      <s:sku>109855</s:sku>
-      <s:grams>454</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>http://shop.lfla.org/products/648938371</id>
-    <published>2015-06-02T14:34:00-04:00</published>
-    <updated>2015-06-02T14:34:00-04:00</updated>
-    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/i-love-you-california-pint-glass"/>
-    <title>I Love You California Pint Glass</title>
-    <s:type>G C</s:type>
-    <s:vendor>SF Mercantile</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/PintGlass.jpg?v=1433269717" /></td>
-    <td valign="bottom">
-      <p>
-        <strong>Vendor: </strong>SF Mercantile<br>
-        <strong>Type: </strong>G C<br>
-        <strong>Price: </strong>
-            11.95
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p>The best way to enjoy your beverage? In a pint glass that has your favorite bear on it of course!</p>
-<p>Hand wash only</p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:tag>Bear</s:tag>
-    <s:tag>California</s:tag>
-    <s:tag>Cooking</s:tag>
-    <s:tag>Glass</s:tag>
-    <s:tag>I Love You California Bear</s:tag>
-    <s:tag>Vintage</s:tag>
-    <s:variant>
-      <id>http://shop.lfla.org/products/648938371</id>
-      <title>Default Title</title>
-      <s:price currency="USD">11.95</s:price>
-      <s:sku>109665</s:sku>
-      <s:grams>1814</s:grams>
     </s:variant>
   </entry>
 </feed>

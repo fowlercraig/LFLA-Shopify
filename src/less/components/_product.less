@@ -4,7 +4,14 @@
 
   #product-info {
 
-    margin-top: 80px;
+    @media @min {
+      margin-top: 20px;
+    }
+
+    @media @desktop {
+      margin-top: 80px;  
+    }
+    
 
     .button {
 
@@ -162,19 +169,29 @@
   height: 100%;
 
   >.row {
-    height: 100%;
-    display: table;
+    @media @desktop {
+      height: 100%;
+      display: table;
+    }
+    
 
     #product-info {
-      display: table-cell;
-      vertical-align: middle;
-      float: none;
+      @media @desktop {
+        display: table-cell;
+        vertical-align: middle;
+        float: none;
+      }
+      
     }
   }
 
-  @media @mobileC {
+  @media @min {
     position: relative;
-    text-align: center;
+    //padding-top: 25px;
+  }
+  @media @desktop {
+    padding-top: 0;
+    position: absolute;
   }
 }
 

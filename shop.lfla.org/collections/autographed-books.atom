@@ -4,10 +4,100 @@
   <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
   <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/autographed-books.atom"/>
   <title>The Library Store</title>
-  <updated>2015-06-15T20:45:00-04:00</updated>
+  <updated>2015-06-23T20:25:00-04:00</updated>
   <author>
     <name>The Library Store</name>
   </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062671427</id>
+    <published>2015-06-23T20:25:00-04:00</published>
+    <updated>2015-06-23T20:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/dead-to-me"/>
+    <title>Dead to Me</title>
+    <s:type>B S</s:type>
+    <s:vendor>Hachette Book Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/DeadtoMeMaryMcCoy.jpg?v=1435104670" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Hachette Book Group<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>by Mary McCoy</p>
+<p>"Don't believe anything they say." Those were the last words that Annie spoke to Alice before turning her back on their family and vanishing without a trace. Alice spent four years waiting and wondering when the impossibly glamorous sister she idolized would return to her - and what their Hollywood-insider parents had done to drive her away.</p>
+<p>When Annie does turn up, the blond, broken stranger lying in a coma has no answers for her. But Alice isn't a kid anymore, and this time she won't let anything stand between her and the truth, no matter how ugly. The search for those who beat Annie and left her for dead leads Alice into a treacherous world of tough-talking private eyes, psychopathic movie stars, and troubled starlets - and onto the trail of a runaway who is the sole witness to an unspeakable crime. What this girl knows could shut down a criminal syndicate and put Annie's attacker behind bars - if Alice can find the witness first. And she isn't the only one looking...</p>
+<p>Evoking classic film noir, debut novelist Mary McCoy brings the dangerous glamour of Hollywood's golden age to life, where the most decadent parties and be the deadliest, and no drive into the sunset can erase the crimes of the past. </p>
+<p>Mary McCoy is the Senior Librarian at Teen'Scape, the young adult department at our very own Los Angeles Public Library.</p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">297 pages</span></li>
+<li><span style="line-height: 1.4;">Autographed</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Young Adult</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062671427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>109338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062674307</id>
+    <published>2015-06-22T15:04:00-04:00</published>
+    <updated>2015-06-22T15:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/in-the-unlikely-event"/>
+    <title>In the Unlikely Event</title>
+    <s:type>B S</s:type>
+    <s:vendor>Baker and Taylor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/IntheUnlikelyEvent.jpg?v=1434999796" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Baker and Taylor<br>
+        <strong>Type: </strong>B S<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In 1987, Miri Ammerman returns to her hometown of Elizabeth, New Jersey, to attend a commemoration of the worst year of her life.</p>
+<p>Thirty-five years earlier, when Miri was fifteen, and in love for the first time, a succession of airplanes fell from the sky, leaving a community reeling. Against this backdrop of actual events in the early 1950s, when airline travel was new and exciting and everyone dreamed of going somewhere, Judy Blume imagines and weaves together a haunting story of three generations of families, friends, and strangers, whose lives are profoundly changed by these disasters. She paints a vivid portrait of a particular time and place - Nat King Cole singing "Unforgettable," Elizabeth Taylor haircuts, young (and not-so-young) love, explosive friendships, A-bomb hysteria, rumors of Communist threat. And a young journalist who makes his name reporting tragedy. Through it all, one generation reminds another that life goes on. </p>
+<p>In the Unlikely Event is a gripping novel with all the hallmarks of Judy Blume's unparalleled storytelling. </p>
+<ul>
+<li><span style="line-height: 1.4;">Hardcover</span></li>
+<li><span style="line-height: 1.4;">Signed Bookplate</span></li>
+<li><span style="line-height: 1.4;">416 pages</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autographed</s:tag>
+    <s:tag>Judy Blume</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062674307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>109959</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
   <entry>
     <id>http://shop.lfla.org/products/804266755</id>
     <published>2015-06-15T20:45:00-04:00</published>

@@ -45,7 +45,7 @@
 
 <body class="gridlock {{ page.handle }}  {{ template }} ">
 
-  <div id="wrapper">
+  <div id="wrapper" class="shifter-page">
 
     {% include 'header' %}
 
@@ -114,6 +114,32 @@
   </div>
 
   <!--End mc_embed_signup-->
+  <nav class="shifter-navigation">
+    <div class="main-nav">
+      <h4>Navigation</h4>
+      <a href="{{ mainURL }}">Home</a>
+      <a href="{{ mainURL }}about/">About</a>
+      <a href="{{ mainURL }}what-we-fund/">What We Fund</a>
+      <a href="{{ mainURL }}support-us/">Support Us</a>
+      <a href="{{ mainURL }}calendar/category/aloud/">ALOUD</a>
+      <a href="{{ mainURL }}/calendar">Calendar</a>
+      <a href="http://shop.lfla.org">The Library Store</a>
+      <a href="{{ mainURL }}/cart">Cart</a>
+      <a href="{{ mainURL }}/blog/">Blog</a>
+      <a href="#" class="search"><i class="ss-gizmo ss-icon">search</i></a>
+      <h4>Support Us</h4>
+      <a href="<?php echo get_the_permalink(299); ?>">Donate</a>
+      <a href="<?php echo get_the_permalink(289); ?>">Join the LFLA</a>
+      <h4>Follow Us</h4>
+      <div class="social-icons">
+        <a href="#"><i class="ss-icon ss-social-circle">Facebook</i></a>
+        <a href="#"><i class="ss-icon ss-social-circle">Twitter</i></a>
+        <a href="#"><i class="ss-icon ss-social-circle">Instagram</i></a>
+        <a href="#"><i class="ss-icon ss-social-circle">Flickr</i></a>
+        <a href="#"><i class="ss-icon ss-social-circle">Vimeo</i></a>
+      </div>
+    </div>
+  </nav>
 
   {{ 'timber.js' | asset_url | script_tag }}
   {{ 'main.min.js' | asset_url | script_tag }}

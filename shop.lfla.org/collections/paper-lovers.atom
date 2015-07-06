@@ -4,10 +4,96 @@
   <link rel="alternate" type="text/html" href="http://shop.lfla.org/collections/all"/>
   <link rel="self" type="application/atom+xml" href="http://shop.lfla.org/collections/paper-lovers.atom"/>
   <title>The Library Store</title>
-  <updated>2015-06-08T17:45:00-04:00</updated>
+  <updated>2015-06-23T19:37:00-04:00</updated>
   <author>
     <name>The Library Store</name>
   </author>
+  <entry>
+    <id>http://shop.lfla.org/products/1062673795</id>
+    <published>2015-06-23T19:37:00-04:00</published>
+    <updated>2015-06-23T19:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cutie-critter-gel-pen-set"/>
+    <title>Cutie Critter Gel Pen Set</title>
+    <s:type>S S</s:type>
+    <s:vendor>International Arrivals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cutiecritters.jpg?v=1435102566" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>International Arrivals<br>
+        <strong>Type: </strong>S S<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute animal gel pens? We got ‘em. Cutie Critters Gel Pens is a set of 4 wildly fun colored gel pens with animal designs. What do Cutie Critters says? “Baa,” Squeak,” “Grrr,” and we’re not so sure about the fox. Each animal gel pen writes in different colors (Purple Sheep, Blue Mouse, Pink Bear and Orange Fox). And you’ll be writing fine notes and drawings because Cutie Critters have a 0.7mm tip for super fine and super smooth gel ink action. Cutie Critters are great for school or making your office space fun.</p>
+<ul>
+<li><span style="line-height: 1.4;">Colors Include Purple, Blue, Pink and Orange</span></li>
+<li><span style="line-height: 1.4;">0.7mm Fine Tip for Detailed Writing and Drawing</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel Pen</s:tag>
+    <s:tag>pen</s:tag>
+    <s:tag>Pens</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062673795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>109954</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>http://shop.lfla.org/products/1062672259</id>
+    <published>2015-06-23T18:49:00-04:00</published>
+    <updated>2015-06-23T18:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://shop.lfla.org/products/cutensils-gel-pen-set"/>
+    <title>Cutensils Gel Pen Set</title>
+    <s:type>S S</s:type>
+    <s:vendor>International Arrivals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0877/4476/products/Cutensils.jpg?v=1435099376" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>International Arrivals<br>
+        <strong>Type: </strong>S S<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cutensils Gel Pens are a set of two black ink gel pens shaped like a spork and a spoon, that winks at you. Also they’re the finest utensil inspired gel pens around meaning that they really do write fine with their 0.7mm fine tip point; so you can write in small detail.</p>
+<ul>
+<li><span style="line-height: 1.4;">Black ink</span></li>
+<li><span style="line-height: 1.4;">0.7 mm Nib</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gel Pen</s:tag>
+    <s:tag>pen</s:tag>
+    <s:tag>Stationery</s:tag>
+    <s:variant>
+      <id>http://shop.lfla.org/products/1062672259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>109654</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
   <entry>
     <id>http://shop.lfla.org/products/864337219</id>
     <published>2015-06-08T17:45:00-04:00</published>

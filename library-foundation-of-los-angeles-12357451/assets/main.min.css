@@ -2849,6 +2849,26 @@ img.rsImg {
 .button:hover {
   border-color: #999999;
 }
+@media screen and (min-width: 300px) {
+  .hide-mobile {
+    display: none;
+  }
+}
+@media screen and (min-width: 980px) {
+  .hide-mobile {
+    display: inline-block;
+  }
+}
+@media screen and (min-width: 300px) {
+  .show-mobile {
+    display: inline-block;
+  }
+}
+@media screen and (min-width: 980px) {
+  .show-mobile {
+    display: none;
+  }
+}
 /*---------------------------
   Transitions
 ---------------------------*/
